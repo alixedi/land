@@ -1,6 +1,6 @@
 ---
 layout: app
-title: Car Theory Untangled
+title: Driving Theory Untangled
 permalink: /car/
 icon: /assets/uploads/car-icon.png
 color: "#45a490"
