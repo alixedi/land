@@ -10,7 +10,7 @@ banner:
   subtitle: " 1000<u>carefully prepared Questions</u> covering the Official
     Handbook with <u>clever strategies</u> to boost your confidence and help you
     remember."
-  image: /assets/uploads/complete.png
+  image: ../assets/uploads/complete.png
 features:
   - title: Don't Spend Long Hours Reading the Book
     description: The questions in Life in the Uk app covers entire content of Life
