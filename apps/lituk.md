@@ -6,10 +6,8 @@ icon: ../assets/uploads/adi-1.png
 color: "#d8781f"
 appstore: https://apps.apple.com/us/app/life-in-the-uk-untangled/id1512489096
 banner:
-  title: >-
-    Do you know that you can **pass** your Life in the UK Test without actually
-    reading the Book!
-
+  title: |-
+    **Pass** your Life in the UK Test without actually reading the Book!
 
     Just Close the Rings!
   subtitle: |-
