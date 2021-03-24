@@ -2,7 +2,7 @@
 layout: app
 title: Life in the UK Untangled
 permalink: /lituk/
-icon: ../assets/uploads/car-icon.png
+icon: ../assets/uploads/screen-shot-2021-03-23-at-11.42.42-am.png
 color: "#ce947e"
 appstore: https://apps.apple.com/us/app/life-in-the-uk-untangled/id1512489096
 banner:
