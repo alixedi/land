@@ -2,7 +2,7 @@
 layout: app
 title: Motorcycle Theory Untangled
 permalink: /motorcycle/
-icon: ../assets/uploads/motorcycle-icon.png
+icon: /assets/uploads/adi-icon.png
 color: "#e087ac"
 appstore: https://apps.apple.com/gb/app/motorcycle-theory-untangled/id1537956813
 banner:
