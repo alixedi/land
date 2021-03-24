@@ -73,6 +73,7 @@ collections:
   - name: 'apps'
     label: 'Apps'
     folder: 'apps/'
+    public_folder: '../assets/uploads/'
     identifier_field: permalink
     create: true
     editor:
