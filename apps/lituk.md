@@ -7,7 +7,7 @@ color: "#d8781f"
 appstore: https://apps.apple.com/us/app/life-in-the-uk-untangled/id1512489096
 banner:
   title: >-
-    Do you know that you can pass your Life in the UK Test without actually
+    Do you know that you can **pass** your Life in the UK Test without actually
     reading the Book!
 
 
