@@ -2,7 +2,7 @@
 layout: app
 title: Driving Theory Untangled
 permalink: /car/
-icon: /assets/uploads/adi-icon.png
+icon: /assets/uploads/car-icon.png
 color: "#45a490"
 appstore: https://apps.apple.com/gb/app/motorcycle-theory-untangled/id1537956813
 banner:
