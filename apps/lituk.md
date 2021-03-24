@@ -3,13 +3,14 @@ layout: app
 title: Life in the UK Untangled
 permalink: /lituk/
 icon: ../assets/uploads/adi-1.png
-color: "#c7af7d"
+color: "#d0bd8d"
 appstore: https://apps.apple.com/us/app/life-in-the-uk-untangled/id1512489096
 banner:
-  title: <u>Pass</u> Life in the UK Test **without Reading the Book**!
-  subtitle: " 1000<u>carefully prepared Questions</u> covering the Official
-    Handbook with <u>clever strategies</u> to boost your confidence and help you
-    remember."
+  title: <u>Pass</u> Life in the UK Test without Reading the Book!
+  subtitle: |-2
+     **1000 carefully prepared Questions** covering the *Official Handbook.*
+
+     Clever strategies to boost your confidence and help you remember.
   image: ../assets/uploads/complete.png
 features:
   - title: Don't Spend Long Hours Reading the Book
