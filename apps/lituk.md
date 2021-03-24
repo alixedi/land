@@ -16,23 +16,23 @@ features:
     description: The questions in Life in the Uk app covers entire content of Life
       in the UK official Handbook. So you don't need to read the book anymore.
       Only practicing from this app can guarantee your success.
-    image: /assets/uploads/screen-shot-2021-03-23-at-11.51.28-am.png
+    image: ../assets/uploads/screen-shot-2021-03-23-at-11.51.28-am.png
   - title: Revise all the questions you find tricky
     description: "Day before your real test. Would it not be neat if you could
       revise all the questions that you found tricky? The Life in the UK
       Untangled app has just the thing. It keeps track of all the questions you
       found tricky and stores them in a handy list for revision.  "
-    image: /assets/uploads/screen-shot-2021-03-23-at-11.50.18-am.png
+    image: ../assets/uploads/screen-shot-2021-03-23-at-11.50.18-am.png
   - title: Instantly search for a word or a phrase
     description: No more "What was that question about tire treads..." or "What was
       that question about different types of crossings...". Just type in a word
       or a phrase in the search bar and get a list of questions that match.
-    image: /assets/uploads/screen-shot-2021-03-23-at-11.50.28-am.png
+    image: ../assets/uploads/screen-shot-2021-03-23-at-11.50.28-am.png
   - title: When the rings close, you are ready
     description: The Life in the UK Untangled app will track your progress as you
       learn new chapters and attempt mock tests.  This makes things simple -
       Install the app, close the rings, pass your Life in the UK test.
-    image: /assets/uploads/screen-shot-2021-03-23-at-11.49.49-am.png
+    image: ../assets/uploads/screen-shot-2021-03-23-at-11.49.49-am.png
 cta:
   title: Download Now
   subtitle: Pass Life in the UK Test without reading the book!
