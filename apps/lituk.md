@@ -3,10 +3,10 @@ layout: app
 title: Life in the UK Untangled
 permalink: /lituk/
 icon: ../assets/uploads/adi-1.png
-color: "#d0bd8d"
+color: "#cea9c9"
 appstore: https://apps.apple.com/us/app/life-in-the-uk-untangled/id1512489096
 banner:
-  title: "## Pass Life in the UK Test without Reading the Book!"
+  title: "# Pass Life in the UK Test without Reading the Book!"
   subtitle: |-
     * 1000 carefully prepared Questions
     * Strategies to boost your confidence
