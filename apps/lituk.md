@@ -6,11 +6,11 @@ icon: ../assets/uploads/adi-1.png
 color: "#d0bd8d"
 appstore: https://apps.apple.com/us/app/life-in-the-uk-untangled/id1512489096
 banner:
-  title: <u>Pass</u> Life in the UK Test without Reading the Book!
-  subtitle: |-2
-     **1000 carefully prepared Questions** covering the *Official Handbook.*
-
-     Clever strategies to boost your confidence and help you remember.
+  title: "## Pass Life in the UK Test without Reading the Book!"
+  subtitle: |-
+    * 1000 carefully prepared Questions
+    * Strategies to boost your confidence
+    * Unlimited Mock Tests
   image: ../assets/uploads/complete.png
 features:
   - title: Don't Spend Long Hours Reading the Book
