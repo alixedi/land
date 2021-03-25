@@ -39,12 +39,55 @@ cta:
   subtitle: Pass Life in the UK Test without reading the book!
 reviews:
   items:
-    - name: Ainy Z
-      text: Super. I cant believe I Passed.
-      stars: ★★★★★★
-    - name: Kanye West
-      text: Why am I writing a review?
-      stars: ★★★★★★
+    - name: 9 Gager
+      text: >-
+        **Simple & well thought out**
+
+
+        There wouldn't be a simpler app than this for Life in UK tests. No signups required, no clutter of sdertisements, no activation or personal information is asked.
+
+
+        It has simple Q& A layout. Explanations to Answers particularly helped me learn more about the subject.
+
+
+        God for users at any knowledge level.
+      stars: ★★★★★
+    - name: EmlynC
+      text: >-
+        **Refreshingly straighforward**
+
+
+        It;s a well thout out app that gets straight to the point of earning about the UK and quizzing your knowledge.
+
+
+        I love that it keeps coming back to questions you got wrong so that you can learn from it.
+      stars: ★★★★★
+    - name: zeddab
+      text: >-
+        **I passed the test!**
+
+
+        There are so many questions in this app that you'll go the exam with complete certainitythat you'll pass.
+      stars: ★★★★★
+    - name: user20382173
+      text: |-
+        **So easy to use!**
+
+        Tried many apps, but this one is value for money.
+      stars: ★★★★★
+    - name: holdenweb
+      text: >-
+        **Excellent quizzes**
+
+
+        The app repeats questions to drive the learning home, and is very simple to use.
+      stars: ★★★★★
+    - name: DoubleDouble87
+      text: |-
+        **Top**
+
+        Fantastic app...just need landscape mode for iPad.
+      stars: ★★★★★
   title: Read what our users think
 faqs:
   - title: Why should I buy the Life in the UK Untangled app instead of the official
