@@ -53,40 +53,37 @@ reviews:
       stars: Simple & well thought out.                   ★★★★★
     - name: EmlynC
       text: >-
-        **Refreshingly straighforward**
-
+        
 
         It;s a well thout out app that gets straight to the point of earning about the UK and quizzing your knowledge.
 
 
         I love that it keeps coming back to questions you got wrong so that you can learn from it.
-      stars: ★★★★★
+      stars: Refreshingly straighforward ★★★★★
     - name: zeddab
       text: >-
-        **I passed the test!**
-
+        
 
         There are so many questions in this app that you'll go the exam with complete certainitythat you'll pass.
-      stars: ★★★★★
+      stars: I passed the test!  ★★★★★
     - name: user20382173
       text: |-
-        **So easy to use!**
+        
 
         Tried many apps, but this one is value for money.
-      stars: ★★★★★
+      stars: So easy to use!  ★★★★★
     - name: holdenweb
       text: >-
-        **Excellent quizzes**
-
+        
 
         The app repeats questions to drive the learning home, and is very simple to use.
-      stars: ★★★★★
+      stars: Excellent quizzes. ★★★★★
     - name: DoubleDouble87
       text: |-
-        **Top**
+        
 
         Fantastic app...just need landscape mode for iPad.
-      stars: ★★★★★
+      stars: Top  ★★★★★
   title: Read what our users think
 faqs:
   - title: Why should I buy the Life in the UK Untangled app instead of the official
