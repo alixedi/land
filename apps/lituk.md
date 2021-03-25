@@ -43,7 +43,7 @@ reviews:
       text: >-
         
 
-        There wouldn't be a simpler app than this for Life in UK tests. No signups required, no clutter of sdertisements, no activation or personal information is asked.
+        There wouldn't be a simpler app than this for Life in UK tests. No signups required, no clutter of advertisements, no activation or personal information is asked.
 
 
         It has simple Q& A layout. Explanations to Answers particularly helped me learn more about the subject.
