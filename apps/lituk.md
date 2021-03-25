@@ -23,7 +23,7 @@ features:
       revise all the questions that you found tricky? The Life in the UK
       Untangled app has just the thing. It keeps track of all the questions you
       found tricky and stores them in a handy list for revision.  "
-    image: ../assets/uploads/review.png
+    image: ../assets/uploads/review-1-.png
   - title: Instantly search for a word or a phrase
     description: No more "What was that question about tire treads..." or "What was
       that question about different types of crossings...". Just type in a word
