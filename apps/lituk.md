@@ -41,8 +41,7 @@ reviews:
   items:
     - name: 9 Gager
       text: >-
-        **Simple & well thought out**
-
+        
 
         There wouldn't be a simpler app than this for Life in UK tests. No signups required, no clutter of sdertisements, no activation or personal information is asked.
 
@@ -51,7 +50,7 @@ reviews:
 
 
         God for users at any knowledge level.
-      stars: ★★★★★
+      stars: Simple & well thought out.                   ★★★★★
     - name: EmlynC
       text: >-
         **Refreshingly straighforward**
