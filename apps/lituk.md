@@ -33,10 +33,10 @@ features:
       found tricky and stores them in a handy list for revision.  "
     image: ../assets/uploads/revise.jpg
   - title: Instantly search for a word or a phrase
-    description: No more "What was that question about tire treads..." or "What was
-      that question about different types of crossings...". Just type in a word
-      or a phrase in the search bar and get a list of questions that match.
-    image: ../assets/uploads/review-3-.png
+    description: No more "Was Elizabeth 1 the daughter of Anne Boleyn or Catherine
+      of Aragon?..." or "What was UK's population in 2010?...". Just type in a
+      word or a phrase in the search bar and get a list of questions that match.
+    image: ../assets/uploads/search-1-.jpg
   - title: When the rings close, you are ready
     description: The Life in the UK Untangled app will track your progress as you
       learn new chapters and attempt mock tests.  This makes things simple -
