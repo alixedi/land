@@ -8,11 +8,13 @@ appstore: https://apps.apple.com/us/app/life-in-the-uk-untangled/id1512489096
   https://play.google.com/store/apps/details?id=com.dripl.lituk
 banner:
   title: |-
-    Pass your 
+    \    Pass your 
 
     **Life in the UK Test**
 
-     without reading the Book!
+     without reading the 
+
+    \    Book
   subtitle: |-
     * 1000 carefully prepared Questions
     * Strategies to boost your confidence
