@@ -36,7 +36,7 @@ features:
     description: No more "Was Elizabeth 1 the daughter of Anne Boleyn or Catherine
       of Aragon?..." or "What was UK's population in 2010?...". Just type in a
       word or a phrase in the search bar and get a list of questions that match.
-    image: ../assets/uploads/search-1-.jpg
+    image: ../assets/uploads/search-2-.jpg
   - title: When the rings close, you are ready
     description: The Life in the UK Untangled app will track your progress as you
       learn new chapters and attempt mock tests.  This makes things simple -
