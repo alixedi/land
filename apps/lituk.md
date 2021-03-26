@@ -8,13 +8,13 @@ appstore: https://apps.apple.com/us/app/life-in-the-uk-untangled/id1512489096
   https://play.google.com/store/apps/details?id=com.dripl.lituk
 banner:
   title: |-
-    \    Pass your 
+    Pass your 
 
     **Life in the UK Test**
 
-     without reading the 
+    *without* reading the 
 
-    \    Book
+    Book
   subtitle: |-
     * 1000 carefully prepared Questions
     * Strategies to boost your confidence
@@ -36,7 +36,7 @@ features:
     description: No more "What was that question about tire treads..." or "What was
       that question about different types of crossings...". Just type in a word
       or a phrase in the search bar and get a list of questions that match.
-    image: ../assets/uploads/search-2-.png
+    image: ../assets/uploads/search.jpg
   - title: When the rings close, you are ready
     description: The Life in the UK Untangled app will track your progress as you
       learn new chapters and attempt mock tests.  This makes things simple -
