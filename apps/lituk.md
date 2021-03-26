@@ -22,12 +22,12 @@ banner:
   image: ../assets/uploads/complete.png
 features:
   - title: Don't Spend Long Hours Reading the Book
-    description: The questions in Life in the Uk app covers entire content of Life
+    description: The questions in Life in the UK app covers entire content of Life
       in the UK official Handbook. So you don't need to read the book anymore.
       Only practicing from this app can guarantee your success.
-    image: ../assets/uploads/practice-2-.jpg
+    image: ../assets/uploads/practice-3-.jpg
   - title: Revise all the questions you find tricky
-    description: "Day before your real test. Would it not be neat if you could
+    description: "Day before your real test, would it not be neat if you could
       revise all the questions that you found tricky? The Life in the UK
       Untangled app has just the thing. It keeps track of all the questions you
       found tricky and stores them in a handy list for revision.  "
