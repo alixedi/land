@@ -1,10 +1,10 @@
 # config.yml
 
 backend:
-  name: github
-  repo: alixedi/land
-  branch: main
-  site_domain: quizzical-davinci-d19cc3.netlify.app
+  name: git-gateway
+  # repo: alixedi/land
+  # branch: main
+  # site_domain: quizzical-davinci-d19cc3.netlify.app
 media_folder: 'assets/uploads'
 collections:
   - name: 'pages'
@@ -73,6 +73,7 @@ collections:
   - name: 'apps'
     label: 'Apps'
     folder: 'apps/'
+    public_folder: '../assets/uploads/'
     identifier_field: permalink
     create: true
     editor:
@@ -84,6 +85,7 @@ collections:
       - { name: "icon", label: "Icon", widget:   "image" }
       - { name: "color", label: "Color", widget: "color" }
       - { name: "appstore", label: "App Store Link", widget: "string" }
+      - { name: "playstore", label: "Play Store Link", widget: "string" }
       - name: "banner"
         label: "Banner"
         widget: "object"
@@ -99,7 +101,7 @@ collections:
         minimize_collapsed: true
         fields:
           - { name: "title", label: "Title", widget: "string" }
-          - { name: "description", label: "Description", widget: "string" }
+          - { name: "description", label: "Description", widget: "markdown" }
           - { name: "image", label: "Image", widget: "image" }
       - name: "cta"
         label: "Call To Action"
