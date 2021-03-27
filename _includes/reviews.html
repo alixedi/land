@@ -6,23 +6,6 @@
     <div class="h-1 mx-auto bg-white w-1/6 opacity-25 my-0 py-0 rounded-t"></div>
   </div>
   {% for review in page.reviews.items %}
-  <blockquote class="bg-white flex flex-wrap lg:w-3/5 mx-auto text-gray-500 m-8 p-8 shadow-lg rounded-3xl quote">
-    <div class="flex flex-col flex-grow">
-      <div class="text-left">
-        <i class="fas fa-quote-left text-gray-300 text-7xl"></i>
-      </div>
-      <div>
-        <p class="text-center text-2xl">{{ review.stars }}</p>
-        <p class="m-4 text-2xl text-left">{{ review.text }}</p>
-      </div>
-      <div class="text-right my-2">
-        <cite class="cite">
-          <p class="mr-4 text-gray-600 text-right">
-            — {{ review.name }}
-          </p>
-        </cite>
-      </div>
-    </div>
-  </blockquote>
+    {% include review.html review=review %}
   {% endfor %}
 </section>

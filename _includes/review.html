@@ -1,0 +1,18 @@
+<blockquote class="bg-white flex flex-wrap lg:w-3/5 mx-auto text-gray-500 m-8 p-8 shadow-lg rounded-3xl quote">
+  <div class="flex flex-col flex-grow">
+    <div class="text-left">
+      <i class="fas fa-quote-left text-gray-300 text-7xl"></i>
+    </div>
+    <div>
+      <p class="text-center text-xl">{{ include.review.stars }}</p>
+      <p class="m-4 text-xl text-left">{{ include.review.text }}</p>
+    </div>
+    <div class="text-right my-2">
+      <cite class="cite">
+        <p class="mr-4 text-gray-600 text-right">
+          — {{ include.review.name }}
+        </p>
+      </cite>
+    </div>
+  </div>
+</blockquote>
