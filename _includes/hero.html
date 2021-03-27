@@ -3,17 +3,29 @@
     <!--Left Col-->
     <div class="flex flex-col w-full md:w-2/5 justify-center items-start text-center md:text-left">
       <!-- <p class="uppercase tracking-loose w-full">{{ page.title }} App</p> -->
-      <h1 class="text-6xl leading-tight mb-4">
+      <h1 class="text-5xl leading-tight mb-4">
         {{ page.banner.title | markdownify }}
       </h1>
-      <span class="leading-normal text-3xl mb-8">
+      <span class="text-xl mb-8">
         {{ page.banner.subtitle | markdownify }}
       </span>
-      {% if page.appstore %}
-      <a href="{{ page.appstore }}">
-        <img class="h-20 fill-current inline" src="../assets/uploads/appstore.png" />
-      </a>
+      {% if page.banner.review %}
+      <div class="text-center mx-auto mb-8">
+        {% include review-compact.html review=page.banner.review %}
+      </div>
       {% endif %}
+      <div class="text-center mx-auto">
+        {% if page.appstore %}
+        <a href="{{ page.appstore }}">
+          <img class="h-16 m-4 fill-current inline" src="../assets/uploads/appstore.png" />
+        </a>
+        {% endif %}
+        {% if page.playstore %}
+        <a href="{{ page.playstore }}">
+          <img class="h-16 m-4 fill-current inline" src="../assets/uploads/playstore.png" />
+        </a>
+        {% endif %}
+      </div>
     </div>
     <!--Right Col-->
     <div class="w-full md:w-3/5 py-6">
