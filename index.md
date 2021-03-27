@@ -2,7 +2,7 @@
 title: Dripl
 permalink: /
 color: "#f5aa22"
-icon: assets/uploads/dripl.png
+icon: assets/uploads/appstore.png
 banner:
   title: "**UN-STARTUP & CONSULTANCY**"
   subtitle: BY [<u>AINY</u>](https://twitter.com/ainyxedi) &
