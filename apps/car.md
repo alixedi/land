@@ -39,7 +39,7 @@ features:
 
 
       P.S. The additional clips - that some apps claim to have - are unofficial and often not up to date.
-    image: ../assets/uploads/frame-23-1-.jpg
+    image: ../assets/uploads/frame-23-3-.jpg
   - title: The Review Section has a handy list of questions that you find tricky
     description: >-
       Just before you sit in the test, you would like to revise all the
@@ -47,7 +47,7 @@ features:
 
 
       The review feature in the Driving Theory Untangled app provides you with a list of all the questions that you would want to go through at the last moment.
-    image: ../assets/uploads/12.9in-01.8.png
+    image: ../assets/uploads/12.9in-01.8-1-.png
   - title: "Instantly search questions about a certain word "
     description: >-
       No more frantacally looking through all the questions  trying to find
