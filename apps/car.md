@@ -8,9 +8,9 @@ appstore: https://apps.apple.com/gb/app/driving-theory-untangled/id1534706484
 playstore: https://play.google.com/store/apps/details?id=com.dripl.car
 banner:
   title: |-
-    Everything you need to pass
+    Everything you need 
 
-     **Driving Theory Test** 
+    to pass **Driving Theory Test** 
 
      in 2021
   subtitle: |-
