@@ -29,7 +29,7 @@ features:
 
 
       When the rings are about to close, book your driving theory test.
-    image: ../assets/uploads/search.png
+    image: ../assets/uploads/frame-23-1-.jpg
   - title: The Hazard Guide tells you exactly how you will be scored in Hazard
       Perception clips
     description: >-
