@@ -138,4 +138,21 @@ faqs:
     text: Yes! We have designed the Driving Theory Untangled app to be easy to use.
       Every feature, every detail is meticulously designed to help you get our
       users ready to pass the driving theory test.
+footer:
+  - title: Social Media
+    items:
+      - name: Facebook
+        link: /#facebook
+      - name: Linkedin
+        link: /#linkedin
+      - name: Twitter
+        link: /#twitter
+  - title: Company
+    items:
+      - name: Dripl Blog
+        link: /#blog
+      - name: About
+        link: /#about
+      - name: Contact
+        link: /#contact
 ---
