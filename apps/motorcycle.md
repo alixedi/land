@@ -3,8 +3,9 @@ layout: app
 title: Motorcycle Theory Untangled
 permalink: /motorcycle/
 icon: ../assets/uploads/motorcycle-icon.png
-color: "#e087ac"
+color: "#ce6a8f"
 appstore: https://apps.apple.com/gb/app/motorcycle-theory-untangled/id1537956813
+playstore: https://play.google.com/store/apps/details?id=com.dripl.motorcycle
 banner:
   title: <u>Everything</u> you need to pass the **Motorcycle theory test** in *2021*
   subtitle: Install the App, close the rings & pass the test.
