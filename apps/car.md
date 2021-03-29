@@ -10,9 +10,7 @@ banner:
   title: |-
     Everything you need 
 
-    to pass **Driving Theory Test** 
-
-     in 2021
+    to pass **Driving Theory Test** in 2021
   subtitle: |-
     * ✓  Questions and Hazard Perception from DVSA
 
