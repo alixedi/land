@@ -2,7 +2,7 @@
 layout: app
 title: Driving Theory Untangled
 permalink: /car/
-icon: ../assets/uploads/car-icon.png
+icon: ../assets/uploads/car.jpg
 color: "#45a490"
 appstore: https://apps.apple.com/gb/app/motorcycle-theory-untangled/id1537956813
 playstore: https://play.google.com/store/apps/details?id=com.dripl.car
@@ -60,7 +60,7 @@ features:
     image: ../assets/uploads/review.png
   - title: And everything else you should expect from a driving theory app in 2021
     description: >-
-
+      
 
       Our exclusive features make us special but we also cover all other features that a good driving theory app should have. This includes -
 
@@ -82,8 +82,7 @@ reviews:
   title: What our users are saying..
   items:
     - name: Ali Z
-      text: >-
-        Passed my test first time because of **this app**. It has all 34 DVSA hazard
+      text: Passed my test first time because of this app. It has all 34 DVSA hazard
         perception video clips, 10 case studies that cover real-life scenarios,
         all the questions from the DVSA practice bank. It also allows me to
         search for terms. Finally, just before the test, I was able to revise
