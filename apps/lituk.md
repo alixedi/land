@@ -17,9 +17,9 @@ banner:
 
     Book
   subtitle: |-
-    * 1000 carefully prepared Questions
-    * Strategies to boost your confidence
-    * Unlimited Mock Tests
+    * ✓    1000 carefully prepared Questions
+    * ✓    Strategies to boost your confidence
+    * ✓    Unlimited Mock Tests
   image: ../assets/uploads/complete.png
 features:
   - title: Don't Spend Long Hours Reading the Book
