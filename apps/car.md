@@ -37,7 +37,7 @@ features:
 
 
       P.S. The additional clips - that some apps claim to have - are unofficial and often not up to date.
-    image: ../assets/uploads/frame-23-4-.jpg
+    image: ../assets/uploads/frame-23-6-.jpg
   - title: The Review Section has a handy list of questions that you find tricky
     description: >-
       Just before you sit in the test, you would like to revise all the
