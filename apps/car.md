@@ -49,7 +49,7 @@ features:
 
 
       The review feature in the Driving Theory Untangled app provide you with a list of all the questions that you would want to work on.
-    image: ../assets/uploads/hazard.png
+    image: ../assets/uploads/12.9in-01.8.png
   - title: Instantly search questions for a given term
     description: >-
       No more "What was that question about tire treads..." or "What was that
@@ -57,7 +57,7 @@ features:
 
 
       Using our search feature, you can type a term and it will give you a list of questions that are relevant to that term.
-    image: ../assets/uploads/review.png
+    image: ../assets/uploads/12.9in-01.6.png
   - title: And everything else you should expect from a driving theory app in 2021
     description: >-
       
