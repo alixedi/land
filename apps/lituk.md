@@ -50,31 +50,27 @@ reviews:
   items:
     - name: 9 Gager
       text: >-
-        ### Simple & well thought out
-
-
-        There wouldn't be a simpler app than this for Life in UK tests. No signups required, no clutter of advertisements, no activation or personal information is asked.
+        There wouldn't be a simpler app than this for Life in UK tests. No
+        signups required, no clutter of advertisements, no activation or
+        personal information is asked.
 
 
         It has simple Q& A layout. Explanations to Answers particularly helped me learn more about the subject.
 
 
         God for users at any knowledge level.
-      stars: ★★★★★
+      stars: Simple & well thought out.   ★★★★★
     - name: EmlynC
       text: >-
-        
-
-        It;s a well thout out app that gets straight to the point of earning about the UK and quizzing your knowledge.
+        It's a well thout out app that gets straight to the point of earning
+        about the UK and quizzing your knowledge.
 
 
         I love that it keeps coming back to questions you got wrong so that you can learn from it.
       stars: Refreshingly straighforward ★★★★★
     - name: zeddab
-      text: >-
-        
-
-        There are so many questions in this app that you'll go the exam with complete certainitythat you'll pass.
+      text: There are so many questions in this app that you'll go the exam with
+        complete certainity that you'll pass.
       stars: I passed the test!  ★★★★★
     - name: user20382173
       text: |-
