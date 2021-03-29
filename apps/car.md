@@ -28,7 +28,7 @@ features:
 
 
       This makes things simple - Install the app, close the rings, pass your Driving Theory test.
-    image: ../assets/uploads/12.9in-01.6-1-.jpg
+    image: ../assets/uploads/12.9in-01.6-8-.jpg
   - title: The HazardGuide show you exactly how you will be scored
     description: >-
       Our smart HazardGuide shows you exactly how you will be scored on the real
