@@ -3,11 +3,16 @@ layout: app
 title: Driving Theory Untangled
 permalink: /car/
 icon: ../assets/uploads/car.jpg
-color: "#46a27d"
+color: "#429472"
 appstore: https://apps.apple.com/gb/app/driving-theory-untangled/id1534706484
 playstore: https://play.google.com/store/apps/details?id=com.dripl.car
 banner:
-  title: "*Everything* you need to pass the **Driving Theory Test** in 2021"
+  title: |-
+    Everything you need to pass
+
+     **Driving Theory Test** 
+
+     in 2021
   subtitle: |-
     * ✓  Questions and Hazard Perception from DVSA
 
@@ -50,16 +55,12 @@ features:
 
 
       Using Search feature in Driving Theory Untangled app, you can type a word and you will get a list of questions relevant to that term
-    image: ../assets/uploads/12.9in-01.6.jpg
-  - description: >-
+    image: ../assets/uploads/12.9in-01.6-3-.jpg
+  - description: |-
       * ✓ Unlimited timed mock tests
-
       * ✓ Practice mode that helps you remember important facts and details
-
-      * ✓ All ~700 questions & explanations from the officiail DVSA revision bank
-
+      * ✓ All ~700 questions & explanations from the official DVSA revision bank
       * ✓ All 34 Hazard perception clips from the DVSA
-
       * ✓ Video case studies according to the latest DVSA test format
     title: And everything else you expect from a Driving Theory test app
     image: ../assets/uploads/undraw_selecting_1lx3-1.jpg
