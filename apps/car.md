@@ -23,7 +23,7 @@ features:
 
 
       This makes things simple - Install the app, close the rings, pass your Driving Theory test.
-    image: ../assets/uploads/group-15.jpg
+    image: ../assets/uploads/12.9in-01.6-1-.jpg
   - title: The HazardGuide show you exactly how you will be scored
     description: >-
       Our smart HazardGuide shows you exactly how you will be scored on the real
@@ -60,7 +60,7 @@ features:
       * All 34 Hazard perception clips from the DVSA
       * Video case studies according to the latest DVSA test format
     title: And everything else you expect from a Driving Theory test app
-    image: ../assets/uploads/undraw_stepping_up_g6oo-1-1.jpg
+    image: ../assets/uploads/undraw_selecting_1lx3-1.jpg
 cta:
   title: Pass Driving Theory Test first time
   subtitle: Download Now!
