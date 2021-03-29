@@ -1,10 +1,10 @@
 # config.yml
 
 backend:
-  name: git-gateway
-  # repo: alixedi/land
-  # branch: main
-  # site_domain: quizzical-davinci-d19cc3.netlify.app
+  name: github
+  repo: alixedi/land
+  branch: main
+  site_domain: quizzical-davinci-d19cc3.netlify.app
 media_folder: 'assets/uploads'
 collections:
   - name: 'pages'
