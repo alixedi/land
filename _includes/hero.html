@@ -10,7 +10,7 @@
         {{ page.banner.subtitle | markdownify }}
       </span>
       <div class="text-center mx-auto mb-8">
-        {% include review-compact.html review=page.reviews.first %}
+        {% include review-compact.html review=page.reviews.items.first %}
       </div>
       <div class="text-center mx-auto">
         {% if page.appstore %}
