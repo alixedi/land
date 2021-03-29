@@ -5,7 +5,8 @@ permalink: /lituk/
 icon: ../assets/uploads/adi-1.png
 color: "#e05b49"
 appstore: https://apps.apple.com/us/app/life-in-the-uk-untangled/id1512489096
-  https://play.google.com/store/apps/details?id=com.dripl.lituk
+  com.dripl.lituk
+playstore: https://play.google.com/store/apps/details?id=
 banner:
   title: |-
     Pass your 
