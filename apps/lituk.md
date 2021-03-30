@@ -19,7 +19,7 @@ features:
     description: The questions in Life in the UK app covers entire content of Life
       in the UK official Handbook. So you don't need to read the book anymore.
       Only practicing from this app can guarantee your success.
-    image: ../assets/uploads/practice-3-.jpg
+    image: ../assets/uploads/practice-4-.jpg
   - title: Revise all the questions you find tricky
     description: "Day before your real test, would it not be neat if you could
       revise all the questions that you found tricky? The Life in the UK
