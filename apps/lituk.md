@@ -5,8 +5,7 @@ permalink: /lituk/
 icon: ../assets/uploads/adi-1.png
 color: "#b73d3d"
 appstore: https://apps.apple.com/us/app/life-in-the-uk-untangled/id1512489096
-  com.dripl.lituk
-playstore: https://play.google.com/store/apps/details?id=
+playstore: https://play.google.com/store/apps/details?id=com.dripl.lituk
 banner:
   title: Pass your **Life in the UK Test** *without* reading the Book
   subtitle: |-
