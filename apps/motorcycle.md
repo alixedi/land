@@ -2,13 +2,18 @@
 layout: app
 title: Motorcycle Theory Untangled
 permalink: /motorcycle/
-icon: ../assets/uploads/motorcycle-icon.png
+icon: ../assets/uploads/adi-2.jpg
 color: "#ce6a8f"
 appstore: https://apps.apple.com/gb/app/motorcycle-theory-untangled/id1537956813
 playstore: https://play.google.com/store/apps/details?id=com.dripl.motorcycle
 banner:
   title: <u>Everything</u> you need to pass the **Motorcycle theory test** in *2021*
-  subtitle: Install the App, close the rings & pass the test.
+  subtitle: |-
+    * ✓ Questions & Hazard Perception from the DVSA
+
+      ✓ Exclusice Case Studies (scenarios)
+
+      ✓ PLUS exclusive features to help you over the line
   image: ../assets/uploads/motorcycle-complete.png
 features:
   - title: Instant Search - No more “What was that Q about wheels..”
