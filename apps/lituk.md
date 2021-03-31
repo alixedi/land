@@ -45,7 +45,7 @@ features:
       * ✓    Mock Tests to give you a taste of the real test. Attempt as many as you can
 
         ✓    Quick review strategy specially designed for last-minute revision. See all those questions you have trouble remembering, at one place
-    image: ../assets/uploads/undraw_online_organizer_ofxm.svg
+    image: ../assets/uploads/everything-else.jpg
 cta:
   title: Download Now
   subtitle: Pass Life in the UK Test without reading the book!
