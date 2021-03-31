@@ -26,12 +26,12 @@ features:
       revise all the questions that you found tricky? The Life in the UK
       Untangled app has just the thing. It keeps track of all the questions you
       found tricky and stores them in a handy list for revision.
-    image: ../assets/uploads/revise-4-.jpg
+    image: ../assets/uploads/revise-5-.jpg
   - title: Instantly search for a word or a phrase
     description: No more "Was Elizabeth 1 the daughter of Anne Boleyn or Catherine
       of Aragon?..." or "What was UK's population in 2010?...". Just type in a
       word or a phrase in the search bar and get a list of questions that match.
-    image: ../assets/uploads/search-4-.jpg
+    image: ../assets/uploads/search-6-.jpg
   - title: When the rings close, you are ready
     description: The Life in the UK Untangled app will track your progress as you
       learn new chapters and attempt mock tests.  This makes things simple -
