@@ -3,7 +3,7 @@ layout: app
 title: Life in the UK Untangled
 permalink: /lituk/
 icon: ../assets/uploads/adi-1.png
-color: "#9c1f1f"
+color: "#993300"
 appstore: https://apps.apple.com/us/app/life-in-the-uk-untangled/id1512489096
 playstore: https://play.google.com/store/apps/details?id=com.dripl.lituk
 banner:
