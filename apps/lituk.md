@@ -3,7 +3,7 @@ layout: app
 title: Life in the UK Untangled
 permalink: /lituk/
 icon: ../assets/uploads/adi-1.png
-color: "#b73d3d"
+color: "#9c1f1f"
 appstore: https://apps.apple.com/us/app/life-in-the-uk-untangled/id1512489096
 playstore: https://play.google.com/store/apps/details?id=com.dripl.lituk
 banner:
@@ -50,6 +50,18 @@ cta:
   subtitle: Pass Life in the UK Test without reading the book!
 reviews:
   items:
+    - name: zeddab
+      text: There are so many questions in this app that you'll go the exam with
+        complete certainity that you'll pass.
+      stars: " I passed the test! ★★★★★"
+    - name: EmlynC
+      text: >-
+        It's a well thout out app that gets straight to the point of earning
+        about the UK and quizzing your knowledge.
+
+
+        I love that it keeps coming back to questions you got wrong so that you can learn from it.
+      stars: Refreshingly straighforward ★★★★★
     - name: 9 Gager
       text: >-
         There wouldn't be a simpler app than this for Life in UK tests. No
@@ -61,19 +73,7 @@ reviews:
 
 
         God for users at any knowledge level.
-      stars: Simple & well thought out.   ★★★★★
-    - name: EmlynC
-      text: >-
-        It's a well thout out app that gets straight to the point of earning
-        about the UK and quizzing your knowledge.
-
-
-        I love that it keeps coming back to questions you got wrong so that you can learn from it.
-      stars: Refreshingly straighforward ★★★★★
-    - name: zeddab
-      text: There are so many questions in this app that you'll go the exam with
-        complete certainity that you'll pass.
-      stars: I passed the test!  ★★★★★
+      stars: Simple & well thought out.  ★★★★★
     - name: user20382173
       text: |-
         
