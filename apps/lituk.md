@@ -7,7 +7,7 @@ color: "#993300"
 appstore: https://apps.apple.com/us/app/life-in-the-uk-untangled/id1512489096
 playstore: https://play.google.com/store/apps/details?id=com.dripl.lituk
 banner:
-  title: Pass your **Life in the UK Test** *without* reading the Book
+  title: Pass your **Life in the UK Test** <u>*without</u>* reading the Book
   subtitle: |-
     * ✓    1000 Questions
     * ✓    Based on official Book
