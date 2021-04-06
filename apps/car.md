@@ -25,8 +25,8 @@ features:
       chapters and attempt mock tests.
 
 
-      This makes things simple - Install the app, close the rings, pass your Driving Theory test.
-    image: ../assets/uploads/12.9in-01.6-8-.jpg
+      This makes things simple - Install the app, close the rings, pass your Driving Theory Test.
+    image: ../assets/uploads/close-the-rings-1-.jpg
   - title: The HazardGuide show you exactly how you will be scored
     description: >-
       Our smart HazardGuide shows you exactly how you will be scored on the real
@@ -48,11 +48,11 @@ features:
     image: ../assets/uploads/12.9in-01.8.jpg
   - title: "Instantly search questions about a certain word "
     description: >-
-      No more frantacally looking through all the questions  trying to find
+      No more frantically looking through all the questions trying to find
       questions about a certain word or phrase.
 
 
-      Using Search feature in Driving Theory Untangled app, you can type a word and you will get a list of questions relevant to that term
+      Using the Search feature in Driving Theory Untangled app, you can type a word and you will get a list of questions relevant to that term
     image: ../assets/uploads/12.9in-01.6-7-.jpg
   - description: |-
       * ✓ Unlimited timed mock tests
