@@ -265,7 +265,7 @@ footer:
   - title: Social Media
     items:
       - name: Facebook
-        link: /#facebook
+        link: https://www.facebook.com/Life-in-the-UK-Test-Untangled-105740674500039/?ref=py_c
       - link: /#linkedin
         name: Linkedin
       - name: Twitter
