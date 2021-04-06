@@ -99,16 +99,16 @@ faqs:
       Handbook?
     text: >-
       While keeping the content accurate, we provide a much better way to
-      practice for the Life in the Uk Test. While practice, you are required to
-      answer multiple-choice questions. IF you are not sure of the answers, you
-      can always tap the help button and you will then be able to see the
-      correct answer and along with their explanations.
+      practice for the Life in the UK Test. While practice, you are required to
+      answer multiple-choice questions. If you are not sure of the answers, you
+      can always tap the help button and you will see the correct answer along
+      with their explanations.
 
 
       In addition to practice, the Life in the UK Untangled app has exclusive features that are designed to help you over the line. For example - instant search, smart revision and a universal progress tracker.
   - text: Don’t worry. Our experts have made sure that they cover the entire book
-      without leaving. If your practice is 100%, there won’t be a single
-      question that you can’t answer.
+      without leaving any fact behind. If your practice is 100%, there won’t be
+      a single question that you can’t answer.
     title: Am I not taking a risk by not studying from the book?
   - text: Unlike other apps, we do not recommend a personal plan. Instead, we have a
       universal progress tracker i.e. the rings. You should book your test when
@@ -133,19 +133,19 @@ faqs:
       Tablets.
 
 
-      In fact, we have made certain adjustments so that our users have a pleasant experience with a larger screen.
+      In addition, we have made certain adjustments so that our users have a pleasant experience with a larger screen.
     title: Does the Life in the UK Untangled app work on the iPad or Android Tablets?
   - text: Yes! We have designed the Life in the UK Untangled app to be easy to use.
-      Every feature, every detail is meticulously designed to help you get our
-      users ready to pass the Life in the UK test.
+      Every feature, every detail is meticulously designed to help you pass the
+      Life in the UK test.
     title: Is the Life in the UK Untangled app easy to use?
   - text: >-
       No doubt! You can use the Review section in the app to get all the
-      questions in place that you got frequently or recently got wrong during
-      preparation or during your test.
+      questions in place that you get frequently or recently wrong during
+      practice or test.
 
 
-      Also, you can use the Search section in the app to look for any particular word or phrase if you can’t remember which topic it lies in or if you don’t have enough time to look through the whole topic.
+      Also, you can use the Search section in the app to look for any particular word or phrase. This will show you the list of questions that include that particular word or phrase.
     title: Is the Life in the UK Untangled app useful while doing last-minute
       preparation?
   - text: >-
@@ -154,20 +154,19 @@ faqs:
       test at one place.
 
 
-      You can also review the scores of all your attempted tests, which will show you exactly which areas you need to work on.
+      You can also review the scores of all your attempted tests, which will show you the areas you need to practise more.
     title: How does the Review section in the app works?
   - text: Search section can be used anytime in the app to look for any particular
       word or phrase if you cant remember which topic it lies in or if you don't
       want to go through the whole topic.
     title: What does the Search section do?
-  - text: Lack of practice is the main cause of failing the test. However,
+  - text: >-
+      Lack of practice is the main cause of failing the test. However,
       nervousness also plays a very important role while giving the test. Both
-      of these issues can be overcome if you give enough mock tests. The mock
-      tests in the Life in the UK Untangled app are created in the exact pattern
-      as of real test. These tests have the same time limit as the real test.
-      The number of questions is also the same as that in the real test. You can
-      give as many mock tests as you like. A time will come when you think you
-      are ready for the real test.
+      of these issues can be overcome if you give enough mock tests. 
+
+
+      The mock tests in the Life in the UK Untangled app are created in the exact pattern as the real test. These tests have the same time limit as the real test. The number of questions is also the same as that in the real test. You can give as many mock tests as you like. A time will come when you think you are ready for the real test.
     title: Why do people fail Life in the UK Test?
   - text: >-
       You should expect three kinds of questions in your test.
@@ -236,7 +235,8 @@ faqs:
       * have a long-term physical or mental condition (must be supported by a doctor’s note)
     title: "  Who cannot take the test?"
   - text: There is no expiry date of the test so you can take it whenever you think
-      is the right time before you apply for your Settlement or ILR in UK.
+      is the right time before you apply for your Settlement or Indefinite Leave
+      to Remain in the UK.
     title: When can I take Life in the UK Test?
   - text: >-
       1- Prood of ID: the same that you used to book the test
