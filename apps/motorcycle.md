@@ -16,28 +16,55 @@ banner:
       ✓ PLUS exclusive features to help you over the line
   image: ../assets/uploads/motorcycle-complete.png
 features:
-  - title: Instant Search - No more “What was that Q about wheels..”
-    description: Or maybe you can convince your partner to watch Hazard Perception
-      clips together? They are included in the app. No extra charges. With out
-      smart HazardGuide, you will learn exactly how you will be scored on these
-      videos.
-    image: ../assets/uploads/search.png
+  - title: When the rings close, you are ready
+    description: >-
+      The Driving Theory Untangled app will track your progress as you learn new
+      chapters and attempt mock tests.
+
+
+      This makes things simple - Install the app, close the rings, pass your Driving Theory Test.
+    image: ../assets/uploads/close-the-rings.jpg
   - title: 10 Case Studies covering real-life situations
     description: We have included 10 case studies with about 20 questions each so
       that you are ready to take on these type of questions in the real test.
-    image: ../assets/uploads/motorcycle-case.png
+    image: ../assets/uploads/vector.jpg
   - title: Master Hazard Perception using our smart HazardGuide™
-    description: Or maybe you can convince your partner to watch Hazard Perception
-      clips together? They are included in the app. No extra charges. With out
-      smart HazardGuide, you will learn exactly how you will be scored on these
-      videos.
-    image: ../assets/uploads/hazard.png
+    description: >-
+      Our smart HazardGuide shows you exactly how you will be scored on the real
+      test so that you can learn to spot the developing hazards quickly.
+
+
+      All the latest 34 Hazard Perceptions videos from DVSA are included in the Driving Theory Untangled app.
+
+
+      P.S. The additional clips - that some apps claim to have - are unofficial and often not up to date.
+    image: ../assets/uploads/hazard.jpg
   - title: Quickly Revise all the Qs you found tricky before the real test
-    description: Or maybe you can convince your partner to watch Hazard Perception
-      clips together? They are included in the app. No extra charges. With out
-      smart HazardGuide, you will learn exactly how you will be scored on these
-      videos.
-    image: ../assets/uploads/review.png
+    description: >-
+      Just before you sit in the test, you would like to revise all the
+      questions that you find tricky.
+
+
+      The review feature in the Driving Theory Untangled app provides you with a list of all the questions that you would want to go through at the last moment.
+    image: ../assets/uploads/review.jpg
+  - title: Instant Search - No more “What was that Q about wheels..”
+    description: >-
+      No more frantically looking through all the questions trying to find
+      questions about a certain word or phrase.
+
+
+      Using the Search feature in Driving Theory Untangled app, you can type a word and you will get a list of questions relevant to that term
+    image: ../assets/uploads/search-1-.jpg
+  - title: And everything else you expect from a Driving Theory test app
+    description: |-
+      
+
+      * ✓ Unlimited timed mock tests
+      * ✓ Practice mode that helps you remember important facts and details
+      * ✓ All ~700 questions & explanations from the official DVSA revision bank
+      * ✓ All 34 Hazard perception clips from the DVSA
+      * ✓ Video case studies according to the latest DVSA test format
+    image: ../assets/uploads/vector.jpg
 cta:
   title: Download Now
   subtitle: Pass the Motorcycle theory test first time
