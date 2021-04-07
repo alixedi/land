@@ -45,7 +45,7 @@ features:
 
 
       The review feature in the Driving Theory Untangled app provides you with a list of all the questions that you would want to go through at the last moment.
-    image: ../assets/uploads/12.9in-01.8.jpg
+    image: ../assets/uploads/review-1-.jpg
   - title: "Instantly search questions about a certain word "
     description: >-
       No more frantically looking through all the questions trying to find
