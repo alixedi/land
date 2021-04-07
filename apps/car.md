@@ -61,7 +61,7 @@ features:
       * ✓ All 34 Hazard perception clips from the DVSA
       * ✓ Video case studies according to the latest DVSA test format
     title: And everything else you expect from a Driving Theory test app
-    image: ../assets/uploads/everything.jpg
+    image: ../assets/uploads/everything-1-.jpg
 cta:
   title: Pass Driving Theory Test first time
   subtitle: Download Now!
