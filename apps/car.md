@@ -53,7 +53,7 @@ features:
 
 
       Using the Search feature in Driving Theory Untangled app, you can type a word and you will get a list of questions relevant to that term
-    image: ../assets/uploads/12.9in-01.6-7-.jpg
+    image: ../assets/uploads/search-3-.jpg
   - description: |-
       * ✓ Unlimited timed mock tests
       * ✓ Practice mode that helps you remember important facts and details
@@ -61,7 +61,7 @@ features:
       * ✓ All 34 Hazard perception clips from the DVSA
       * ✓ Video case studies according to the latest DVSA test format
     title: And everything else you expect from a Driving Theory test app
-    image: ../assets/uploads/undraw_selecting_1lx3-1.jpg
+    image: ../assets/uploads/everything.jpg
 cta:
   title: Pass Driving Theory Test first time
   subtitle: Download Now!
