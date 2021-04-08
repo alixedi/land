@@ -7,7 +7,7 @@ banner:
   title: "**UN-STARTUP & CONSULTANCY**"
   subtitle: BY [<u>AINY</u>](https://twitter.com/ainyxedi) &
     [<u>ALI</u>](https://twitter.com/alixedi)
-  image: assets/uploads/hot-air-balloon-2-1-4-.jpg
+  image: assets/uploads/frame-15.png
 texts:
   - title: The story, so far
     description: >-
