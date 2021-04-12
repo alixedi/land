@@ -44,31 +44,7 @@ texts:
 
       If you like the planning, strategy, and execution for the un-startup, **we can help you do the same** for your product or business. [Please reach out  ](mailto:hello@dripl.co.uk) and we will be happy to discuss if we can help you and how.
     image: assets/uploads/undraw_mind_map_re_nlb6.svg
-products:
-  - title: Motorcycle Theory
-    description: "\n"
-    link: /motorcycle
-    icon: assets/uploads/motorcycle-icon.png
-  - title: Driving Theory
-    description: "\n"
-    link: /car
-    icon: assets/uploads/car-icon.png
-  - title: Life in the UK
-    description: "\n"
-    link: /lituk
-    icon: assets/uploads/lituk-icon.png
-  - title: ADI Theory
-    link: /adi
-    icon: assets/uploads/adi-icon.png
-    description: "\n"
-  - title: CPC Part-1
-    link: /cpc-1
-    icon: assets/uploads/lorry-icon.png
-    description: "\n"
-  - title: CPC Part-2
-    link: /cpc-2
-    icon: assets/uploads/lorry2-icon.png
-    description: "\n"
+products: []
 layout: default
 cta:
   title: We are building in public
