@@ -9,9 +9,11 @@
       <span class="text-xl mb-8">
         {{ page.banner.subtitle | markdownify }}
       </span>
+      {% if page.reviews %}
       <div class="text-center mx-auto mb-8">
         {% include review-compact.html review=page.reviews.items.first %}
       </div>
+      {% endif %}
       <div class="text-center mx-auto">
         {% if page.appstore %}
         <a href="{{ page.appstore }}">
