@@ -44,7 +44,11 @@ texts:
 
       If you like the planning, strategy, and execution for the un-startup, **we can help you do the same** for your product or business. [Please reach out  ](mailto:hello@dripl.co.uk) and we will be happy to discuss if we can help you and how.
     image: assets/uploads/undraw_mind_map_re_nlb6.svg
-products: []
+products:
+  - title: Life in the UK Untangled
+    description: The only app you need to pass the Life in the UK test.
+    link: /lituk
+    icon: assets/uploads/adi-1.png
 layout: default
 cta:
   title: We are building in public
