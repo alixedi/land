@@ -9,11 +9,13 @@ playstore: https://play.google.com/store/apps/details?id=com.dripl.lituk
 banner:
   title: Pass your **Life in the UK Test** *without* reading the Book
   subtitle: |-
-    * ✓    1000 Questions
-    * ✓    Based on official Book
-    * ✓    Unlimited Mock Tests
+    ✓     Based on the official Book
 
-      ✓    Exclusive features
+    ✓   1000 Questions for Practice
+
+    ✓    Unlimited Mock Tests 
+
+    ✓    Exclusive features
   image: ../assets/uploads/complete.png
 features:
   - title: Don't Spend Long Hours Reading the Book
