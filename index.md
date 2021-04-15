@@ -53,6 +53,15 @@ products:
     description: Everything you need to pass the Driving Theory Test in 2021
     link: /car
     icon: assets/uploads/car.jpg
+  - title: Motorcycle Theory Untangled
+    description: |-
+      ✓ Questions & Hazard Perception from the DVSA
+
+      ✓ Exclusive Case Studies (scenarios)
+
+      ✓ PLUS exclusive features to help you over the line
+    link: /motorcycle
+    icon: assets/uploads/adi-2.jpg
 layout: default
 cta:
   title: We are building in public
