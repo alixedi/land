@@ -58,22 +58,31 @@ products:
     icon: assets/uploads/adi-1.png
   - title: Driving Theory Untangled
     description: |-
-      DVSA Content
+      ✓  DVSA licensed Content
 
-      Smart HazardGuide
+      ✓  Smart HazardGuide
 
-      Exclusive features
+      ✓  Exclusive features
     link: /car
     icon: assets/uploads/car.jpg
   - title: Motorcycle Theory Untangled
     description: |-
-      DVSA Content
+      DVSA licensed Content
 
       Case Studies (scenarios)
 
       Exclusive Features
     link: /motorcycle
     icon: assets/uploads/adi-2.jpg
+  - description: |-
+      ✓  DVSA licensed Content
+
+      ✓  Smart HazardGuide
+
+      ✓  Exclusive features
+    title: LGV Theory Untangled
+    link: /cpc1
+    icon: assets/uploads/adi-3-2-.jpg
 layout: default
 cta:
   title: We are building in public
