@@ -50,7 +50,12 @@ products:
     link: /lituk
     icon: assets/uploads/adi-1.png
   - title: Driving Theory Untangled
-    description: Everything you need to pass the Driving Theory Test in 2021
+    description: |-
+      DVSA Content
+
+      Smart HazardGuide
+
+      Exclusive features
     link: /car
     icon: assets/uploads/car.jpg
   - title: Motorcycle Theory Untangled
