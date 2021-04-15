@@ -49,6 +49,10 @@ products:
     description: The only app you need to pass the Life in the UK test.
     link: /lituk
     icon: assets/uploads/adi-1.png
+  - title: Driving Theory Untangled
+    description: Everything you need to pass the Driving Theory Test in 2021
+    link: /car
+    icon: assets/uploads/car.jpg
 layout: default
 cta:
   title: We are building in public
