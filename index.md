@@ -92,6 +92,15 @@ products:
     title: LGV Case Studies Untangled
     link: /cpc2
     icon: assets/uploads/adi-3-1-.jpg
+  - title: ADI Theory Untangled
+    description: |-
+      ✓  DVSA licensed Content
+
+      ✓  Smart HazardGuide
+
+      ✓  Exclusive features
+    link: /adi
+    icon: assets/uploads/adi-1.jpg
 layout: default
 cta:
   title: We are building in public
