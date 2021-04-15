@@ -67,11 +67,11 @@ products:
     icon: assets/uploads/car.jpg
   - title: Motorcycle Theory Untangled
     description: |-
-      DVSA licensed Content
+      ✓  DVSA licensed Content
 
-      Case Studies (scenarios)
+      ✓  Case Studies (scenarios)
 
-      Exclusive Features
+      ✓  Exclusive Features
     link: /motorcycle
     icon: assets/uploads/adi-2.jpg
   - description: |-
@@ -83,6 +83,15 @@ products:
     title: LGV Theory Untangled
     link: /cpc1
     icon: assets/uploads/adi-3-2-.jpg
+  - description: |-
+      ✓  22 Real-Life Case Studies
+
+      ✓  1000 DVSA Questions
+
+      ✓  Exclusive features
+    title: LGV Case Studies Untangled
+    link: /cpc2
+    icon: assets/uploads/adi-3-1-.jpg
 layout: default
 cta:
   title: We are building in public
