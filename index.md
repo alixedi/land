@@ -46,7 +46,14 @@ texts:
     image: assets/uploads/undraw_mind_map_re_nlb6.svg
 products:
   - title: Life in the UK Untangled
-    description: The only app you need to pass the Life in the UK test.
+    description: |-
+      
+
+      ✓ 1000 Questions
+
+      ✓ Based on the Official Book
+
+      ✓ Unlimited Mock Tests
     link: /lituk
     icon: assets/uploads/adi-1.png
   - title: Driving Theory Untangled
