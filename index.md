@@ -7,7 +7,7 @@ banner:
   title: "**UN-STARTUP & CONSULTANCY**"
   subtitle: BY [<u>AINY</u>](https://twitter.com/ainyxedi) &
     [<u>ALI</u>](https://twitter.com/alixedi)
-  image: assets/uploads/frame-15.png
+  image: assets/uploads/frame-29.jpg
 texts:
   - title: The story, so far
     description: >-
