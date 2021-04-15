@@ -55,11 +55,11 @@ products:
     icon: assets/uploads/car.jpg
   - title: Motorcycle Theory Untangled
     description: |-
-      ✓ Questions & Hazard Perception from the DVSA
+      DVSA Content
 
-      ✓ Exclusive Case Studies (scenarios)
+      Case Studies (scenarios)
 
-      ✓ PLUS exclusive features to help you over the line
+      Exclusive Features
     link: /motorcycle
     icon: assets/uploads/adi-2.jpg
 layout: default
