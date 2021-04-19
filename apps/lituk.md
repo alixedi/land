@@ -38,7 +38,7 @@ features:
     description: The Life in the UK Untangled app will track your progress as you
       learn new chapters and attempt mock tests.  This makes things simple -
       Install the app, close the rings, pass your Life in the UK test.
-    image: ../assets/uploads/rings-2.jpg
+    image: ../assets/uploads/rings-2-2-.jpg
   - title: And everything else you expect from a Life in the UK test preparation app
     description: >-
       * ✓   Carefully handpicked questions followed by easy explanations. All
