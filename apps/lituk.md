@@ -16,7 +16,7 @@ banner:
     ✓    Unlimited Mock Tests 
 
     ✓    Exclusive features
-  image: ../assets/uploads/heading-1-.png
+  image: ../assets/uploads/heading-2-.png
 features:
   - title: Don't Spend Long Hours Reading the Book
     description: The questions in the Life in the UK app covers the entire content
