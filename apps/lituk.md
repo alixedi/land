@@ -24,11 +24,12 @@ features:
       anymore. Only practising from this app can guarantee that u will pass your
       Life in the UK Test.
     image: ../assets/uploads/practice-6-.jpg
-  - title: Revise all the questions you find tricky
+  - title: Review section for last-minute preparation
     description: The day before your real test, would it not be neat if you could
-      revise all the questions that you found tricky? The Life in the UK
-      Untangled app has just the thing. It keeps track of all the questions you
-      found tricky and stores them in a handy list for revision.
+      revise all the questions that you find hard to remember while practising?
+      The Life in the UK Untangled app has just the thing. The Review feature
+      keeps track of all the questions you found tricky and stores them in a
+      handy list for revision.
     image: ../assets/uploads/revise.jpg
   - title: Instantly search for a word or a phrase
     description: No more "Was Elizabeth 1 the daughter of Anne Boleyn or Catherine
