@@ -150,5 +150,5 @@ footer:
       - name: About
         link: https://dripl.co.uk/
       - name: Contact
-        link: /#contact
+        link: mailto:hello@dripl.co.uk
 ---
