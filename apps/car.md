@@ -20,12 +20,9 @@ banner:
   image: ../assets/uploads/complete.png
 features:
   - title: When the rings close, you are ready
-    description: >-
-      The Driving Theory Untangled app will track your progress as you learn new
-      chapters and attempt mock tests.
-
-
-      This makes things simple - Install the app, close the rings, pass your Driving Theory Test.
+    description: The Driving Theory Untangled app will track your progress as you
+      learn new chapters and attempt mock tests. This makes things simple -
+      Install the app, close the rings, pass your Driving Theory Test.
     image: ../assets/uploads/close-the-rings-1-.jpg
   - title: The HazardGuide show you exactly how you will be scored
     description: >-
