@@ -148,7 +148,7 @@ footer:
       - name: Dripl Blog
         link: https://www.notion.so/dripluk/How-to-Unstartup-4f4ea12d2c8b4e97be3fce5667a08d17
       - name: About
-        link: /#about
+        link: https://dripl.co.uk/
       - name: Contact
         link: /#contact
 ---
