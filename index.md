@@ -54,7 +54,7 @@ products:
       ✓ Based on the Official Book
 
       ✓ Unlimited Mock Tests
-    link: /lituk
+    link: https://dripl.co.uk/lituk/
     icon: assets/uploads/adi-1.png
   - title: Driving Theory Untangled
     description: |-
@@ -63,7 +63,7 @@ products:
       ✓  Smart HazardGuide
 
       ✓  Exclusive features
-    link: /car
+    link: https://dripl.co.uk/car/
     icon: assets/uploads/car.jpg
   - title: Motorcycle Theory Untangled
     description: |-
