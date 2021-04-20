@@ -138,7 +138,7 @@ footer:
   - title: Social Media
     items:
       - name: Facebook
-        link: /#facebook
+        link: https://www.facebook.com/caruntangled
       - name: Linkedin
         link: /#linkedin
       - name: Twitter
