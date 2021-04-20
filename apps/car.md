@@ -28,7 +28,7 @@ features:
   - title: The HazardGuide show you exactly how you will be scored
     description: >-
       Our smart HazardGuide shows you exactly how you will be scored on the real
-      test so that you can learn to spot the developing hazards quickly.
+      test. This way you can learn to spot the developing hazards quickly.
 
 
       All the latest 34 Hazard Perceptions videos from DVSA are included in the Driving Theory Untangled app.
@@ -39,7 +39,7 @@ features:
   - title: The Review Section has a handy list of questions that you find tricky
     description: The day before your real test, would it not be neat if you could
       revise all the questions that you find hard to remember while practising?
-      The Life in the UK Untangled app has just the thing. The Review feature
+      The Driving Theory Untangled app has just the thing. The Review feature
       keeps track of all the questions you found tricky and stores them in a
       handy list for revision.
     image: ../assets/uploads/review-1-.jpg
