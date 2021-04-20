@@ -20,9 +20,10 @@ banner:
   image: ../assets/uploads/complete.png
 features:
   - title: When the rings close, you are ready
-    description: The Driving Theory Untangled app will track your progress as you
-      learn new chapters and attempt mock tests. This makes things simple -
-      Install the app, close the rings, pass your Driving Theory Test.
+    description: The Driving Theory Untangled app will track your progress in form
+      of rings. The rings move as you learn new chapters and attempt mock tests.
+      This makes things simple - Install the app, close the rings, pass your
+      Life in the UK test.
     image: ../assets/uploads/close-the-rings-1-.jpg
   - title: The HazardGuide show you exactly how you will be scored
     description: >-
@@ -36,17 +37,16 @@ features:
       P.S. The additional clips - that some apps claim to have - are unofficial and often not up to date.
     image: ../assets/uploads/frame-23-6-.jpg
   - title: The Review Section has a handy list of questions that you find tricky
-    description: >-
-      Just before you sit in the test, you would like to revise all the
-      questions that you find tricky.
-
-
-      The review feature in the Driving Theory Untangled app provides you with a list of all the questions that you would want to go through at the last moment.
+    description: The day before your real test, would it not be neat if you could
+      revise all the questions that you find hard to remember while practising?
+      The Life in the UK Untangled app has just the thing. The Review feature
+      keeps track of all the questions you found tricky and stores them in a
+      handy list for revision.
     image: ../assets/uploads/review-1-.jpg
   - title: "Instantly search questions about a certain word "
     description: >-
-      No more frantically looking through all the questions trying to find
-      questions about a certain word or phrase.
+      No more frantically looking all over the app trying to find questions
+      about a certain word or phrase.
 
 
       Using the Search feature in Driving Theory Untangled app, you can type a word and you will get a list of questions relevant to that term
