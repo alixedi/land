@@ -32,9 +32,9 @@ features:
       handy list for revision.
     image: ../assets/uploads/revise.jpg
   - title: Instantly search for a word or a phrase
-    description: No more "Was Elizabeth 1 the daughter of Anne Boleyn or Catherine
-      of Aragon?..." or "What was UK's population in 2010?...". Just type in a
-      word or a phrase in the search bar and get a list of questions that match.
+    description: No more "Was Bloody Mary and Mary Queen of Scots the same
+      person?..." or "What was UK's population in 2010?...". Just type in a word
+      or a phrase in the search bar and get a list of questions that match.
     image: ../assets/uploads/search-6-.jpg
   - title: When the rings close, you are ready
     description: The Life in the UK Untangled app will track your progress as you
