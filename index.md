@@ -112,7 +112,7 @@ footer:
   - title: Social
     items:
       - name: "@ainyxedi"
-        link: https://www.notion.so/dripluk/How-to-Unstartup-4f4ea12d2c8b4e97be3fce5667a08d17#f7cc15e014ad4157a7f44afc5f9f2158
+        link: https://twitter.com/ainyxedi
       - name: "@alixedi"
         link: https://twitter.com/alixedi
   - title: Company
