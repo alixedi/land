@@ -281,6 +281,6 @@ footer:
         link: https://www.notion.so/dripluk/How-to-Unstartup-4f4ea12d2c8b4e97be3fce5667a08d17
       - link: /#about
         name: About
-      - link: /#contact
+      - link: mailto:hello@dripl.co.uk
         name: Contact
 ---
