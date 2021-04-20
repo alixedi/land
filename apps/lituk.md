@@ -37,9 +37,10 @@ features:
       or a phrase in the search bar and get a list of questions that match.
     image: ../assets/uploads/search-6-.jpg
   - title: When the rings close, you are ready
-    description: The Life in the UK Untangled app will track your progress as you
-      learn new chapters and attempt mock tests.  This makes things simple -
-      Install the app, close the rings, pass your Life in the UK test.
+    description: The Life in the UK Untangled app will track your progress in form
+      of rings. The rings move as you learn new chapters and attempt mock
+      tests.  This makes things simple - Install the app, close the rings, pass
+      your Life in the UK test.
     image: ../assets/uploads/rings-2-2-.jpg
   - title: And everything else you expect from a Life in the UK test preparation app
     description: >-
