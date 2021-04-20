@@ -54,16 +54,16 @@ products:
       ✓ Based on the Official Book
 
       ✓ Unlimited Mock Tests
-    link: https://dripl.co.uk/lituk/
+    link: https://dripl.co.uk/lituk
     icon: assets/uploads/adi-1.png
   - title: Driving Theory Untangled
     description: |-
-      ✓  DVSA licensed Content
+      > ✓  DVSA licensed Content
 
       ✓  Smart HazardGuide
 
       ✓  Exclusive features
-    link: https://dripl.co.uk/car/
+    link: https://dripl.co.uk/car
     icon: assets/uploads/car.jpg
   - title: Motorcycle Theory Untangled
     description: |-
