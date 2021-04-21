@@ -15,7 +15,7 @@ banner:
 
     ✓    Unlimited Mock Tests 
 
-    ✓    £2.99 only! Install Now
+    ✓    £2.99 only. Install Now!
   image: ../assets/uploads/heading-2-.png
 features:
   - title: Don't Spend Long Hours Reading the Book
