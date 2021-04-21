@@ -27,7 +27,7 @@ features:
 
 
       And if you have already read the book then why not give some mock tests and gain more confidence.
-    image: ../assets/uploads/practice-6-.jpg
+    image: ../assets/uploads/practice.jpg
   - title: Review section for last-minute preparation
     description: >-
       The day before your real test, would it not be neat if you could revise
