@@ -45,7 +45,7 @@ features:
     image: ../assets/uploads/search-6-.jpg
   - title: When the rings close, you are ready
     description: The Life in the UK Untangled app will track your progress in form
-      of rings. The rings move as you learn new chapters and attempt mock
+      of rings. The rings move as you learn new chapters and pass mock
       tests.  This makes things simple - Install the app, close the rings, pass
       your Life in the UK test.
     image: ../assets/uploads/rings-2-2-.jpg
