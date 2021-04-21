@@ -29,11 +29,14 @@ features:
       And if you have already read the book then why not give some mock tests and gain more confidence.
     image: ../assets/uploads/practice-6-.jpg
   - title: Review section for last-minute preparation
-    description: The day before your real test, would it not be neat if you could
-      revise all the questions that you find hard to remember while practising?
-      The Life in the UK Untangled app has just the thing. The Review feature
-      keeps track of all the questions you found tricky and stores them in a
-      handy list for revision.
+    description: >-
+      The day before your real test, would it not be neat if you could revise
+      all the questions that you find hard to remember while practising? The
+      Review feature keeps track of all the questions you find tricky and stores
+      them in a handy list for revision.
+
+
+      You will find this section quite useful at any stage during your practice. Refer to it time and again, as you move ahead with your practice, to get the best results.
     image: ../assets/uploads/revise.jpg
   - title: Instantly search for a word or a phrase
     description: No more "Was Bloody Mary and Mary Queen of Scots the same person?"
