@@ -14,9 +14,9 @@ banner:
   subtitle: |-
     * ✓  Questions and Hazard Perception from DVSA
 
-      ✓  Exclusive features to help you all the way
+      ✓ Unlimited Mock Tests
 
-      ✓  <u>Money-back Gurantee</u>
+      ✓  Exclusive features to help you over the line
   image: ../assets/uploads/complete.png
 features:
   - title: When the rings close, you are ready
