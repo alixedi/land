@@ -103,7 +103,7 @@ reviews:
 
         Fantastic app...just need landscape mode for iPad.
       stars: Top  ★★★★★
-  title: Read what our users think
+  title: Read what our users are saying
 faqs:
   - title: Why should I buy the Life in the UK Untangled app instead of the official
       Handbook?
@@ -133,9 +133,9 @@ faqs:
 
 
       After attempting each mock test, you can also review your scores which will show you exactly which areas you need to work on.
-    title: Can I prepare for my Life in the Uk test by just giving Mock Tests?
+    title: Can I prepare for my Life in the UK test by just giving Mock Tests?
   - text: Yes. We regularly update our app in accordance with the Official Life in
-      the Uk Handbook. All the content in the Life in the UK Untangled app is
+      the UK Handbook. All the content in the Life in the UK Untangled app is
       carefully developed by professional experts.
     title: Does the app have all the updated content?
   - text: >-
@@ -231,9 +231,11 @@ faqs:
       Remain) in the UK.
     title: Why does one need to take Life in the UK Test?
   - text: >-
-      The test is for anyone that is between the ages of 18 to 65 and are
-      applying for indefinite leave to remain (Settlement) or British
-      citizenship. You do not need to take the test if you:
+      Any person between 18 and 65 years of age, applying for indefinite leave
+      to remain (Settlement) or British citizenship, can take the test
+
+
+      You do not need to take the test if you:
 
 
       * are under 18
