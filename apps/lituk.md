@@ -188,7 +188,7 @@ faqs:
       **2- True or Fale:** You need to mark True or False for the statement given in the question.
 
 
-      **3- Choose the correct answer(s):** You will be given a set of statements and you need to select the ones that are true
+      **3- Choose the correct answer(s):** You will be given a set of statements and you need to select the true ones.
     title: What type of questions are asked in the test?
   - text: Life in the UK Test must be booked online at least 3 days in advance.
     title: When should I book the test?
