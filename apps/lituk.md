@@ -51,8 +51,8 @@ features:
     image: ../assets/uploads/rings-2-2-.jpg
   - title: And everything else you expect from a Life in the UK test preparation app
     description: >-
-      * ✓   Carefully handpicked questions followed by easy explanations. All
-      prepared from the official handbook 
+      * ✓   1000 questions and easy explanations, all prepared from the official
+      handbook 
 
       * ✓    Mock Tests to give you a taste of the real test. Attempt as many as you can
 
