@@ -19,10 +19,14 @@ banner:
   image: ../assets/uploads/heading-2-.png
 features:
   - title: Don't Spend Long Hours Reading the Book
-    description: The questions in the Life in the UK app covers the entire content
-      of Life in the UK official Handbook. So you don't need to read the book
-      anymore. Only practising from this app can guarantee that you will pass
-      your Life in the UK Test.
+    description: >-
+      The questions in the Life in the UK app covers the entire content of Life
+      in the UK official Handbook. So you don't have to read the book.
+      Practising from this app can guarantee that you will pass your Life in the
+      UK Test.
+
+
+      And if you have already read the book then why not give some mock tests and gain more confidence.
     image: ../assets/uploads/practice-6-.jpg
   - title: Review section for last-minute preparation
     description: The day before your real test, would it not be neat if you could
