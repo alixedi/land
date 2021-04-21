@@ -42,7 +42,7 @@ features:
     description: No more "Was Bloody Mary and Mary Queen of Scots the same person?"
       or "What was UK's population in 2010?" Just type in a word or a phrase in
       the search bar and get a list of questions that match.
-    image: ../assets/uploads/search-6-.jpg
+    image: ../assets/uploads/search.jpg
   - title: When the rings close, you are ready
     description: The Life in the UK Untangled app will track your progress in form
       of rings. The rings move as you learn new chapters and pass mock
