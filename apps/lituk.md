@@ -55,6 +55,8 @@ features:
       handbook 
 
       * ✓    Mock Tests to give you a taste of the real test. Attempt as many as you can
+
+        ✓    Exclusive features to make your learning easier and faster
     image: ../assets/uploads/everything-else.jpg
 cta:
   title: Download Now
