@@ -23,7 +23,7 @@ features:
     description: The Driving Theory Untangled app will track your progress in form
       of rings. The rings move as you learn new chapters and attempt mock tests.
       This makes things simple - Install the app, close the rings, pass your
-      Life in the UK test.
+      Driving Theory Test.
     image: ../assets/uploads/close-the-rings-1-.jpg
   - title: The HazardGuide show you exactly how you will be scored
     description: >-
