@@ -36,7 +36,7 @@ features:
       them in a handy list for revision.
 
 
-      You will find this section quite useful at any stage during your practice. Refer to it time and again, as you move ahead with your practice, to get the best results.
+      Refer to this section time and again, as you move ahead with your practice, to get the best results.
     image: ../assets/uploads/revise.jpg
   - title: Instantly search for a word or a phrase
     description: No more "Was Bloody Mary and Mary Queen of Scots the same person?"
