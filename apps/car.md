@@ -52,7 +52,7 @@ features:
       about a certain word or phrase.
 
 
-      Using the Search feature in Driving Theory Untangled app, you can type a word and you will get a list of questions relevant to that term
+      Using the Search feature in Driving Theory Untangled app, you can type a word and you will get a list of questions relevant to that term.
     image: ../assets/uploads/search-4-.jpg
   - description: |-
       * ✓ Unlimited timed mock tests
