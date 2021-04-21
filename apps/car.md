@@ -37,11 +37,14 @@ features:
       P.S. The additional clips - that some apps claim to have - are unofficial and often not up to date.
     image: ../assets/uploads/frame-23-6-.jpg
   - title: The Review Section has a handy list of questions that you find tricky
-    description: The day before your real test, would it not be neat if you could
-      revise all the questions that you find hard to remember while practising?
-      The Driving Theory Untangled app has just the thing. The Review feature
-      keeps track of all the questions you find tricky and stores them in a
-      handy list for revision.
+    description: >-
+      The day before your real test, would it not be neat if you could revise
+      all the questions that you find hard to remember while practising? The
+      Review feature keeps track of all the questions you find tricky and stores
+      them in a handy list for revision.
+
+
+      Refer to this section time and again, as you move ahead with your practice, to get the best results.
     image: ../assets/uploads/review-1-.jpg
   - title: "Instantly search questions about a certain word "
     description: >-
