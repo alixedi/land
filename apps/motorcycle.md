@@ -125,30 +125,22 @@ faqs:
   - title: Is the Motorcycle Theory Untangled app easy to use?
     text: Yes! We have designed the Motorcycle Theory Untangled app to be easy to
       use. Every feature, every detail is meticulously designed to help you get
-      our users ready to pass the driving theory test.
+      our users ready to pass their theory test.
 footer:
-  - title: Links
-    items:
-      - name: FAQ
-        link: /#faq
-      - name: Help
-        link: /#help
-      - name: Support
-        link: /#support
   - title: Social
     items:
       - name: Facebook
-        link: /#facebook
+        link: https://www.facebook.com/motorcycleuntangled
       - name: LinkedIn
-        link: /#linkedin
+        link: https://www.linkedin.com/feed/
       - name: Twitter
-        link: /#twitter
+        link: https://twitter.com/ainyxedi
   - title: Company
     items:
       - name: Blog
-        link: /#blog
+        link: https://www.notion.so/dripluk/How-to-Unstartup-4f4ea12d2c8b4e97be3fce5667a08d17
       - name: About
-        link: /#about
+        link: https://dripl.co.uk/
       - name: Contact
-        link: /#contact
+        link: mailto:hello@dripl.co.uk
 ---
