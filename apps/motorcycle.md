@@ -52,7 +52,7 @@ features:
 
 
       Refer to this section time and again, as you move ahead with your practice, to get the best results.
-    image: ../assets/uploads/review.jpg
+    image: ../assets/uploads/frame-30-1-.jpg
   - title: Instantly search questions about a certain word
     description: >-
       No more frantically looking all over the app trying to find questions
