@@ -60,7 +60,7 @@ features:
 
 
       Using the Search feature in Motorcycle Theory Untangled app, you can type a word and you will get a list of questions relevant to that term.
-    image: ../assets/uploads/search-1-.jpg
+    image: ../assets/uploads/frame-29.jpg
   - title: And everything else you expect from a Motorcycle Theory test app
     description: |-
       ✓ Unlimited timed mock tests
