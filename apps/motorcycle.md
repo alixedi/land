@@ -11,9 +11,11 @@ banner:
   subtitle: |-
     * ✓ Questions & Hazard Perception from the DVSA
 
-      ✓ Exclusice Case Studies (scenarios)
+      ✓ Exclusive Case Studies (scenarios)
 
       ✓ PLUS exclusive features to help you over the line
+
+      ✓ £2.99 only. Get it Now!
   image: ../assets/uploads/motorcycle-complete.png
 features:
   - title: When the rings close, you are ready
