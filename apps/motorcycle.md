@@ -31,7 +31,7 @@ features:
 
 
       All the case studies are based on real-life situations and in accordance with the latest DVSA test format.
-    image: ../assets/uploads/vector.jpg
+    image: ../assets/uploads/frame-32.jpg
   - title: The HazardGuide show you exactly how you will be scored
     description: >-
       Our smart HazardGuide shows you exactly how you will be scored on the real
