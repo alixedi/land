@@ -69,17 +69,19 @@ cta:
   title: Download Now
   subtitle: Pass the Motorcycle theory test first time
 reviews:
-  title: What our users are saying..
+  title: What our users are saying...
   items:
     - name: Ali Z
+      text: I'm so glad I bought this app. The app I was practising with before had
+        the worst way of explaining hazard perception.   This app made hazard
+        perception a lot easier.
+      stars: ★★★★★
+    - name: Ainy Z
       text: Passed my test first time because of this app. It has all 34 DVSA hazard
         perception video clips, 10 case studies that cover real-life scenarios,
         all the questions from the DVSA practice bank. It also allows me to
         search for terms. Finally, just before the test, I was able to revise
         all the questions that I found difficult thanks to the review feature.
-      stars: ★★★★★
-    - name: Ainy Z
-      text: Less Monrhey..
       stars: ★★★★
 faqs:
   - title: Label One
