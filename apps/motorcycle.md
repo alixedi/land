@@ -79,7 +79,7 @@ cta:
 reviews:
   title: What our users are saying...
   items:
-    - name: Anne
+    - name: Alan
       text: I'm so glad I bought this app. The app I was practising with before had
         the worst way of explaining hazard perception. This app made hazard
         perception a lot easier.
@@ -93,23 +93,39 @@ reviews:
         feature.
       stars: ★★★★
 faqs:
-  - title: Label One
-    text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur,
-      architecto, explicabo perferendis nostrum, maxime impedit atque odit sunt
-      pariatur illo obcaecati soluta molestias iure facere dolorum adipisci eum?
-      Saepe, itaque.
-  - title: Label Two
-    text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur,
-      architecto, explicabo perferendis nostrum, maxime impedit atque odit sunt
-      pariatur illo obcaecati soluta molestias iure facere dolorum adipisci eum?
-      Saepe, itaque.
-  - title: Label Three
-    text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur,
-      architecto, explicabo perferendis nostrum, maxime impedit atque odit sunt
-      pariatur illo obcaecati soluta molestias iure facere dolorum adipisci eum?
-      Saepe, itaque.
-  - title: How are you?
-    text: We are fine thank you.
+  - title: What if the Motorcycle Theory Untangled not right for me?
+    text: No problem! Just send an email and we'll refund you, no questions asked.
+  - title: How long does it take to prep for the motorcycle theory test?
+    text: Unlike other apps, we do not recommend a personal plan. Instead, we have a
+      universal progress tracker i.e. the rings. You should book your theory
+      test when the rings close. Revise while you are waiting for the test.
+  - title: Are case studies included in the Motorcycle Theory Untangled app?
+    text: Yes. We have added case studies and made them part of the practice. As you
+      proceed with the practice you will find case studies in the same section.
+  - title: Why should I buy the Motorcycle Theory Untangled app instead of the
+      official DVSA app?
+    text: We have licensed the official DVSA revision bank and hazard perception
+      clips and so our app has the same content as the official app. In addition
+      to DVSA-licensed content, the Motorcycle Theory Untangled app has
+      exclusive features that are designed to help you over the line. For
+      example - hazard guide, instant search, smart revision and a universal
+      progress tracker.
+  - title: Why does the Motorcycle Theory Untangled app have only 34 hazard
+      perception clips?
+    text: The 34 hazard perception clips in the Motorcycle Theory Untangled app are
+      the only hazard perception clips that are being licensed by DVSA at the
+      moment. Other apps that claim to have more clips are either not official
+      or worse - old clips that are not compatible with the current hazard
+      perception test requirements.
+  - title: Does the Motorcycle Theory Untangled app work on the iPad or Android
+      Tablets?
+    text: Yes! The Motorcycle Theory Untangled app works on the iPad as well as
+      Android Tablets. In fact, we have made certain adjustments so that our
+      users have a pleasant experience with a larger screen.
+  - title: Is the Motorcycle Theory Untangled app easy to use?
+    text: Yes! We have designed the Motorcycle Theory Untangled app to be easy to
+      use. Every feature, every detail is meticulously designed to help you get
+      our users ready to pass the driving theory test.
 footer:
   - title: Links
     items:
