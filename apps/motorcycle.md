@@ -42,7 +42,7 @@ features:
 
 
       P.S. The additional clips - that some apps claim to have - are unofficial and often not up to date.
-    image: ../assets/uploads/hazard.jpg
+    image: ../assets/uploads/frame-23.jpg
   - title: The Review Section has a handy list of questions that you find tricky
     description: >-
       The day before your real test, would it not be neat if you could revise
