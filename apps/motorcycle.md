@@ -72,7 +72,7 @@ features:
       ✓ All 34 Hazard perception clips from the DVSA
 
       ✓ Case studies following the latest DVSA test format
-    image: ../assets/uploads/vector.jpg
+    image: ../assets/uploads/frame-33-1-.jpg
 cta:
   title: Download Now
   subtitle: Pass the Motorcycle theory test first time
