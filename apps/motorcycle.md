@@ -19,12 +19,10 @@ banner:
   image: ../assets/uploads/motorcycle-complete.png
 features:
   - title: When the rings close, you are ready
-    description: >-
-      The Driving Theory Untangled app will track your progress as you learn new
-      chapters and attempt mock tests.
-
-
-      This makes things simple - Install the app, close the rings, pass your Driving Theory Test.
+    description: The Motorcycle Theory Untangled app will track your progress in
+      form of rings. The rings move as you learn new chapters and attempt mock
+      tests. This makes things simple - Install the app, close the rings, pass
+      your Motorcycle Theory Test.
     image: ../assets/uploads/close-the-rings.jpg
   - title: 10 Case Studies covering real-life situations
     description: We have included 10 case studies with about 20 questions each so
