@@ -47,15 +47,15 @@ features:
 
 
       Refer to this section time and again, as you move ahead with your practice, to get the best results.
-    image: ../assets/uploads/review-1-.jpg
+    image: ../assets/uploads/review.jpg
   - title: "Instantly search questions about a certain word "
     description: >-
       No more frantically looking all over the app trying to find questions
       about a certain word or phrase.
 
 
-      Using the Search feature in Driving Theory Untangled app, you can type a word and you will get a list of questions relevant to that term.
-    image: ../assets/uploads/search-4-.jpg
+      Using the Search feature in ADI Theory Untangled app, you can type a word and you will get a list of questions relevant to that term.
+    image: ../assets/uploads/search-1-.jpg
   - description: |-
       * ✓ Unlimited timed mock tests
       * ✓ Practice mode that helps you remember important facts and details
