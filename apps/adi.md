@@ -3,7 +3,7 @@ layout: app
 title: ADI Theory Untangled
 permalink: /adi/
 icon: ../assets/uploads/adi-1.jpg
-color: "#ef7b2e"
+color: "#ff9955"
 appstore: https://apps.apple.com/app/apple-store/id1512489096?pt=121141503&ct=landing&mt=8
 playstore: https://play.google.com/store/apps/details?id=com.dripl.lituk&referrer=utm_source%3Dgoogle%26utm_medium%3Dlanding
 banner:
