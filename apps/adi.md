@@ -3,14 +3,14 @@ layout: app
 title: ADI Theory Untangled
 permalink: /adi/
 icon: ../assets/uploads/adi-1.jpg
-color: "#ff9955"
+color: "#e88442"
 appstore: https://apps.apple.com/app/apple-store/id1512489096?pt=121141503&ct=landing&mt=8
 playstore: https://play.google.com/store/apps/details?id=com.dripl.lituk&referrer=utm_source%3Dgoogle%26utm_medium%3Dlanding
 banner:
   title: |-
     Everything you need 
 
-    to pass **Driving Theory Test** in 2021
+    to pass **ADI Theory Test** in 2021
   subtitle: |-
     * ✓  Questions and Hazard Perception from DVSA
 
@@ -22,10 +22,10 @@ banner:
   image: ../assets/uploads/complete.png
 features:
   - title: When the rings close, you are ready
-    description: The Driving Theory Untangled app will track your progress in form
-      of rings. The rings move as you learn new chapters and attempt mock tests.
+    description: The ADI Theory Untangled app will track your progress in form of
+      rings. The rings move as you learn new chapters and attempt mock tests.
       This makes things simple - Install the app, close the rings, pass your
-      Driving Theory Test.
+      ADI  Theory Test.
     image: ../assets/uploads/close-the-rings-1-.jpg
   - title: The HazardGuide show you exactly how you will be scored
     description: >-
