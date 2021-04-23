@@ -67,7 +67,7 @@ features:
     title: And everything else you expect from an LGV Theory test app
     image: ../assets/uploads/everyhting-else-2-.jpg
 cta:
-  title: Pass Driving Theory Test first time
+  title: Pass LGV Theory Test first time
   subtitle: Download Now!
 reviews:
   title: Read what our users are saying
@@ -118,7 +118,7 @@ faqs:
   - title: Is the LGV Theory Untangled app easy to use?
     text: Yes! We have designed the LGV Theory Untangled app to be easy to use.
       Every feature, every detail is meticulously designed to help you get our
-      users ready to pass the driving theory test.
+      users ready to pass the LGV theory test.
 footer:
   - title: Social Media
     items:
