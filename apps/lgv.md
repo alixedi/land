@@ -75,8 +75,8 @@ reviews:
     - name: Andy421
       text: I installed this app just to practice mock tests for CPC 1. What I found
         great was that there unlimited tests on the same pattern as the real
-        test. I did a lot of tests. and every test gave me more confidence. I
-        passed.
+        test. I attempted a lot of tests and every test gave me more confidence.
+        I passed.
       stars: Great for practising tests ★★★★★
     - text: As compared to other apps for CPC1, I find this app rather simple which
         works for me. It doesnt waste time. Although sometimes the repetation of
