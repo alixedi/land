@@ -70,14 +70,11 @@ cta:
 reviews:
   title: Read what our users are saying
   items:
-    - name: 9 Gager
-      text: >-
-        App has very good content and questions. It workdsvery fast and almost
-        the half price than other well known driving apps. 
-
-
-        Great value for money. Thanks for publishing it.
-      stars: Good content, fast and not expensive ★★★★★
+    - name: Eleanor Mcgair
+      text: This app is absolutely amazing- it's definitely a top-class testing
+        program that tests your knowledge of Driving both for Theory and Hazard
+        Perception - I highly recommend it. 😊 👍
+      stars: ADI ★★★★★
     - text: After practising with two highly-rated paid apps on the app store and
         getting nowhere, I came across this app. Because of lockdown, the time
         was no issue so I experimented practising with it. It turned out to be
