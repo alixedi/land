@@ -81,18 +81,15 @@ reviews:
         status and distance to your goal.
       name: QZ
       stars: Best mock tests ★★★★★
-    - stars: Great Features ★★★★★
-      name: quratulain116
-      text: >-
-        This app is remarkably better than other apps I tried to practice with.
-        It has an interesting and useful features that helped me practice only
-        those questions that I had hard time remembering. for eg I kept
-        forgetting the difference between pelican and puffin crossing. In the
-        Search feature I can actually type in the word 'crossing' and get all
-        the questions related to it.
-
-
-        It is really easy to use and nicely designed.
+    - stars: All the official content ★★★★★
+      name: "Ed "
+      text: This was the second app I bought for the driving theory practice. My first
+        app was the official app from the driving agency that take the test. I
+        tried to practice with it for a month but I kept losing focus and kept
+        forgetting as I went forward. Then I downloaded the untangled app
+        because they also promised to have the same DVSA material. I was
+        surprised to notice that I was actually memorising what I was learning.
+        The progress circles are also a great way to keep track of the practice.
 faqs:
   - title: What if the Driving Theory Untangled not right for me?
     text: No problem! Just send an email and we'll refund you, no questions asked.
