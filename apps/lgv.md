@@ -24,11 +24,11 @@ banner:
   image: ../assets/uploads/head-3-.png
 features:
   - title: When the rings close, you are ready
-    description: The Driving Theory Untangled app will track your progress in form
-      of rings. The rings move as you learn new chapters and attempt mock tests.
-      This makes things simple - Install the app, close the rings, pass your
-      Driving Theory Test.
-    image: ../assets/uploads/close-the-rings-1-.jpg
+    description: The LGV Theory Untangled app will track your progress in form of
+      rings. The rings move as you learn new chapters and attempt mock tests.
+      This makes things simple - Install the app, close the rings, pass your LGV
+      Theory Test.
+    image: ../assets/uploads/rings-2-.jpg
   - title: The HazardGuide show you exactly how you will be scored
     description: >-
       Our smart HazardGuide shows you exactly how you will be scored on the real
