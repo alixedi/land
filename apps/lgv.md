@@ -78,27 +78,14 @@ reviews:
         test. I did a lot of tests. and every test gave me more confidence. I
         passed.
       stars: Great for practising tests ★★★★★
-    - text: After practising with two highly-rated paid apps on the app store and
-        getting nowhere, I came across this app. Because of lockdown, the time
-        was no issue so I experimented practising with it. It turned out to be
-        much better than the other two I was wasting my time with. What I a bit
-        frustrating was that the repitation of the questions that I got wrong.
-        But I think it is made this way so the user does not forget what they
-        learn. By the end of practice, I felt quite confident about my test.
-      name: BURU4
-      stars: Best among all the other apps ★★★★★
-    - stars: Great Features ★★★★★
-      name: quratulain116
-      text: >-
-        This app is remarkably better than other apps I tried to practice with.
-        It has an interesting and useful features that helped me practice only
-        those questions that I had hard time remembering. for eg I kept
-        forgetting the difference between pelican and puffin crossing. In the
-        Search feature I can actually type in the word 'crossing' and get all
-        the questions related to it.
-
-
-        It is really easy to use and nicely designed.
+    - text: As compared to other apps for CPC1, I find this app rather simple which
+        works for me. It doesnt waste time. Although sometimes the repetation of
+        same questions becomes somewhat frustrating but according to their
+        method (cant remember what it's called) it helps the brain to remember.
+        Which was  right. By the end of practice I was able to recall all the
+        answers that I kept forgetting in the beginning.
+      name: Zaidi
+      stars: Reliable. Definitely Recommend ★★★★★
 faqs:
   - title: What if the Driving Theory Untangled not right for me?
     text: No problem! Just send an email and we'll refund you, no questions asked.
