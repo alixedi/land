@@ -10,9 +10,11 @@ banner:
   title: |-
     Everything you need 
 
-    to pass **Driving Theory Test** in 2021
+    to pass  **LGV Theory Test** in 2021
   subtitle: |-
-    * ✓  Questions and Hazard Perception from DVSA
+    * ✓  Pass CPC Part 1/ LGV/ HGV/ PCV Theory Test
+
+      ✓  Questions and Hazard Perception from DVSA
 
       ✓  Unlimited Mock Tests
 
