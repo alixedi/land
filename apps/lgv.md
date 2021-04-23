@@ -16,7 +16,7 @@ banner:
 
       ✓  Questions and Hazard Perception from DVSA
 
-      ✓  £2.99 only. Install Now!
+        **£2.99** only. Install Now!
   image: ../assets/uploads/head-3-.png
 features:
   - title: When the rings close, you are ready
