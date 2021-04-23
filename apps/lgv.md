@@ -87,17 +87,16 @@ reviews:
       name: Zaidi
       stars: Reliable. Definitely Recommend ★★★★★
 faqs:
-  - title: What if the Driving Theory Untangled not right for me?
+  - title: What if the LGV Theory Untangled not right for me?
     text: No problem! Just send an email and we'll refund you, no questions asked.
   - title: How long does it take to prep for the theory test?
     text: Unlike other apps, we do not recommend a personal plan. Instead, we have a
       universal progress tracker i.e. the rings. You should book your theory
       test when the rings close. Revise while you are waiting for the test.
-  - title: Are the new video case studies included in the Driving Theory Untangled
-      app?
-    text: Yes. The last 3 questions in every mock-test in the Driving Theory
-      Untangled app are based on a video case study. You can also practice video
-      case studies like other multiple-choice questions.
+  - title: Are the new video case studies included in the LGV Theory Untangled app?
+    text: Yes. The last 3 questions in every mock-test in the LGV Theory Untangled
+      app are based on a video case study. You can also practice video case
+      studies like other multiple-choice questions.
   - title: Why should I buy the Driving Theory Untangled app instead of the official
       DVSA app?
     text: >-
