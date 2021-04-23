@@ -83,13 +83,13 @@ reviews:
       stars: Best mock tests ★★★★★
     - stars: All the official content ★★★★★
       name: "Ed "
-      text: This was the second app I bought for the driving theory practice. My first
-        app was the official app from the driving agency that take the test. I
-        tried to practice with it for a month but I kept losing focus and kept
-        forgetting as I went forward. Then I downloaded the untangled app
-        because they also promised to have the same DVSA material. I was
-        surprised to notice that I was actually memorising what I was learning.
-        The progress circles are also a great way to keep track of the practice.
+      text: This was the second app I bought for the ADI theory practice. My first app
+        was the official app from the agency that takes the test. I tried to
+        practice with it for a month but I kept losing focus and kept forgetting
+        as I went forward. Then I downloaded the untangled app because they also
+        promised to have the same DVSA material. I was surprised to notice that
+        I was actually memorising what I was learning. The progress circles are
+        also a great way to keep track of the practice.
 faqs:
   - title: What if the ADI Theory Untangled not right for me?
     text: No problem! Just send an email and we'll refund you, no questions asked.
@@ -104,10 +104,10 @@ faqs:
       clips and so our app has the same content as the official app.
 
 
-      In addition to DVSA-licensed content, the Driving Theory Untangled app has exclusive features that are designed to help you over the line. For example - hazard guide, instant search, smart revision and a universal progress tracker.
+      In addition to DVSA-licensed content, the ADI Theory Untangled app has exclusive features that are designed to help you over the line. For example - hazard guide, instant search, smart revision and a universal progress tracker.
   - title: Why does the ADI Theory Untangled app have only 34 hazard perception clips?
     text: >-
-      The 34 hazard perception clips in the Driving Theory Untangled app are the
+      The 34 hazard perception clips in the ADI theory Untangled app are the
       only hazard perception clips that are being licensed by DVSA at the
       moment.
 
@@ -123,7 +123,7 @@ faqs:
   - title: Is the ADI Theory Untangled app easy to use?
     text: Yes! We have designed the ADI Theory Untangled app to be easy to use.
       Every feature, every detail is meticulously designed to help you get our
-      users ready to pass the driving theory test.
+      users ready to pass the ADI theory test.
 footer:
   - title: Social Media
     items:
