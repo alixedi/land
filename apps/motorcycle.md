@@ -7,7 +7,7 @@ color: "#ce6a8f"
 appstore: https://apps.apple.com/gb/app/motorcycle-theory-untangled/id1537956813
 playstore: https://play.google.com/store/apps/details?id=com.dripl.motorcycle
 banner:
-  title: <u>Everything</u> you need to pass the **Motorcycle theory test** in *2021*
+  title: <u>Everything</u> you need to pass the **Motorcycle Theory Test** in *2021*
   subtitle: |-
     * ✓ Questions & Hazard Perception from the DVSA
 
