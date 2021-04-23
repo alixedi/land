@@ -75,15 +75,12 @@ reviews:
         program that tests your knowledge of Driving both for Theory and Hazard
         Perception - I highly recommend it. 😊 👍
       stars: ADI ★★★★★
-    - text: After practising with two highly-rated paid apps on the app store and
-        getting nowhere, I came across this app. Because of lockdown, the time
-        was no issue so I experimented practising with it. It turned out to be
-        much better than the other two I was wasting my time with. What I a bit
-        frustrating was that the repitation of the questions that I got wrong.
-        But I think it is made this way so the user does not forget what they
-        learn. By the end of practice, I felt quite confident about my test.
-      name: BURU4
-      stars: Best among all the other apps ★★★★★
+    - text: There is no set number of mock tests and you can give as many tests as you
+        want. The app shows the previously attempted tests and notes their score
+        so you can see your progress. The rings on the home page show your
+        status and distance to your goal.
+      name: QZ
+      stars: Best mock tests ★★★★★
     - stars: Great Features ★★★★★
       name: quratulain116
       text: >-
