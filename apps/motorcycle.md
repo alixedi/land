@@ -75,7 +75,7 @@ features:
     image: ../assets/uploads/frame-33-1-.jpg
 cta:
   title: Download Now
-  subtitle: Pass the Motorcycle theory test first time
+  subtitle: Pass the Motorcycle Theory Test first time
 reviews:
   title: What our users are saying...
   items:
