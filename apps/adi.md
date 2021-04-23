@@ -91,18 +91,13 @@ reviews:
         surprised to notice that I was actually memorising what I was learning.
         The progress circles are also a great way to keep track of the practice.
 faqs:
-  - title: What if the Driving Theory Untangled not right for me?
+  - title: What if the ADI Theory Untangled not right for me?
     text: No problem! Just send an email and we'll refund you, no questions asked.
   - title: How long does it take to prep for the theory test?
     text: Unlike other apps, we do not recommend a personal plan. Instead, we have a
       universal progress tracker i.e. the rings. You should book your theory
       test when the rings close. Revise while you are waiting for the test.
-  - title: Are the new video case studies included in the Driving Theory Untangled
-      app?
-    text: Yes. The last 3 questions in every mock-test in the Driving Theory
-      Untangled app are based on a video case study. You can also practice video
-      case studies like other multiple-choice questions.
-  - title: Why should I buy the Driving Theory Untangled app instead of the official
+  - title: Why should I buy the ADI Theory Untangled app instead of the official
       DVSA app?
     text: >-
       We have licensed the official DVSA revision bank and hazard perception
@@ -110,8 +105,7 @@ faqs:
 
 
       In addition to DVSA-licensed content, the Driving Theory Untangled app has exclusive features that are designed to help you over the line. For example - hazard guide, instant search, smart revision and a universal progress tracker.
-  - title: Why does the Driving Theory Untangled app have only 34 hazard perception
-      clips?
+  - title: Why does the ADI Theory Untangled app have only 34 hazard perception clips?
     text: >-
       The 34 hazard perception clips in the Driving Theory Untangled app are the
       only hazard perception clips that are being licensed by DVSA at the
@@ -119,22 +113,22 @@ faqs:
 
 
       Other apps that claim to have more clips are either not official or worse - old clips that are not compatible with the current hazard perception test requirements.
-  - title: Does the Driving Theory Untangled app work on the iPad or Android Tablets?
+  - title: Does the ADI Theory Untangled app work on the iPad or Android Tablets?
     text: >-
-      Yes! The Driving Theory Untangled app works on the iPad as well as Android
+      Yes! The ADI Theory Untangled app works on the iPad as well as Android
       Tablets.
 
 
       In fact, we have made certain adjustments so that our users have a pleasant experience with a larger screen.
-  - title: Is the Driving Theory Untangled app easy to use?
-    text: Yes! We have designed the Driving Theory Untangled app to be easy to use.
+  - title: Is the ADI Theory Untangled app easy to use?
+    text: Yes! We have designed the ADI Theory Untangled app to be easy to use.
       Every feature, every detail is meticulously designed to help you get our
       users ready to pass the driving theory test.
 footer:
   - title: Social Media
     items:
       - name: Facebook
-        link: https://www.facebook.com/caruntangled
+        link: https://www.facebook.com/adiuntangled
       - name: Linkedin
         link: /#linkedin
       - name: Twitter
