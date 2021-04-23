@@ -35,11 +35,11 @@ features:
       test. This way you can learn to spot the developing hazards quickly.
 
 
-      All the latest 34 Hazard Perceptions videos from DVSA are included in the Driving Theory Untangled app.
+      All the latest 34 Hazard Perceptions videos from DVSA are included in the LGV Theory Untangled app.
 
 
       P.S. The additional clips - that some apps claim to have - are unofficial and often not up to date.
-    image: ../assets/uploads/frame-23-6-.jpg
+    image: ../assets/uploads/hazard-1-.jpg
   - title: The Review Section has a handy list of questions that you find tricky
     description: >-
       The day before your real test, would it not be neat if you could revise
