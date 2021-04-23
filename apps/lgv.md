@@ -72,14 +72,12 @@ cta:
 reviews:
   title: Read what our users are saying
   items:
-    - name: 9 Gager
-      text: >-
-        App has very good content and questions. It workdsvery fast and almost
-        the half price than other well known driving apps. 
-
-
-        Great value for money. Thanks for publishing it.
-      stars: Good content, fast and not expensive ★★★★★
+    - name: Andy421
+      text: I installed this app just to practice mock tests for CPC 1. What I found
+        great was that there unlimited tests on the same pattern as the real
+        test. I did a lot of tests. and every test gave me more confidence. I
+        passed.
+      stars: Great for practising tests ★★★★★
     - text: After practising with two highly-rated paid apps on the app store and
         getting nowhere, I came across this app. Because of lockdown, the time
         was no issue so I experimented practising with it. It turned out to be
