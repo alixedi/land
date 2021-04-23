@@ -19,7 +19,7 @@ banner:
       ✓  Exclusive features to help you over the line
 
       ✓  £2.99 only. Install Now!
-  image: ../assets/uploads/complete.png
+  image: ../assets/uploads/head-1-.jpg
 features:
   - title: When the rings close, you are ready
     description: The ADI Theory Untangled app will track your progress in form of
