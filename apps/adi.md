@@ -55,7 +55,7 @@ features:
 
 
       Using the Search feature in ADI Theory Untangled app, you can type a word and you will get a list of questions relevant to that term.
-    image: ../assets/uploads/search-1-.jpg
+    image: ../assets/uploads/search-2-.jpg
   - description: |-
       * ✓ Unlimited timed mock tests
       * ✓ Practice mode that helps you remember important facts and details
