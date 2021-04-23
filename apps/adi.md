@@ -65,7 +65,7 @@ features:
     title: And everything else you expect from a ADI Theory test app
     image: ../assets/uploads/everyhting-else-1-.jpg
 cta:
-  title: Pass Driving Theory Test first time
+  title: Pass ADI Theory Test first time
   subtitle: Download Now!
 reviews:
   title: Read what our users are saying
