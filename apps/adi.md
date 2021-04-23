@@ -26,18 +26,18 @@ features:
       rings. The rings move as you learn new chapters and attempt mock tests.
       This makes things simple - Install the app, close the rings, pass your
       ADI  Theory Test.
-    image: ../assets/uploads/close-the-rings-1-.jpg
+    image: ../assets/uploads/rings.jpg
   - title: The HazardGuide show you exactly how you will be scored
     description: >-
       Our smart HazardGuide shows you exactly how you will be scored on the real
       test. This way you can learn to spot the developing hazards quickly.
 
 
-      All the latest 34 Hazard Perceptions videos from DVSA are included in the Driving Theory Untangled app.
+      All the latest 34 Hazard Perceptions videos from DVSA are included in the ADI Theory Untangled app.
 
 
       P.S. The additional clips - that some apps claim to have - are unofficial and often not up to date.
-    image: ../assets/uploads/frame-23-6-.jpg
+    image: ../assets/uploads/hazard.jpg
   - title: The Review Section has a handy list of questions that you find tricky
     description: >-
       The day before your real test, would it not be neat if you could revise
