@@ -3,7 +3,7 @@ layout: app
 title: LGV Case Studies Untangled
 permalink: /lgvcasestudies/
 icon: ../assets/uploads/adi-3-1-.jpg
-color: "#337729"
+color: "#7eaf20"
 appstore: https://apps.apple.com/app/apple-store/id1540168720?pt=121141503&ct=landing&mt=8
 playstore: https://play.google.com/store/apps/details?id=com.dripl.lgv2&referrer=utm_source%3Dgoogle%26utm_medium%3Dlanding
 banner:
