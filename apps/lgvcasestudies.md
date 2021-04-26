@@ -12,9 +12,9 @@ banner:
 
     to pass  **LGV Theory Test** in 2021
   subtitle: |-
-    * ✓  For CPC Part 1/ LGV/ HGV/ PCV Theory Test
+    * ✓  For CPC Part 2/ LGV/ HGV/ PCV Theory Test
 
-      ✓  Questions and Hazard Perception from DVSA
+      ✓  22 Case Studies
 
       ✓   **£2.99** only. Install Now!
   image: ../assets/uploads/head-3-.png
