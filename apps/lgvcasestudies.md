@@ -68,20 +68,15 @@ cta:
 reviews:
   title: Read what our users are saying
   items:
-    - name: Andy421
-      text: I installed this app just to practice mock tests for CPC 1. What I found
-        great was that there unlimited tests on the same pattern as the real
-        test. I attempted a lot of tests and every test gave me more confidence.
-        I passed.
-      stars: Great for practising tests ★★★★★
-    - text: As compared to other apps for CPC1, I find this app rather simple which
-        works for me. It doesnt waste time. Although sometimes the repetation of
-        same questions becomes somewhat frustrating but according to their
-        method (cant remember what it's called) it helps the brain to remember.
-        Which was  right. By the end of practice I was able to recall all the
-        answers that I kept forgetting in the beginning.
-      name: Zaidi
-      stars: Reliable. Definitely Recommend ★★★★★
+    - name: testataker121
+      text: I'm still surprised at the price of this app. Other apps on app store
+        claim to give the same thing but they charge 3 times more.
+      stars: great price. definitely recommend ★★★★★
+    - text: Really well-written case studies that cover a lot of topics. A bit too
+        long as compared to the actual test but good for practice. i would
+        recommend this app to all future lorry drivers.
+      name: quratulain116
+      stars: Good case study practice ★★★★★
 faqs:
   - title: What if the LGV Theory Untangled not right for me?
     text: No problem! Just send an email and we'll refund you, no questions asked.
