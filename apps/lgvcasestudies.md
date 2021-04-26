@@ -33,7 +33,7 @@ features:
 
 
       All the case studies are based on real-life (frequent or extraordinary) situations which are presented in accordance with the latest DVSA test format.
-    image: ../assets/uploads/everyhting-else-4-.jpg
+    image: ../assets/uploads/everyhting-else-5-.jpg
   - title: The Review Section has a handy list of questions that you find tricky
     description: >-
       The day before your real test, would it not be neat if you could revise
