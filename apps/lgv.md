@@ -59,7 +59,6 @@ features:
       * ✓ Practice mode that helps you remember important facts and details
       * ✓ All ~700 questions & explanations from the official DVSA revision bank
       * ✓ All 34 Hazard perception clips from the DVSA
-      * ✓ Video case studies according to the latest DVSA test format
     title: And everything else you expect from an LGV Theory test app
     image: ../assets/uploads/everyhting-else-2-.jpg
 cta:
