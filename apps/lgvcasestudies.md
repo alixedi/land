@@ -24,7 +24,7 @@ features:
       of rings. The rings move as you learn new chapters and attempt mock tests.
       This makes things simple - Install the app, close the rings, pass your LGV
       Case Studies Test.
-    image: ../assets/uploads/rings-3-.jpg
+    image: ../assets/uploads/rings-4-.jpg
   - title: 22 Case Studies Covering Real-Life Situations Faced by Lorry & Bus Drivers
     description: >-
       We have included 22 case studies with about 40 related questions in each.
@@ -33,7 +33,7 @@ features:
 
 
       All the case studies are based on real-life (frequent or extraordinary) situations which are presented in accordance with the latest DVSA test format.
-    image: ../assets/uploads/adi-3-1-.jpg
+    image: ../assets/uploads/everyhting-else-4-.jpg
   - title: The Review Section has a handy list of questions that you find tricky
     description: >-
       The day before your real test, would it not be neat if you could revise
@@ -43,7 +43,7 @@ features:
 
 
       Refer to this section time and again, as you move ahead with your practice, to get the best results.
-    image: ../assets/uploads/review-2-.jpg
+    image: ../assets/uploads/review-3-.jpg
   - title: "Instantly search questions about a certain word "
     description: >-
       No more frantically looking all over the app trying to find questions
