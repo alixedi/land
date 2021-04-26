@@ -24,7 +24,7 @@ features:
       of rings. The rings move as you learn new chapters and attempt mock tests.
       This makes things simple - Install the app, close the rings, pass your LGV
       Case Studies Test.
-    image: ../assets/uploads/rings-4-.jpg
+    image: ../assets/uploads/rings-2-.jpg
   - title: 22 Case Studies Covering Real-Life Situations Faced by Lorry & Bus Drivers
     description: >-
       We have included 22 case studies with about 40 related questions in each.
