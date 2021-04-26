@@ -20,22 +20,11 @@ banner:
   image: ../assets/uploads/head-3-.png
 features:
   - title: When the rings close, you are ready
-    description: The LGV Theory Untangled app will track your progress in form of
-      rings. The rings move as you learn new chapters and attempt mock tests.
+    description: The LGV Case Studies Untangled app will track your progress in form
+      of rings. The rings move as you learn new chapters and attempt mock tests.
       This makes things simple - Install the app, close the rings, pass your LGV
-      Theory Test.
+      Case Studies Test.
     image: ../assets/uploads/rings-2-.jpg
-  - title: The HazardGuide show you exactly how you will be scored
-    description: >-
-      Our smart HazardGuide shows you exactly how you will be scored on the real
-      test. This way you can learn to spot the developing hazards quickly.
-
-
-      All the latest 34 Hazard Perceptions videos from DVSA are included in the LGV Theory Untangled app.
-
-
-      P.S. The additional clips - that some apps claim to have - are unofficial and often not up to date.
-    image: ../assets/uploads/hazard-1-.jpg
   - title: The Review Section has a handy list of questions that you find tricky
     description: >-
       The day before your real test, would it not be neat if you could revise
@@ -52,18 +41,16 @@ features:
       about a certain word or phrase.
 
 
-      Using the Search feature in LGV Theory Untangled app, you can type a word and you will get a list of questions relevant to that term.
+      Using the Search feature in the LGV Case Studies Untangled app, you can type a word and get a list of questions relevant to that term.
     image: ../assets/uploads/search-3-.jpg
   - description: |-
       * ✓ Unlimited timed mock tests
       * ✓ Practice mode that helps you remember important facts and details
-      * ✓ All ~700 questions & explanations from the official DVSA revision bank
-      * ✓ All 34 Hazard perception clips from the DVSA
-      * ✓ Video case studies according to the latest DVSA test format
-    title: And everything else you expect from an LGV Theory test app
+      * ✓ All questions & explanations from the official DVSA revision bank
+    title: And everything else you expect from an LGV Case Studies test app
     image: ../assets/uploads/everyhting-else-2-.jpg
 cta:
-  title: Pass LGV Theory Test first time
+  title: Pass LGV Case Studies Test first time
   subtitle: Download Now!
 reviews:
   title: Read what our users are saying
@@ -73,48 +60,42 @@ reviews:
         claim to give the same thing but they charge 3 times more.
       stars: great price. definitely recommend ★★★★★
     - text: Really well-written case studies that cover a lot of topics. A bit too
-        long as compared to the actual test but good for practice. i would
+        long as compared to the actual test but good for practice. I would
         recommend this app to all future lorry drivers.
       name: quratulain116
       stars: Good case study practice ★★★★★
 faqs:
-  - title: What if the LGV Theory Untangled not right for me?
+  - title: What if the LGV Case Studies Untangled not right for me?
     text: No problem! Just send an email and we'll refund you, no questions asked.
   - title: How long does it take to prep for the theory test?
     text: Unlike other apps, we do not recommend a personal plan. Instead, we have a
       universal progress tracker i.e. the rings. You should book your theory
       test when the rings close. Revise while you are waiting for the test.
-  - title: Why should I buy the LGV Theory Untangled app instead of the official
-      DVSA app?
+  - title: Why should I buy the LGV Case Studies Untangled app instead of the
+      official DVSA app?
     text: >-
       We have licensed the official DVSA revision bank and hazard perception
       clips and so our app has the same content as the official app.
 
 
-      In addition to DVSA-licensed content, the LGV Theory Untangled app has exclusive features that are designed to help you over the line. For example - hazard guide, instant search, smart revision and a universal progress tracker.
-  - title: Why does the LGV Theory Untangled app have only 34 hazard perception clips?
+      In addition to DVSA-licensed content, the LGV Case StudiesUntangled app has exclusive features that are designed to help you over the line. For example - hazard guide, instant search, smart revision and a universal progress tracker.
+  - title: Does the LGV Case Studies Untangled app work on the iPad or Android
+      Tablets?
     text: >-
-      The 34 hazard perception clips in the LGVTheory Untangled app are the only
-      hazard perception clips that are being licensed by DVSA at the moment.
-
-
-      Other apps that claim to have more clips are either not official or worse - old clips that are not compatible with the current hazard perception test requirements.
-  - title: Does the LGV Theory Untangled app work on the iPad or Android Tablets?
-    text: >-
-      Yes! The LGV Theory Untangled app works on the iPad as well as Android
-      Tablets.
+      Yes! The LGV Case Studies Untangled app works on the iPad as well as
+      Android Tablets.
 
 
       In fact, we have made certain adjustments so that our users have a pleasant experience with a larger screen.
-  - title: Is the LGV Theory Untangled app easy to use?
-    text: Yes! We have designed the LGV Theory Untangled app to be easy to use.
-      Every feature, every detail is meticulously designed to help you get our
-      users ready to pass the LGV theory test.
+  - title: Is the LGV Case Studies Untangled app easy to use?
+    text: Yes! We have designed the LGV Case Studies Untangled app to be easy to
+      use. Every feature, every detail is meticulously designed to help you get
+      our users ready to pass the LGV theory test.
 footer:
   - title: Social Media
     items:
       - name: Facebook
-        link: https://www.facebook.com/lgvuntangled
+        link: https://www.facebook.com/lgvcasestudiesuntangled
       - name: Linkedin
         link: /#linkedin
       - name: Twitter
