@@ -51,7 +51,7 @@ features:
 
 
       Using the Search feature in the LGV Case Studies Untangled app, you can type a word and get a list of questions relevant to that term.
-    image: ../assets/uploads/search-3-.jpg
+    image: ../assets/uploads/search-4-.jpg
   - description: |-
       * ✓ Unlimited timed mock tests
       * ✓ Practice mode that helps you remember important facts and details
