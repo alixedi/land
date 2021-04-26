@@ -14,9 +14,9 @@ banner:
   subtitle: |-
     * ✓  For CPC Part 2/ LGV/ HGV/ PCV Theory Test
 
-      ✓  22 Case Studies
+      ✓  22 Real-Life Case Studies
 
-      ✓   **£2.99** only. Install Now!
+      ✓  **£2.99** only. Install Now!
   image: ../assets/uploads/head-3-.png
 features:
   - title: When the rings close, you are ready
