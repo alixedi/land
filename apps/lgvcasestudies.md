@@ -57,7 +57,7 @@ features:
       * ✓ Practice mode that helps you remember important facts and details
       * ✓ All questions & explanations from the official DVSA revision bank
     title: And everything else you expect from an LGV Case Studies test app
-    image: ../assets/uploads/everyhting-else-2-.jpg
+    image: ../assets/uploads/everyhting-else-5-.jpg
 cta:
   title: Pass LGV Case Studies Test first time
   subtitle: Download Now!
