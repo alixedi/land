@@ -2,7 +2,7 @@
 layout: app
 title: LGV Case Studies Untangled
 permalink: /lgvcasestudies/
-icon: ../assets/uploads/adi-3.jpg
+icon: ../assets/uploads/adi-3-1-.jpg
 color: "#1a5612"
 appstore: https://apps.apple.com/app/apple-store/id1539921874?pt=121141503&ct=landing&mt=8
 playstore: https://play.google.com/store/apps/details?id=com.dripl.lgv&referrer=utm_source%3Dgoogle%26utm_medium%3Dlanding
@@ -25,6 +25,15 @@ features:
       This makes things simple - Install the app, close the rings, pass your LGV
       Case Studies Test.
     image: ../assets/uploads/rings-2-.jpg
+  - title: 22 Case Studies Covering Real-Life Situations Faced by Lorry & Bus Drivers
+    description: >-
+      We have included 22 case studies with about 40 related questions in each.
+      This will prepare you better for most of the questions you get in the real
+      test.
+
+
+      All the case studies are based on real-life (frequent or extraordinary) situations which are presented in accordance with the latest DVSA test format.
+    image: ../assets/uploads/adi-3-1-.jpg
   - title: The Review Section has a handy list of questions that you find tricky
     description: >-
       The day before your real test, would it not be neat if you could revise
