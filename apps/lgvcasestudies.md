@@ -10,7 +10,7 @@ banner:
   title: |-
     Everything you need 
 
-    to pass  **LGV Theory Test** in 2021
+    to pass  **LGV Case Studies Test** in 2021
   subtitle: |-
     * ✓  For CPC Part 2/ LGV/ HGV/ PCV Theory Test
 
