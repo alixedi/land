@@ -16,7 +16,7 @@ banner:
 
       ✓  22 Real-Life Case Studies
 
-      ✓  **£2.99** only. Install Now!
+      ✓  **£4.99** only. Install Now!
   image: ../assets/uploads/head-3-.png
 features:
   - title: When the rings close, you are ready
