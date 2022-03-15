@@ -1,7 +1,21 @@
 update: 
 	bundle update
-run: 
+
+jekyll: 
 	bundle exec jekyll serve
 
-ALL: update run
+netlify-cms-proxy:
+	npx netlify-cms-proxy-server
+
+open-site:
+	open http://localhost:4000/land/
+
+open-netlify-cms:
+	open http://localhost:4000/land/admin/
+
+run: 
+	make -j 2 jekyll open-site
+
+edit: 
+	make -j 3 jekyll netlify-cms-proxy open-netlify-cms
 
