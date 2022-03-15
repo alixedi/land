@@ -1,10 +1,15 @@
 # config.yml
 
 backend:
+  # Local
+  #name: git-gateway
+  # Prod
   name: github
   repo: alixedi/land
   branch: main
   site_domain: quizzical-davinci-d19cc3.netlify.app
+# Uncomment for local dev
+#local-backend: true
 media_folder: 'assets/uploads'
 collections:
   - name: 'pages'
