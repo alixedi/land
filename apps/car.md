@@ -4,8 +4,8 @@ title: Driving Theory Untangled
 permalink: /car/
 icon: ../assets/uploads/car.jpg
 color: "#429472"
-appstore: https://apps.apple.com/gb/app/driving-theory-untangled/id1534706484
-playstore: https://play.google.com/store/apps/details?id=com.dripl.car
+appstore: https://apps.apple.com/app/apple-store/id1534706484?pt=121141503&ct=landing&mt=8
+playstore: https://play.google.com/store/apps/details?id=com.dripl.car&referrer=utm_source%3Dgoogle%26utm_medium%3Dlanding
 banner:
   title: |-
     Everything you need 
@@ -14,9 +14,11 @@ banner:
   subtitle: |-
     * ✓  Questions and Hazard Perception from DVSA
 
-      ✓ Unlimited Mock Tests
+      ✓  Unlimited Mock Tests
 
       ✓  Exclusive features to help you over the line
+
+      ✓  £2.99 only. Install Now!
   image: ../assets/uploads/complete.png
 features:
   - title: When the rings close, you are ready
