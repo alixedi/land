@@ -54,16 +54,16 @@ products:
       ✓ Based on the Official Book
 
       ✓ Unlimited Mock Tests
-    link: https://dripl.co.uk/lituk
+    link: /lituk/
     icon: assets/uploads/adi-1.png
   - title: Driving Theory Untangled
     description: |-
-      > ✓  DVSA licensed Content
+      ✓  DVSA licensed Content
 
       ✓  Smart HazardGuide
 
       ✓  Exclusive features
-    link: https://dripl.co.uk/car
+    link: /car/
     icon: assets/uploads/car.jpg
   - title: Motorcycle Theory Untangled
     description: |-
@@ -72,7 +72,7 @@ products:
       ✓  Case Studies (scenarios)
 
       ✓  Exclusive Features
-    link: /motorcycle
+    link: /motorcycle/
     icon: assets/uploads/adi-2.jpg
   - description: |-
       ✓  DVSA licensed Content
@@ -81,17 +81,8 @@ products:
 
       ✓  Exclusive features
     title: LGV Theory Untangled
-    link: /cpc1
+    link: /lgv/
     icon: assets/uploads/adi-3-2-.jpg
-  - description: |-
-      ✓  22 Real-Life Case Studies
-
-      ✓  1000 DVSA Questions
-
-      ✓  Exclusive features
-    title: LGV Case Studies Untangled
-    link: /cpc2
-    icon: assets/uploads/adi-3-1-.jpg
   - title: ADI Theory Untangled
     description: |-
       ✓  DVSA licensed Content
@@ -99,7 +90,7 @@ products:
       ✓  Smart HazardGuide
 
       ✓  Exclusive features
-    link: /adi
+    link: /adi/
     icon: assets/uploads/adi-1.jpg
 layout: default
 cta:
