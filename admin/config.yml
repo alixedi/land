@@ -26,8 +26,8 @@ collections:
           - { name: "title", label: "Title", widget: "string" }
           - { name: "permalink", label: "Permanent link for this page", widget: "string" }
           - { name: "color", label: "Color", widget: "color" }
-          - name: "image"
-            label: "Image"
+          - name: "icon"
+            label: "Icon"
             widget: "object"
             fields:
             - {name: src, label: Image, widget: image}
@@ -71,8 +71,8 @@ collections:
               - { name: "title", label: "Title", widget: "string" }
               - { name: "description", label: "Description", widget: "markdown" }
               - { name: "link", label: "Link", widget: "string" }
-              - name: "image"
-                label: "Image"
+              - name: "icon"
+                label: "Icon"
                 widget: "object"
                 fields:
                 - {name: src, label: Image, widget: image}
@@ -111,8 +111,8 @@ collections:
       - { name: "layout", label: "Layout", widget: "hidden", default: "app" }
       - { name: "title", label: "Title", widget: "string" }
       - { name: "permalink", label: "Permanent link for this page", widget: "string" }
-      - name: "image"
-        label: "Image"
+      - name: "icon"
+        label: "Icon"
         widget: "object"
         fields:
         - {name: src, label: Image, widget: image}
