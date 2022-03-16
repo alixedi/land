@@ -1,6 +1,7 @@
 ---
 layout: app
 title: LGV Theory Untangled
+description: All theory questions, hazard perception and mock tests
 permalink: /lgv/
 icon:
   src: ../assets/uploads/adi-3.jpg

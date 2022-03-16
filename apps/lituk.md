@@ -1,6 +1,7 @@
 ---
 layout: app
 title: Life in the UK Untangled
+description: The best-selling Life in the UK test app in the App Store
 permalink: /lituk/
 icon:
   src: ../assets/uploads/adi-1.png
