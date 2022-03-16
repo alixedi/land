@@ -17,19 +17,19 @@
       <div class="text-center mx-auto">
         {% if page.appstore %}
         <a href="{{ page.appstore }}">
-          <img class="h-16 m-4 fill-current inline" src="../assets/uploads/appstore.png" />
+          <img class="h-16 m-4 fill-current inline" alt="Download on App Store" title="Download on App Store" src="../assets/uploads/appstore.png" />
         </a>
         {% endif %}
         {% if page.playstore %}
         <a href="{{ page.playstore }}">
-          <img class="h-16 m-4 fill-current inline" src="../assets/uploads/playstore.png" />
+          <img class="h-16 m-4 fill-current inline" alt="Download on Play Store" title="Download on Play Store" src="../assets/uploads/playstore.png" />
         </a>
         {% endif %}
       </div>
     </div>
     <!--Right Col-->
     <div class="w-full md:w-3/5 py-6">
-      <img class="w-full md:w-4/5 z-50 mx-auto p-8" src="{{ page.banner.image }}" />
+      <img class="w-full md:w-4/5 z-50 mx-auto p-8" alt="{{ page.banner.image.alt }}" title="{{ page.banner.image.title }}" src="{{ page.banner.image.src }}" />
     </div>
   </div>
 </div>

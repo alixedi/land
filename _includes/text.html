@@ -14,7 +14,7 @@
         </div>
       </div>
       <div class="w-full sm:w-1/2 p-6">
-        <img class="w-full md:w-4/5 z-50 mx-auto" src="{{ text.image }}" />
+        <img class="w-full md:w-4/5 z-50 mx-auto" alt="{{ text.image.alt }}" title="{{ text.image.title }}" src="{{ text.image.src }}" />
       </div>
     </div>
     {% endfor %}

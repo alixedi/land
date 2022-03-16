@@ -17,7 +17,7 @@
         </div>
       </div>
       <div class="w-full sm:w-1/2">
-        <img class="w-full md:w-4/5 z-50 mx-auto" src="{{ feature.image }}" />
+        <img class="w-full md:w-4/5 z-50 mx-auto" alt="{{ feature.image.alt }}" title="{{ feature.image.title }}" src="{{ feature.image.src }}" />
       </div>
     </div>
     {% endfor %}

@@ -2,7 +2,7 @@
   <div class="w-full container mx-auto flex flex-wrap items-center justify-between mt-0 py-2">
     <div class="pl-4 flex items-center">
       <a class="toggleColour text-white no-underline hover:no-underline text-2xl lg:text-2xl" href="#">
-        <img class="h-12 fill-current inline rounded mr-4" src="{{ page.icon }}" />
+        <img class="h-12 fill-current inline rounded mr-4" alt="Dripl icon" title="Dripl icon" src="{{ page.icon.src }}" />
         {{ page.title }}
       </a>
     </div>
@@ -22,14 +22,14 @@
         {% if page.appstore %}
         <li>
           <a href="{{ page.appstore }}">
-            <img class="h-10 fill-current inline px-2" src="../assets/uploads/appstore.png" />
+            <img class="h-10 fill-current inline px-2" alt="Download on App Store" title="Download on App Store" src="../assets/uploads/appstore.png" />
           </a>
         </li>
         {% endif %}
         {% if page.playstore %}
         <li>
           <a href="{{ page.playstore }}">
-            <img class="h-10 fill-current inline px-2" src="../assets/uploads/playstore.png" />
+            <img class="h-10 fill-current inline px-2" alt="Download on Play Store" title="Download on Play Store" src="../assets/uploads/playstore.png" />
           </a>
         </li>
         {% endif %}
