@@ -1,9 +1,9 @@
 <section class="bg-white text-gray-600 text-xl border-b py-8">
   <div class="container max-w-6xl mx-auto m-16">
     {% for text in page.texts %}
-    <h1 id="{{ text.title | slugify }}" class="w-full my-2 text-5xl font-bold leading-tight text-center text-gray-800">
+    <h2 id="{{ text.title | slugify }}" class="w-full my-2 text-5xl font-bold leading-tight text-center text-gray-800">
       {{ text.title }}
-    </h1>
+    </h2>
     <div class="w-full mb-16">
       <div class="h-1 mx-auto gradient w-64 opacity-25 my-0 py-0 rounded-t"></div>
     </div>
