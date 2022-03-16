@@ -26,7 +26,13 @@ collections:
           - { name: "title", label: "Title", widget: "string" }
           - { name: "permalink", label: "Permanent link for this page", widget: "string" }
           - { name: "color", label: "Color", widget: "color" }
-          - { name: "icon", label: "Icon", widget:   "image" }
+          - name: "image"
+            label: "Image"
+            widget: "object"
+            fields:
+            - {name: src, label: Image, widget: image}
+            - {name: alt, label: Alt text, widget: string}
+            - {name: title, label: Title, widget: string}
           - name: "banner"
             label: "Banner"
             widget: "object"
@@ -34,7 +40,13 @@ collections:
             fields:
               - { name: "title", label: "Title", widget: "markdown" }
               - { name: "subtitle", label: "Subtitle", widget: "markdown" }
-              - { name: "image", label: "Image", widget: "image" }
+              - name: "image"
+                label: "Image"
+                widget: "object"
+                fields:
+                - {name: src, label: Image, widget: image}
+                - {name: alt, label: Alt text, widget: string}
+                - {name: title, label: Title, widget: string}
           - name: "texts"
             label: "Text Sections"
             widget: "list"
@@ -43,7 +55,13 @@ collections:
             fields:
               - { name: "title", label: "Title", widget: "string" }
               - { name: "description", label: "Description", widget: "markdown" }
-              - { name: "image", label: "Image", widget: "image" }
+              - name: "image"
+                label: "Image"
+                widget: "object"
+                fields:
+                - {name: src, label: Image, widget: image}
+                - {name: alt, label: Alt text, widget: string}
+                - {name: title, label: Title, widget: string}
           - name: "products"
             label: "Products"
             widget: "list"
@@ -53,7 +71,13 @@ collections:
               - { name: "title", label: "Title", widget: "string" }
               - { name: "description", label: "Description", widget: "markdown" }
               - { name: "link", label: "Link", widget: "string" }
-              - { name: "icon", label: "Icon", widget: "image" }
+              - name: "image"
+                label: "Image"
+                widget: "object"
+                fields:
+                - {name: src, label: Image, widget: image}
+                - {name: alt, label: Alt text, widget: string}
+                - {name: title, label: Title, widget: string}
           - name: "cta"
             label: "Call To Action"
             widget: "object"
@@ -87,7 +111,13 @@ collections:
       - { name: "layout", label: "Layout", widget: "hidden", default: "app" }
       - { name: "title", label: "Title", widget: "string" }
       - { name: "permalink", label: "Permanent link for this page", widget: "string" }
-      - { name: "icon", label: "Icon", widget:   "image" }
+      - name: "image"
+        label: "Image"
+        widget: "object"
+        fields:
+        - {name: src, label: Image, widget: image}
+        - {name: alt, label: Alt text, widget: string}
+        - {name: title, label: Title, widget: string}
       - { name: "color", label: "Color", widget: "color" }
       - { name: "appstore", label: "App Store Link", widget: "string" }
       - { name: "playstore", label: "Play Store Link", widget: "string" }
@@ -98,7 +128,13 @@ collections:
         fields:
           - { name: "title", label: "Title", widget: "markdown" }
           - { name: "subtitle", label: "Subtitle", widget: "markdown" }
-          - { name: "image", label: "Image", widget: "image" }
+          - name: "image"
+            label: "Image"
+            widget: "object"
+            fields:
+            - {name: src, label: Image, widget: image}
+            - {name: alt, label: Alt text, widget: string}
+            - {name: title, label: Title, widget: string}
       - name: "features"
         label: "Features"
         widget: "list"
@@ -107,7 +143,13 @@ collections:
         fields:
           - { name: "title", label: "Title", widget: "string" }
           - { name: "description", label: "Description", widget: "markdown" }
-          - { name: "image", label: "Image", widget: "image" }
+          - name: "image"
+            label: "Image"
+            widget: "object"
+            fields:
+            - {name: src, label: Image, widget: image}
+            - {name: alt, label: Alt text, widget: string}
+            - {name: title, label: Title, widget: string}
       - name: "cta"
         label: "Call To Action"
         widget: "object"
