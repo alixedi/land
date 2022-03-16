@@ -2,12 +2,18 @@
 title: Dripl
 permalink: /
 color: "#f5aa22"
-icon: assets/uploads/dripl.png
+icon:
+  src: assets/uploads/dripl.png
+  alt: Dripl logo
+  title: Dripl logo
 banner:
   title: "**UN-STARTUP & CONSULTANCY**"
   subtitle: BY [<u>AINY</u>](https://twitter.com/ainyxedi) &
     [<u>ALI</u>](https://twitter.com/alixedi)
-  image: assets/uploads/frame-15-1-.png
+  image:
+    src: assets/uploads/frame-15-1-.png
+    alt: Dripl header
+    title: Dripl header
 texts:
   - title: The story, so far
     description: >-
@@ -20,7 +26,10 @@ texts:
 
 
       **Half of Dripl is a consultancy.** We advise clients on adopting Lean Startup principles in the enterprise. This helps us fund the un-startup, but we are also very good at this.
-    image: assets/uploads/pic02.jpg
+    image:
+      src: assets/uploads/pic02.jpg
+      alt: Ainy & Ali
+      title: Ainy & Ali
   - title: Un-startup
     description: >-
       About **175,000** people take the [Life in the UK
@@ -34,20 +43,26 @@ texts:
 
 
       We are dogfooding the engine to build an app for the Life in the UK test. This will be followed by more test-preparation apps until we feel we have something reproducible. At this point, we might launch the engine as a **no-code solution for building test-preparation apps.**
-    image: assets/uploads/undraw_creative_draft_vb5x-2.svg
+    image:
+      src: assets/uploads/undraw_creative_draft_vb5x-2.svg
+      alt: Un-startup
+      title: Un-startup
   - title: Consultancy
     description: >-
       We are big fans of the [Lean Startup
       methodology](http://theleanstartup.com/principles) and every product at
-      Dripl is built on the same principles. 
+      Dripl is built on the same principles.
 
 
       If you like the planning, strategy, and execution for the un-startup, **we can help you do the same** for your product or business. [Please reach out  ](mailto:hello@dripl.co.uk) and we will be happy to discuss if we can help you and how.
-    image: assets/uploads/undraw_mind_map_re_nlb6.svg
+    image:
+      src: assets/uploads/undraw_mind_map_re_nlb6.svg
+      alt: Consultancy
+      title: Consultancy
 products:
   - title: Life in the UK Untangled
     description: |-
-      
+
 
       ✓ 1000 Questions
 
@@ -55,7 +70,10 @@ products:
 
       ✓ Unlimited Mock Tests
     link: /lituk/
-    icon: assets/uploads/adi-1.png
+    icon:
+      src: assets/uploads/adi-1.png
+      alt: Life in the UK Untangled logo
+      title: Life in the UK Untangled logo
   - title: Driving Theory Untangled
     description: |-
       ✓  DVSA licensed Content
@@ -64,7 +82,10 @@ products:
 
       ✓  Exclusive features
     link: /car/
-    icon: assets/uploads/car.jpg
+    icon:
+      src: assets/uploads/car.jpg
+      alt: Driving Theory Untangled logo
+      title: Driving Theory Untangled logo
   - title: Motorcycle Theory Untangled
     description: |-
       ✓  DVSA licensed Content
@@ -73,7 +94,10 @@ products:
 
       ✓  Exclusive Features
     link: /motorcycle/
-    icon: assets/uploads/adi-2.jpg
+    icon:
+      src: assets/uploads/adi-2.jpg
+      alt: Motorcycle Theory Untangled logo
+      title: Motorcycle Theory Untangled logo
   - description: |-
       ✓  DVSA licensed Content
 
@@ -82,7 +106,10 @@ products:
       ✓  Exclusive features
     title: LGV Theory Untangled
     link: /lgv/
-    icon: assets/uploads/adi-3-2-.jpg
+    icon:
+      src: assets/uploads/adi-3-2-.jpg
+      alt: LGV Theory Untangled logo
+      title: LGV Theory Untangled logo
   - title: ADI Theory Untangled
     description: |-
       ✓  DVSA licensed Content
@@ -91,7 +118,10 @@ products:
 
       ✓  Exclusive features
     link: /adi/
-    icon: assets/uploads/adi-1.jpg
+    icon:
+      src: assets/uploads/adi-1.jpg
+      alt: ADI Theory Untangled logo
+      title: ADI Theory Untangled logo
 layout: default
 cta:
   title: We are building in public

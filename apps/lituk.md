@@ -2,7 +2,10 @@
 layout: app
 title: Life in the UK Untangled
 permalink: /lituk/
-icon: ../assets/uploads/adi-1.png
+icon:
+  src: ../assets/uploads/adi-1.png
+  alt: Life in the UK Untangled logo
+  title: Life in the UK Untangled logo
 color: "#325288"
 appstore: https://apps.apple.com/us/app/life-in-the-uk-untangled/id1512489096
 playstore: https://play.google.com/store/apps/details?id=com.dripl.lituk
@@ -13,10 +16,13 @@ banner:
 
     ✓   1000 Questions for Practice
 
-    ✓    Unlimited Mock Tests 
+    ✓    Unlimited Mock Tests
 
     ✓    £3.99 only. Install Now!
-  image: ../assets/uploads/heading-2-.png
+  image:
+    src: ../assets/uploads/heading-2-.png
+    alt: Life in the UK Untangled screenshot
+    title: Life in the UK Untangled screenshot
 features:
   - title: Don't Spend Long Hours Reading the Book
     description: >-
@@ -27,7 +33,10 @@ features:
 
 
       And if you have already read the book then why not give some mock tests and gain more confidence.
-    image: ../assets/uploads/practice.jpg
+    image:
+      src: ../assets/uploads/practice.jpg
+      alt: Life in the UK Untangled content
+      title: Life in the UK Untangled content
   - title: Review section for last-minute preparation
     description: >-
       The day before your real test, would it not be neat if you could revise
@@ -37,27 +46,39 @@ features:
 
 
       Refer to this section time and again, as you move ahead with your practice, to get the best results.
-    image: ../assets/uploads/revise.jpg
+    image:
+      src: ../assets/uploads/revise.jpg
+      alt: Life in the UK Untangled revision
+      title: Life in the UK Untangled revision
   - title: Instantly search for a word or a phrase
     description: No more "Was Bloody Mary and Mary Queen of Scots the same person?"
       or "What was UK's population in 2010?" Just type in a word or a phrase in
       the search bar and get a list of questions that match.
-    image: ../assets/uploads/search.jpg
+    image:
+      src: ../assets/uploads/search.jpg
+      alt: Life in the UK Untangled search
+      title: Life in the UK Untangled search
   - title: When the rings close, you are ready
     description: The Life in the UK Untangled app will track your progress in form
       of rings. The rings move as you learn new chapters and pass mock
       tests.  This makes things simple - Install the app, close the rings, pass
       your Life in the UK test.
-    image: ../assets/uploads/rings-2.jpg
+    image:
+      src: ../assets/uploads/rings-2.jpg
+      alt: Life in the UK Untangled ready
+      title: Life in the UK Untangled ready
   - title: And everything else you expect from a Life in the UK test preparation app
     description: >-
       * ✓   1000 questions and easy explanations, all prepared from the official
-      handbook 
+      handbook
 
       * ✓    Mock Tests to give you a taste of the real test. Attempt as many as you can
 
         ✓    Exclusive features to make your learning easier and faster
-    image: ../assets/uploads/everything-else.jpg
+    image:
+      src: ../assets/uploads/everything-else.jpg
+      alt: Life in the UK Untangled complete
+      title: Life in the UK Untangled complete
 cta:
   title: Download Now
   subtitle: Pass Life in the UK Test without reading the book!
@@ -89,19 +110,19 @@ reviews:
       stars: Simple & well thought out.  ★★★★★
     - name: user20382173
       text: |-
-        
+
 
         Tried many apps, but this one is value for money.
       stars: So easy to use!  ★★★★★
     - name: holdenweb
       text: >-
-        
+
 
         The app repeats questions to drive the learning home, and is very simple to use.
       stars: Excellent quizzes. ★★★★★
     - name: DoubleDouble87
       text: |-
-        
+
 
         Fantastic app...just need landscape mode for iPad.
       stars: Top  ★★★★★
@@ -175,7 +196,7 @@ faqs:
   - text: >-
       Lack of practice is the main cause of failing the test. However,
       nervousness also plays a very important role while giving the test. Both
-      of these issues can be overcome if you give enough mock tests. 
+      of these issues can be overcome if you give enough mock tests.
 
 
       The mock tests in the Life in the UK Untangled app are created in the exact pattern as the real test. These tests have the same time limit as the real test. The number of questions is also the same as that in the real test. You can give as many mock tests as you like. A time will come when you think you are ready for the real test.
@@ -224,7 +245,7 @@ faqs:
       [here](https://www.gov.uk/life-in-the-uk-test)
     title: Can I give my Life iin the UK Test Online?
   - text: >-
-      
+
 
       Yes. Life in the UK test centres are open and continue to conduct tests with social distancing measures in place.
     title: Are life in the UK Tests taking place during National lockdown?

@@ -2,13 +2,16 @@
 layout: app
 title: LGV Theory Untangled
 permalink: /lgv/
-icon: ../assets/uploads/adi-3.jpg
+icon:
+  src: ../assets/uploads/adi-3.jpg
+  alt: LGV Theory Untangled logo
+  title: LGV Theory Untangled logo
 color: "#7eaf20"
 appstore: https://apps.apple.com/app/apple-store/id1539921874?pt=121141503&ct=landing&mt=8
 playstore: https://play.google.com/store/apps/details?id=com.dripl.lgv&referrer=utm_source%3Dgoogle%26utm_medium%3Dlanding
 banner:
   title: |-
-    Everything you need 
+    Everything you need
 
     to pass  **LGV Theory Test** in 2021
   subtitle: |-
@@ -17,14 +20,20 @@ banner:
       ✓  Questions and Hazard Perception from DVSA
 
       ✓   **£2.99** only. Install Now!
-  image: ../assets/uploads/head-3-.png
+  image:
+    src: ../assets/uploads/head-3-.png
+    alt: LGV Theory Untangled screenshot
+    title: LGV Theory Untangled screenshot
 features:
   - title: When the rings close, you are ready
     description: The LGV Theory Untangled app will track your progress in form of
       rings. The rings move as you learn new chapters and attempt mock tests.
       This makes things simple - Install the app, close the rings, pass your LGV
       Theory Test.
-    image: ../assets/uploads/rings-2-.jpg
+    image:
+      src: ../assets/uploads/rings-2-.jpg
+      alt: LGV Theory Untangled rings
+      title: LGV Theory Untangled rings
   - title: The HazardGuide show you exactly how you will be scored
     description: >-
       Our smart HazardGuide shows you exactly how you will be scored on the real
@@ -35,7 +44,10 @@ features:
 
 
       P.S. The additional clips - that some apps claim to have - are unofficial and often not up to date.
-    image: ../assets/uploads/hazard-1-.jpg
+    image:
+      src: ../assets/uploads/hazard-1-.jpg
+      alt: LGV Theory Untangled hazard perception
+      title: LGV Theory Untangled hazard perception
   - title: The Review Section has a handy list of questions that you find tricky
     description: >-
       The day before your real test, would it not be neat if you could revise
@@ -45,7 +57,10 @@ features:
 
 
       Refer to this section time and again, as you move ahead with your practice, to get the best results.
-    image: ../assets/uploads/review-1-.jpg
+    image:
+      src: ../assets/uploads/review-1-.jpg
+      alt: LGV Theory Untangled review
+      title: LGV Theory Untangled review
   - title: "Instantly search questions about a certain word "
     description: >-
       No more frantically looking all over the app trying to find questions
@@ -53,14 +68,20 @@ features:
 
 
       Using the Search feature in LGV Theory Untangled app, you can type a word and you will get a list of questions relevant to that term.
-    image: ../assets/uploads/search-3-.jpg
+    image:
+      src: ../assets/uploads/search-3-.jpg
+      alt: LGV Theory Untangled search
+      title: LGV Theory Untangled search
   - description: |-
       * ✓ Unlimited timed mock tests
       * ✓ Practice mode that helps you remember important facts and details
       * ✓ All ~700 questions & explanations from the official DVSA revision bank
       * ✓ All 34 Hazard perception clips from the DVSA
     title: And everything else you expect from an LGV Theory test app
-    image: ../assets/uploads/everyhting-else-2-.jpg
+    image:
+      src: ../assets/uploads/everyhting-else-2-.jpg
+      alt: LGV Theory Untangled screenshot
+      title: LGV Theory Untangled screenshot
 cta:
   title: Pass LGV Theory Test first time
   subtitle: Download Now!

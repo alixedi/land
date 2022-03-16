@@ -2,13 +2,16 @@
 layout: app
 title: Driving Theory Untangled
 permalink: /car/
-icon: ../assets/uploads/car.jpg
+icon:
+  src: ../assets/uploads/car.jpg
+  alt: Driving Theory Untangled logo
+  title: Driving Theory Untangled logo
 color: "#429472"
 appstore: https://apps.apple.com/app/apple-store/id1534706484?pt=121141503&ct=landing&mt=8
 playstore: https://play.google.com/store/apps/details?id=com.dripl.car&referrer=utm_source%3Dgoogle%26utm_medium%3Dlanding
 banner:
   title: |-
-    Everything you need 
+    Everything you need
 
     to pass **Driving Theory Test** in 2021
   subtitle: |-
@@ -19,14 +22,20 @@ banner:
       ✓  Exclusive features to help you over the line
 
       ✓  £2.99 only. Install Now!
-  image: ../assets/uploads/complete.png
+  image:
+    src: ../assets/uploads/complete.png
+    alt: Driving Theory Untangled screenshot
+    title: Driving Theory Untangled screenshot
 features:
   - title: When the rings close, you are ready
     description: The Driving Theory Untangled app will track your progress in form
       of rings. The rings move as you learn new chapters and attempt mock tests.
       This makes things simple - Install the app, close the rings, pass your
       Driving Theory Test.
-    image: ../assets/uploads/close-the-rings-1-.jpg
+    image:
+      src: ../assets/uploads/close-the-rings-1-.jpg
+      alt: Driving Theory Untangled rings
+      title: Driving Theory Untangled rings
   - title: The HazardGuide show you exactly how you will be scored
     description: >-
       Our smart HazardGuide shows you exactly how you will be scored on the real
@@ -37,7 +46,10 @@ features:
 
 
       P.S. The additional clips - that some apps claim to have - are unofficial and often not up to date.
-    image: ../assets/uploads/frame-23-6-.jpg
+    image:
+      src: ../assets/uploads/frame-23-6-.jpg
+      alt: Driving Theory Untangled hazard perception
+      title: Driving Theory Untangled hazard perception
   - title: The Review Section has a handy list of questions that you find tricky
     description: >-
       The day before your real test, would it not be neat if you could revise
@@ -47,7 +59,10 @@ features:
 
 
       Refer to this section time and again, as you move ahead with your practice, to get the best results.
-    image: ../assets/uploads/review-1-.jpg
+    image:
+      src: ../assets/uploads/review-1-.jpg
+      alt: Driving Theory Untangled review
+      title: Driving Theory Untangled review
   - title: "Instantly search questions about a certain word "
     description: >-
       No more frantically looking all over the app trying to find questions
@@ -55,7 +70,10 @@ features:
 
 
       Using the Search feature in Driving Theory Untangled app, you can type a word and you will get a list of questions relevant to that term.
-    image: ../assets/uploads/search-4-.jpg
+    image:
+      src: ../assets/uploads/search-4-.jpg
+      alt: Driving Theory Untangled search
+      title: Driving Theory Untangled search
   - description: |-
       * ✓ Unlimited timed mock tests
       * ✓ Practice mode that helps you remember important facts and details
@@ -63,7 +81,10 @@ features:
       * ✓ All 34 Hazard perception clips from the DVSA
       * ✓ Video case studies according to the latest DVSA test format
     title: And everything else you expect from a Driving Theory test app
-    image: ../assets/uploads/everything-7-.jpg
+    image:
+      src: ../assets/uploads/everything-7-.jpg
+      alt: Driving Theory Untangled mock tests
+      title: Driving Theory Untangled mock tests
 cta:
   title: Pass Driving Theory Test first time
   subtitle: Download Now!
@@ -73,7 +94,7 @@ reviews:
     - name: 9 Gager
       text: >-
         App has very good content and questions. It workdsvery fast and almost
-        the half price than other well known driving apps. 
+        the half price than other well known driving apps.
 
 
         Great value for money. Thanks for publishing it.
