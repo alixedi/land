@@ -1,7 +1,7 @@
 ---
 layout: app
 title: Pass your Life in the UK Test without reading the Book
-description: The best-selling Life in the UK test app in the App Store. A 1000 practice questions from the official Life in the UK handbook, unlimited mock tests and exclusive features.
+description: The best-selling Life in the UK test app in the App Store. A 1000 practice questions from the official handbook, unlimited mock tests & exclusive features.
 permalink: /lituk/
 icon:
   src: ../assets/uploads/adi-1.png
