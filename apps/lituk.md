@@ -1,7 +1,7 @@
 ---
 layout: app
 title: Pass your Life in the UK Test without reading the Book
-description: The best-selling Life in the UK test app in the App Store
+description: The best-selling Life in the UK test app in the App Store. A 1000 practice questions from the official Life in the UK handbook, unlimited mock tests and exclusive features.
 permalink: /lituk/
 icon:
   src: ../assets/uploads/adi-1.png
@@ -111,19 +111,19 @@ reviews:
       stars: Simple & well thought out.  ★★★★★
     - name: user20382173
       text: |-
-        
+
 
         Tried many apps, but this one is value for money.
       stars: So easy to use!  ★★★★★
     - name: holdenweb
       text: >-
-        
+
 
         The app repeats questions to drive the learning home, and is very simple to use.
       stars: Excellent quizzes. ★★★★★
     - name: DoubleDouble87
       text: |-
-        
+
 
         Fantastic app...just need landscape mode for iPad.
       stars: Top  ★★★★★
@@ -246,7 +246,7 @@ faqs:
       [here](https://www.gov.uk/life-in-the-uk-test)
     title: Can I give my Life iin the UK Test Online?
   - text: >-
-      
+
 
       Yes. Life in the UK test centres are open and continue to conduct tests with social distancing measures in place.
     title: Are life in the UK Tests taking place during National lockdown?
