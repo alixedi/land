@@ -1,5 +1,7 @@
 ---
 title: Dripl
+description: "Experiments in building a sustainable internet business without
+  raising investment so that we can quit our day jobs #IndieHacker"
 permalink: /
 color: "#f5aa22"
 icon:
@@ -62,7 +64,7 @@ texts:
 products:
   - title: Life in the UK Untangled
     description: |-
-
+      
 
       ✓ 1000 Questions
 
@@ -86,30 +88,6 @@ products:
       src: assets/uploads/car.jpg
       alt: Driving Theory Untangled logo
       title: Driving Theory Untangled logo
-  - title: Motorcycle Theory Untangled
-    description: |-
-      ✓  DVSA licensed Content
-
-      ✓  Case Studies (scenarios)
-
-      ✓  Exclusive Features
-    link: /motorcycle/
-    icon:
-      src: assets/uploads/adi-2.jpg
-      alt: Motorcycle Theory Untangled logo
-      title: Motorcycle Theory Untangled logo
-  - description: |-
-      ✓  DVSA licensed Content
-
-      ✓  Smart HazardGuide
-
-      ✓  Exclusive features
-    title: LGV Theory Untangled
-    link: /lgv/
-    icon:
-      src: assets/uploads/adi-3-2-.jpg
-      alt: LGV Theory Untangled logo
-      title: LGV Theory Untangled logo
   - title: ADI Theory Untangled
     description: |-
       ✓  DVSA licensed Content
