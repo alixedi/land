@@ -21,7 +21,7 @@
 title: Dripl
 email: hello@dripl.co.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  Experiments to build a sustainable internet business without raising VC. Currently building beautiful & simple mobile apps that help users pass citizenship tests & driving licence tests.
+  Experiments in building a sustainable internet business without raising investment so that we can quit our day jobs #IndieHacker
 baseurl: "/land" # the subpath of your site, e.g. /blog
 url: "https://alixedi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: alixedi
