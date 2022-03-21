@@ -8,11 +8,6 @@ build:
 serve: build
 	bundle exec jekyll serve --config _config.yml,_config_development.yml
 
-netlify-cms-proxy:
+proxy:
 	npx netlify-cms-proxy-server
-
-run: build serve
-
-edit:
-	make -j 2 run netlify-cms-proxy
 
