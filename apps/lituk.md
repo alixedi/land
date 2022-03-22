@@ -1,6 +1,6 @@
 ---
 layout: app
-title: Pass your Life in the UK Test without reading the Book
+title: Life in the UK Untangled 2022
 description: The best-selling Life in the UK test app in the App Store. A 1000 practice questions from the official handbook, unlimited mock tests & exclusive features.
 permalink: /lituk/
 icon:
