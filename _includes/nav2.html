@@ -23,9 +23,11 @@
           <a class="inline-block py-2 px-4 text-black no-underline" href="#{{ text.title | slugify }}">{{ text.title }}</a>
         </li>
         {% endfor %}
+        {% if page.products %}
         <li class="mr-3">
           <a class="inline-block py-2 px-4 text-black no-underline" href="#products">Products</a>
         </li>
+        {% endif %}
       </ul>
       <a href="{{ page.cta.link }}">
         <button id="navAction"
