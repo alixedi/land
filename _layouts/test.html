@@ -1,0 +1,155 @@
+<!--
+    This is the template for a mock test. It needs the following -
+    + Render a question and choices
+    + Render a timer
+    Render the question with correct answers
+
+ -->
+<!doctype html>
+<html>
+    <head>
+        {% include head.html %}
+        <style>
+            input + label {
+                background-color: #223745;
+            }
+            input:checked + label {
+                background-color: #008FD1;
+            }
+            input[readonly] + label {
+                pointer-events: none;
+            }
+        </style>
+        <script defer src="https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js"></script>
+    </head>
+    <body class="leading-normal tracking-normal text-white gradient" style="font-family: 'Source Sans Pro', sans-serif;">
+        {% include nav2.html %}
+        {% include hero.html %}
+        {% include wave1.html %}
+        <section class="bg-white py-8">
+            <div x-data="test">
+                <div class="prose lg:prose-xl container mx-auto border border-black rounded bg-slate-100 my-20">
+                        <div x-show="showResult" class="text-center">
+                            <h2 class="text-5xl" x-text="pass()"></h2>
+                            <p class="text-2xl" x-text="`${score()} / ${questions.length}`"></p>
+                        </div>
+                        <template x-for="(question, index) in questions">
+                            <div x-show="!showResult" class="m-20" x-data="{
+                                help() {
+                                    return `Choose ${this.question.answers.length} out of ${this.question.choices.length} options`
+                                },
+                                userChoices: [],
+                            }" class="prose lg:prose-xl mx-auto" id="test">
+                                <div class="flex items-center">
+                                    <div class="mr-10 self-center text-4xl" x-text="index + 1"></div>
+                                    <div>
+                                        <h3 x-text="question.text"></h3>
+                                        <p x-text=" help() "></p>
+                                    </div>
+                                </div>
+                                <template x-for="(choice, index) in question.choices">
+                                    <div class="my-6" x-data="{ id: $id('choice') }">
+                                        <input class="hidden" :id="id" type="checkbox" name="choices" :value="index" x-model.number="question.userChoices">
+                                        <label class="flex flex-col p-4 cursor-pointer" :for="id">
+                                            <span class="text-white text-xl mt-2" x-text="choice"></span>
+                                        </label>
+                                    </div>
+                                </template>
+                            </div>
+                        </template>
+                        <template x-for="question in questions">
+                            <div x-show="showResult" class="m-20" x-data="{
+                                help() {
+                                    return `Choose ${this.question.answers.length} out of ${this.question.choices.length} options`
+                                },
+                                fa_correct: '<i class=\x22 fas fa-check-circle fa-3x\x22></i>',
+                                fa_wrong: '<i class=\x22text-orange-500 fas fa-times-circle fa-3x\x22></i>',
+                                getColor(choiceId) {
+                                    const answers = new Set(this.question.answers);
+                                    const choices = new Set(this.question.userChoices);
+                                    if (answers.has(choiceId)) {
+                                        return '#00B393';
+                                    } else {
+                                        if (choices.has(choiceId)) {
+                                            return '#F64439';
+                                        } else {
+                                            return '#223745';
+                                        }
+                                    }
+                                },
+                            }" class="prose lg:prose-xl mx-auto" id="test">
+                                <div class="flex items-center">
+                                    <div class="pr-4 self-center" x-html="correct(question)? fa_correct : fa_wrong"></div>
+                                    <div>
+                                        <h3 x-text="question.text"></h3>
+                                        <p x-text=" help() "></p>
+                                    </div>
+                                </div>
+                                <template x-for="(choice, index) in question.choices">
+                                    <div class="my-6" x-data="{ id: $id('choice') }">
+                                        <input class="hidden" :id="id" type="checkbox" name="choices" :value="index" readonly>
+                                        <label class="flex flex-col p-4 cursor-pointer" :style="`background-color: ${getColor(index)}`" :for="id">
+                                            <span class="text-white text-xl mt-2" x-text="choice"></span>
+                                        </label>
+                                    </div>
+                                </template>
+                            </div>
+                        </template>
+
+                        <div class="text-right">
+                            <button class="m-4 bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded" @click="showResult = true">I am done</button>
+                        </div>
+            </div>
+
+            <div x-data="{
+                totalTime: 60*45,
+                timeRemaining: 60*45,
+                width () {
+                    const width = `${(this.timeRemaining * 100) / this.totalTime}%`
+                    return {width: width};
+                },
+                init () {
+                    setInterval(() => {
+                        if (!this.showResult) {
+                            this.timeRemaining -= 1;
+                        }
+                        if (this.timeRemaining == 0) {
+                            this.showResult = true;
+                        }
+                    }, 1000);
+                }
+             }
+            " x-init="init()" class="fixed bottom-0 width-full timer bg-red-500 py-4"  style="width: 100%" :style="width()"></div>
+        </section>
+
+        {% include wave2.html %}
+        {% include cta2.html %}
+        {% include footer.html %}
+        <script>
+            document.addEventListener('alpine:init', () => {
+                Alpine.data('test', () => ({
+                    questions: JSON.parse(`{{ page.questions.code }}`),
+                    passScore: 18,
+                    showResult: false,
+                    correct (question) {
+                        const answers = question.answers.sort()
+                        const userChoices = question.userChoices.sort()
+                        return (userChoices.toString() == answers.toString())
+                    },
+                    score() {
+                        let score = 0;
+                        for (question of this.questions) {
+                            if (this.correct(question)) {
+                                score += 1;
+                            }
+                        }
+                        return score;
+                    },
+                    pass () {
+                        return this.score() >= this.passScore? 'Pass' : 'Fail';
+                    }
+                }))
+            })
+        </script>
+    </body>
+</html>
