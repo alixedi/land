@@ -7,7 +7,7 @@ icon:
   src: /assets/uploads/dripl.png
   alt: Dripl logo
   title: Dripl logo
-color: "#15163f"
+color: "#223745"
 banner:
   title: Free Life in the UK practice test 1
   subtitle: Answer at least 18 out of 24 questions correctly in 45 minutes to pass.
