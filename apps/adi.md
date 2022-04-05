@@ -2,7 +2,7 @@
 layout: app
 title: ADI Theory Untangled
 description: All theory questions, hazard perception and mock tests
-permalink: /adi/
+permalink: adi
 icon:
   src: ../assets/uploads/adi-1.jpg
   alt: ADI Theory Untangled logo

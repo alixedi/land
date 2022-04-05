@@ -3,7 +3,7 @@ layout: app
 published: false
 title: Motorcycle Theory Untangled
 description: All theory questions, hazard perception and mock tests
-permalink: /motorcycle/
+permalink: motorcycle
 icon:
   src: ../assets/uploads/adi-2.jpg
   alt: Motorcycle Theory Untangled
