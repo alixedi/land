@@ -2,7 +2,7 @@
 layout: test
 title: Free Life in the Uk practice test 1
 description: Free life in the UK practice test 1
-permalink: /free-life-in-the-uk-practice-test-1
+permalink: free-life-in-the-uk-practice-test-1
 icon:
   src: /assets/uploads/dripl.png
   alt: Dripl logo
@@ -21,7 +21,7 @@ questions:
     [
       {
         "userChoices":[
-          
+
         ],
         "text":"UK joined the European Economic Community (EEC) in 1973.",
         "answers":[
@@ -34,7 +34,7 @@ questions:
       },
       {
         "userChoices":[
-          
+
         ],
         "text":"You can visit the Northern Ireland assembly by:",
         "answers":[
@@ -50,7 +50,7 @@ questions:
       },
       {
         "userChoices":[
-          
+
         ],
         "text":"Most shops in the UK are open seven days a week.",
         "answers":[
@@ -63,7 +63,7 @@ questions:
       },
       {
         "userChoices":[
-          
+
         ],
         "text":"The Hovercraft was invented by:",
         "answers":[
@@ -78,7 +78,7 @@ questions:
       },
       {
         "userChoices":[
-          
+
         ],
         "text":"The Proms are organised by:",
         "answers":[
@@ -93,7 +93,7 @@ questions:
       },
       {
         "userChoices":[
-          
+
         ],
         "text":"Pale, an area of Ireland around Dublin was ruled by English by 1200.",
         "answers":[
@@ -106,7 +106,7 @@ questions:
       },
       {
         "userChoices":[
-          
+
         ],
         "text":"How many works of art are shortlisted and displayed at Tate Britain before the winner of the Turner Prize is announced?",
         "answers":[
@@ -121,7 +121,7 @@ questions:
       },
       {
         "userChoices":[
-          
+
         ],
         "text":"During the reign of William and Mary, women were given the right to vote.",
         "answers":[
@@ -134,7 +134,7 @@ questions:
       },
       {
         "userChoices":[
-          
+
         ],
         "text":"Which region has the \u2018individual registration\u2019 system for voters?",
         "answers":[
@@ -149,7 +149,7 @@ questions:
       },
       {
         "userChoices":[
-          
+
         ],
         "text":"During which period did the British Empire become the largest Empire in the world?",
         "answers":[
@@ -164,7 +164,7 @@ questions:
       },
       {
         "userChoices":[
-          
+
         ],
         "text":"Key roles for governors and school boards do not include:",
         "answers":[
@@ -179,7 +179,7 @@ questions:
       },
       {
         "userChoices":[
-          
+
         ],
         "text":"The patron saint of England is:",
         "answers":[
@@ -194,7 +194,7 @@ questions:
       },
       {
         "userChoices":[
-          
+
         ],
         "text":"What was the name of Britain's first Prime Minister?",
         "answers":[
@@ -209,7 +209,7 @@ questions:
       },
       {
         "userChoices":[
-          
+
         ],
         "text":"Sir Andy Murray won men's singles in Wimbledon in 2013.",
         "answers":[
@@ -222,7 +222,7 @@ questions:
       },
       {
         "userChoices":[
-          
+
         ],
         "text":"Which one of the following is not a protestant Christian group in the UK?",
         "answers":[
@@ -237,7 +237,7 @@ questions:
       },
       {
         "userChoices":[
-          
+
         ],
         "text":"Henry VII increased the power of nobles.",
         "answers":[
@@ -250,7 +250,7 @@ questions:
       },
       {
         "userChoices":[
-          
+
         ],
         "text":"Which of the following is not a fashion designer?",
         "answers":[
@@ -265,7 +265,7 @@ questions:
       },
       {
         "userChoices":[
-          
+
         ],
         "text":"Baroness Tanni Grey-Thompson broke 30 world records.",
         "answers":[
@@ -278,7 +278,7 @@ questions:
       },
       {
         "userChoices":[
-          
+
         ],
         "text":"During the 18th century, the Slave trade was dominated by which two colonies?",
         "answers":[
@@ -294,7 +294,7 @@ questions:
       },
       {
         "userChoices":[
-          
+
         ],
         "text":"Sir Mo Farah is the first Briton to win the Olympic gold medal in 10,000 meters race.",
         "answers":[
@@ -307,7 +307,7 @@ questions:
       },
       {
         "userChoices":[
-          
+
         ],
         "text":"As a member of the European Union, the UK used the Euro currency alongside Pound Sterling.",
         "answers":[
@@ -320,7 +320,7 @@ questions:
       },
       {
         "userChoices":[
-          
+
         ],
         "text":"The long war between England and France during the Middle age is called:",
         "answers":[
@@ -334,7 +334,7 @@ questions:
       },
       {
         "userChoices":[
-          
+
         ],
         "text":"Sonnets are poems with how many lines?",
         "answers":[
@@ -349,7 +349,7 @@ questions:
       },
       {
         "userChoices":[
-          
+
         ],
         "text":"Brit Awards give awards for several categories, two of which are:",
         "answers":[
