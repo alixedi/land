@@ -1,7 +1,7 @@
 ---
 layout: article
 title:  "Privacy Policy for all Dripl apps"
-permalink: privacy-policy
+permalink: privacy-policy/
 date:   2022-03-21 16:39:57 +0000
 description: "The privacy policy for all the Untangled apps developed by Dripl for Android and iOS. "
 color: "#f5aa22"

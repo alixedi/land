@@ -2,7 +2,7 @@
 layout: test
 title: Free Life in the Uk practice test 8
 description: Free life in the UK practice test 8
-permalink: free-life-in-the-uk-practice-test-8
+permalink: free-life-in-the-uk-practice-test-8/
 icon:
   src: /assets/uploads/dripl.png
   alt: Dripl logo
