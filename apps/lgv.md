@@ -3,7 +3,7 @@ layout: app
 published: false
 title: LGV Theory Untangled
 description: All theory questions, hazard perception and mock tests
-permalink: lgv
+permalink: lgv/
 icon:
   src: ../assets/uploads/adi-3.jpg
   alt: LGV Theory Untangled logo

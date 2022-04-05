@@ -1,7 +1,7 @@
 ---
 layout: article
 title:  "Terms & Conditions"
-permalink: terms-and-conditions
+permalink: terms-and-conditions/
 date:   2022-03-21 16:39:57 +0000
 description: "The terms & conditions for all the Untangled apps developed by Dripl for Android and iOS."
 color: "#f5aa22"
