@@ -2,7 +2,7 @@
 layout: app
 title: Driving Theory Untangled
 description: All theory questions, hazard perception and mock tests
-permalink: car
+permalink: car/
 icon:
   src: ../assets/uploads/car.jpg
   alt: Driving Theory Untangled logo
