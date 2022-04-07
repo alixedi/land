@@ -4,7 +4,7 @@ title: Driving Theory Untangled
 description: All theory questions, hazard perception and mock tests
 permalink: car/
 icon:
-  src: ../assets/uploads/car.jpg
+  src: ../assets/uploads/driving-theory-logo.jpg
   alt: Driving Theory Untangled logo
   title: Driving Theory Untangled logo
 color: "#429472"
@@ -24,7 +24,7 @@ banner:
 
       ✓  £2.99 only. Install Now!
   image:
-    src: ../assets/uploads/complete.png
+    src: ../assets/uploads/driving-theory-complete.png
     alt: Driving Theory Untangled screenshot
     title: Driving Theory Untangled screenshot
 features:
@@ -34,7 +34,7 @@ features:
       This makes things simple - Install the app, close the rings, pass your
       Driving Theory Test.
     image:
-      src: ../assets/uploads/close-the-rings-1-.jpg
+      src: ../assets/uploads/driving-theory-rings.jpg
       alt: Driving Theory Untangled rings
       title: Driving Theory Untangled rings
   - title: The HazardGuide show you exactly how you will be scored
@@ -48,7 +48,7 @@ features:
 
       P.S. The additional clips - that some apps claim to have - are unofficial and often not up to date.
     image:
-      src: ../assets/uploads/frame-23-6-.jpg
+      src: ../assets/uploads/driving-theory-hazard.jpg
       alt: Driving Theory Untangled hazard perception
       title: Driving Theory Untangled hazard perception
   - title: The Review Section has a handy list of questions that you find tricky
@@ -61,7 +61,7 @@ features:
 
       Refer to this section time and again, as you move ahead with your practice, to get the best results.
     image:
-      src: ../assets/uploads/review-1-.jpg
+      src: ../assets/uploads/driving-theory-review.jpg
       alt: Driving Theory Untangled review
       title: Driving Theory Untangled review
   - title: "Instantly search questions about a certain word "
@@ -72,7 +72,7 @@ features:
 
       Using the Search feature in Driving Theory Untangled app, you can type a word and you will get a list of questions relevant to that term.
     image:
-      src: ../assets/uploads/search-4-.jpg
+      src: ../assets/uploads/driving-theory-search.jpg
       alt: Driving Theory Untangled search
       title: Driving Theory Untangled search
   - description: |-
@@ -83,7 +83,7 @@ features:
       * ✓ Video case studies according to the latest DVSA test format
     title: And everything else you expect from a Driving Theory test app
     image:
-      src: ../assets/uploads/everything-7-.jpg
+      src: ../assets/uploads/driving-theory-everything-else.jpg
       alt: Driving Theory Untangled mock tests
       title: Driving Theory Untangled mock tests
 cta:

@@ -4,7 +4,7 @@ title: Life in the UK Untangled 2022
 description: The best-selling Life in the UK test app in the App Store. A 1000 practice questions from the official handbook, unlimited mock tests & exclusive features.
 permalink: lituk/
 icon:
-  src: ../assets/uploads/adi-1.png
+  src: ../assets/uploads/life-in-the-uk-logo.png
   alt: Life in the UK Untangled logo
   title: Life in the UK Untangled logo
 color: "#325288"
@@ -21,7 +21,7 @@ banner:
 
     ✓    £3.99 only. Install Now!
   image:
-    src: ../assets/uploads/heading-2-.png
+    src: ../assets/uploads/life-in-the-uk-complete.png
     alt: Life in the UK Untangled screenshot
     title: Life in the UK Untangled screenshot
 features:
@@ -35,7 +35,7 @@ features:
 
       And if you have already read the book then why not give some mock tests and gain more confidence.
     image:
-      src: ../assets/uploads/practice.jpg
+      src: ../assets/uploads/life-in-the-uk-practice.jpg
       alt: Life in the UK Untangled content
       title: Life in the UK Untangled content
   - title: Review section for last-minute preparation
@@ -48,7 +48,7 @@ features:
 
       Refer to this section time and again, as you move ahead with your practice, to get the best results.
     image:
-      src: ../assets/uploads/revise.jpg
+      src: ../assets/uploads/life-in-the-uk-review.jpg
       alt: Life in the UK Untangled revision
       title: Life in the UK Untangled revision
   - title: Instantly search for a word or a phrase
@@ -56,7 +56,7 @@ features:
       or "What was UK's population in 2010?" Just type in a word or a phrase in
       the search bar and get a list of questions that match.
     image:
-      src: ../assets/uploads/search.jpg
+      src: ../assets/uploads/life-in-the-uk-search.jpg
       alt: Life in the UK Untangled search
       title: Life in the UK Untangled search
   - title: When the rings close, you are ready
@@ -65,7 +65,7 @@ features:
       tests.  This makes things simple - Install the app, close the rings, pass
       your Life in the UK test.
     image:
-      src: ../assets/uploads/rings-2.jpg
+      src: ../assets/uploads/life-in-the-uk-rings.jpg
       alt: Life in the UK Untangled ready
       title: Life in the UK Untangled ready
   - title: And everything else you expect from a Life in the UK test preparation app
@@ -77,7 +77,7 @@ features:
 
         ✓    Exclusive features to make your learning easier and faster
     image:
-      src: ../assets/uploads/everything-else.jpg
+      src: ../assets/uploads/life-in-the-uk-everything-else.jpg
       alt: Life in the UK Untangled complete
       title: Life in the UK Untangled complete
 cta:

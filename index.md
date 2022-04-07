@@ -29,7 +29,7 @@ texts:
 
       **Half of Dripl is a consultancy.** We advise clients on adopting Lean Startup principles in the enterprise. This helps us fund the un-startup, but we are also very good at this.
     image:
-      src: assets/uploads/pic02.jpg
+      src: assets/uploads/ali-and-ainy.jpg
       alt: Ainy & Ali
       title: Ainy & Ali
   - title: Un-startup
@@ -46,7 +46,7 @@ texts:
 
       We are dogfooding the engine to build an app for the Life in the UK test. This will be followed by more test-preparation apps until we feel we have something reproducible. At this point, we might launch the engine as a **no-code solution for building test-preparation apps.**
     image:
-      src: assets/uploads/undraw_creative_draft_vb5x-2.svg
+      src: assets/uploads/unstartup.svg
       alt: Un-startup
       title: Un-startup
   - title: Consultancy
@@ -58,7 +58,7 @@ texts:
 
       If you like the planning, strategy, and execution for the un-startup, **we can help you do the same** for your product or business. [Please reach out  ](mailto:hello@dripl.co.uk) and we will be happy to discuss if we can help you and how.
     image:
-      src: assets/uploads/undraw_mind_map_re_nlb6.svg
+      src: assets/uploads/consultancy.svg
       alt: Consultancy
       title: Consultancy
 products:
@@ -73,7 +73,7 @@ products:
       ✓ Unlimited Mock Tests
     link: /lituk/
     icon:
-      src: assets/uploads/adi-1.png
+      src: assets/uploads/life-in-the-uk-logo.png
       alt: Life in the UK Untangled logo
       title: Life in the UK Untangled logo
   - title: Driving Theory Untangled
@@ -85,21 +85,9 @@ products:
       ✓  Exclusive features
     link: /car/
     icon:
-      src: assets/uploads/car.jpg
+      src: assets/uploads/driving-theory-logo.jpg
       alt: Driving Theory Untangled logo
       title: Driving Theory Untangled logo
-  - title: ADI Theory Untangled
-    description: |-
-      ✓  DVSA licensed Content
-
-      ✓  Smart HazardGuide
-
-      ✓  Exclusive features
-    link: /adi/
-    icon:
-      src: assets/uploads/adi-1.jpg
-      alt: ADI Theory Untangled logo
-      title: ADI Theory Untangled logo
 layout: default
 cta:
   title: We are building in public
