@@ -13,7 +13,7 @@ banner:
   title: "Privacy Policy"
   subtitle: For all Untangled apps developed by Dripl
   image:
-    src: /assets/uploads/frame-15-1-.png
+    src: /assets/uploads/balloon.png
     alt: Dripl header
     title: Dripl header
 cta:

@@ -13,7 +13,7 @@ banner:
   title: "Building things that users need"
   subtitle: I was asked by [public.digital](http://public.digital) to talk about my work. The following document lays out the (transient) state of my opinions on some of the things that I care about like Agile and Lean Product development.
   image:
-    src: /assets/uploads/frame-15-1-.png
+    src: /assets/uploads/balloon.png
     alt: Dripl header
     title: Dripl header
 cta:

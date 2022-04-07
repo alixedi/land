@@ -13,7 +13,7 @@ banner:
   title: "Productivity is a signal"
   subtitle: A simple, minimal, effective system for productivity & mental health that requires nothing more than a Google calendar
   image:
-    src: /assets/uploads/frame-15-1-.png
+    src: /assets/uploads/balloon.png
     alt: Dripl header
     title: Dripl header
 cta:

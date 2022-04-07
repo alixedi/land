@@ -13,7 +13,7 @@ banner:
   title: "Terms & Conditions"
   subtitle: For all Untangled apps developed by Dripl for Android & iOS
   image:
-    src: /assets/uploads/frame-15-1-.png
+    src: /assets/uploads/balloon.png
     alt: Dripl header
     title: Dripl header
 cta:

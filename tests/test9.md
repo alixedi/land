@@ -12,7 +12,7 @@ banner:
   title: Free Life in the UK practice test 9
   subtitle: Answer at least 18 out of 24 questions correctly in 45 minutes to pass.
   image:
-    src: /assets/uploads/frame-15-1-.png
+    src: /assets/uploads/balloon.png
     alt: Dripl header
     title: Dripl header
 questions:

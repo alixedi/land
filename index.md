@@ -13,7 +13,7 @@ banner:
   subtitle: BY [<u>AINY</u>](https://twitter.com/ainyxedi) &
     [<u>ALI</u>](https://twitter.com/alixedi)
   image:
-    src: assets/uploads/frame-15-1-.png
+    src: assets/uploads/balloon.png
     alt: Dripl header
     title: Dripl header
 texts:
@@ -64,7 +64,7 @@ texts:
 products:
   - title: Life in the UK Untangled
     description: |-
-      
+
 
       ✓ 1000 Questions
 
