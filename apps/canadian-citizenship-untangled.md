@@ -65,8 +65,13 @@ features:
       src: ../assets/uploads/life-in-the-uk-search.jpg
       alt: Canadian Citizenship Untangled search
       title: Canadian Citizenship Untangled search
-  - title: "Cheat Sheets for "
-    description: In ur app, we use several scientific ways to help you learn more and
+  - title: Cheat Sheets to feed your visual memory
+    description: >-
+      In ur app, we use several scientific ways to help you learn more and
+      retain the flood of information that you have gained. 
+
+
+      Our carefully designed cheat sheets can be used as a quick reference
     image:
       src: ../assets/uploads/life-in-the-uk-everything-else.jpg
       alt: Life in the UK Untangled complete
