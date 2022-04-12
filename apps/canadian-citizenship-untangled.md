@@ -9,15 +9,15 @@ icon:
   src: ../assets/uploads/adi-1-5-.png
   alt: Canadian Citizenship Untangled logo
   title: Canadian Citizenship Untangled logo
-color: "#1a396e"
+color: "#e06d06"
 appstore: https://apps.apple.com/uz/app/canadian-citizenship-untangled/id1599925558?platform=iphone&fbclid=IwAR01ka3L9BRzWanNZ0ASpgcNiULE1piW2D7TGIE_EN3JgB1Bj6p0ilu8brY
 playstore: https://play.google.com/store/apps/details?id=com.dripl.canada&ah=gYOQ73dOAg2vTYkElmC6FJ7IxRo&fbclid=IwAR1JW7f8TXCEItb75YYCoEXz-QqcCe_vTDftucLFQFIQo9rrTCND7vX8fSY
 banner:
   title: Pass your **Canadian Citizenship Test** by practising for *JUST 7 days*
   subtitle: |-
-    ✓    Based on the Official Book *Discover Canada*
+    
 
-    ✓   1600 plus Questions for Practice
+    ✓   600 plus  Practice Questions from Discover Canada
 
     ✓    Unlimited Mock Tests
 
