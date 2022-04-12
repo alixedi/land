@@ -27,15 +27,8 @@ banner:
     alt: Canadian Citizenship Untangled screenshot
     title: Canadian Citizenship Untangled screenshot
 features:
-  - title: Don't Spend Long Hours Reading the Book
-    description: >-
-      The questions in the Life in the UK app covers the entire content of Life
-      in the UK official Handbook. So you don't have to read the book.
-      Practising from this app can guarantee that you will pass your Life in the
-      UK Test.
-
-
-      And if you have already read the book then why not give some mock tests and gain more confidence.
+  - title: 100% Pass Rate
+    description: ",.jhkugj"
     image:
       src: ../assets/uploads/life-in-the-uk-practice.jpg
       alt: Life in the UK Untangled content
