@@ -15,7 +15,7 @@ playstore: https://play.google.com/store/apps/details?id=com.dripl.canada&ah=gYO
 banner:
   title: Pass your **Canadian Citizenship Test** by practising for *JUST 7 days*
   subtitle: |-
-    
+    ✓   100% Pass Rate
 
     ✓   600 plus  Practice Questions from Discover Canada
 
@@ -27,50 +27,46 @@ banner:
     alt: Canadian Citizenship Untangled screenshot
     title: Canadian Citizenship Untangled screenshot
 features:
-  - title: 100% Pass Rate
-    description: ",.jhkugj"
+  - title: 100% Pass Results
+    description: Our lovely users who practice from our app gave us full marks.
+      Which means they were able to pass their Canadian Citizenship test in
+      first attempt. Check our reviews section to see the awesome feedback they
+      gave to our app.
     image:
       src: ../assets/uploads/life-in-the-uk-practice.jpg
-      alt: Life in the UK Untangled content
-      title: Life in the UK Untangled content
-  - title: Review section for last-minute preparation
-    description: >-
-      The day before your real test, would it not be neat if you could revise
-      all the questions that you find hard to remember while practising? The
-      Review feature keeps track of all the questions you find tricky and stores
-      them in a handy list for revision.
-
-
-      Refer to this section time and again, as you move ahead with your practice, to get the best results.
-    image:
-      src: ../assets/uploads/life-in-the-uk-review.jpg
-      alt: Life in the UK Untangled revision
-      title: Life in the UK Untangled revision
-  - title: Instantly search for a word or a phrase
-    description: No more "Was Bloody Mary and Mary Queen of Scots the same person?"
-      or "What was UK's population in 2010?" Just type in a word or a phrase in
-      the search bar and get a list of questions that match.
-    image:
-      src: ../assets/uploads/life-in-the-uk-search.jpg
-      alt: Life in the UK Untangled search
-      title: Life in the UK Untangled search
-  - title: When the rings close, you are ready
-    description: The Life in the UK Untangled app will track your progress in form
-      of rings. The rings move as you learn new chapters and pass mock
-      tests.  This makes things simple - Install the app, close the rings, pass
-      your Life in the UK test.
+      alt: Canadian Citizenship Untangled content
+      title: Canadian Citizenship Untangled content
+  - title: When the rings close, you are ready to roll!
+    description: The Canadian Citizenship Untangled app will track your progress in
+      form of rings. The rings move as you learn new chapters and pass mock
+      tests.  Once you close the rings, it means you are  ready to give the
+      test.
     image:
       src: ../assets/uploads/life-in-the-uk-rings.jpg
-      alt: Life in the UK Untangled ready
-      title: Life in the UK Untangled ready
-  - title: And everything else you expect from a Life in the UK test preparation app
+      alt: Canadian Citizenship Untangled ready
+      title: Canadian Citizenship Untangled ready
+  - title: Review section for last-minute preparation
+    description: The Review feature keeps track of all the questions you find tricky
+      and stores them in a handy list for revision. This way, as your test date
+      approaches, you can just go to Review section and go through the list of
+      challenging questions.
+    image:
+      src: ../assets/uploads/life-in-the-uk-review.jpg
+      alt: Canadian Citizenship Untangled revision
+      title: Canadian Citizenship Untangled revision
+  - title: Search for a word or a phrase in no time
     description: >-
-      * ✓   1000 questions and easy explanations, all prepared from the official
-      handbook
+      When you wish to find a certain question and you can't remember which
+      chapter you should look in. We have a solution!
 
-      * ✓    Mock Tests to give you a taste of the real test. Attempt as many as you can
 
-        ✓    Exclusive features to make your learning easier and faster
+      Go to the Search section, type in a word or a phrase in the search bar and get a list of questions that matches your search.
+    image:
+      src: ../assets/uploads/life-in-the-uk-search.jpg
+      alt: Canadian Citizenship Untangled search
+      title: Canadian Citizenship Untangled search
+  - title: "Cheat Sheets for "
+    description: In ur app, we use several scientific ways to help you learn more and
     image:
       src: ../assets/uploads/life-in-the-uk-everything-else.jpg
       alt: Life in the UK Untangled complete
