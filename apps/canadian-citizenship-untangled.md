@@ -1,29 +1,31 @@
 ---
 layout: app
-title: Life in the UK Untangled 2022
-description: The best-selling Life in the UK test app in the App Store. A 1000 practice questions from the official handbook, unlimited mock tests & exclusive features.
+title: Canadian Citizenship Untangled 2022
+description: "Everything you need to know to pass Canadian Citizenship Test.
+  More than 600 questions from Discover Canada. Unlimited mock tests.100% Pass
+  rate. "
 permalink: canadian-citizenship-untangled/
 icon:
-  src: ../assets/uploads/life-in-the-uk-logo.png
-  alt: Life in the UK Untangled logo
-  title: Life in the UK Untangled logo
-color: "#325288"
-appstore: https://apps.apple.com/us/app/life-in-the-uk-untangled/id1512489096
-playstore: https://play.google.com/store/apps/details?id=com.dripl.lituk
+  src: ../assets/uploads/adi-1-5-.png
+  alt: Canadian Citizenship Untangled logo
+  title: Canadian Citizenship Untangled logo
+color: "#1a396e"
+appstore: https://apps.apple.com/uz/app/canadian-citizenship-untangled/id1599925558?platform=iphone&fbclid=IwAR01ka3L9BRzWanNZ0ASpgcNiULE1piW2D7TGIE_EN3JgB1Bj6p0ilu8brY
+playstore: https://play.google.com/store/apps/details?id=com.dripl.canada&ah=gYOQ73dOAg2vTYkElmC6FJ7IxRo&fbclid=IwAR1JW7f8TXCEItb75YYCoEXz-QqcCe_vTDftucLFQFIQo9rrTCND7vX8fSY
 banner:
-  title: Pass your **Life in the UK Test** *without* reading the Book
+  title: Pass your **Canadian Citizenship Test** by practising for *JUST 7 days*
   subtitle: |-
-    ✓     Based on the official Book
+    ✓    Based on the Official Book *Discover Canada*
 
-    ✓   1000 Questions for Practice
+    ✓   1600 plus Questions for Practice
 
     ✓    Unlimited Mock Tests
 
-    ✓    £3.99 only. Install Now!
+    ✓    Install Now!
   image:
     src: ../assets/uploads/life-in-the-uk-complete.png
-    alt: Life in the UK Untangled screenshot
-    title: Life in the UK Untangled screenshot
+    alt: Canadian Citizenship Untangled screenshot
+    title: Canadian Citizenship Untangled screenshot
 features:
   - title: Don't Spend Long Hours Reading the Book
     description: >-
@@ -82,64 +84,71 @@ features:
       title: Life in the UK Untangled complete
 cta:
   title: Download Now
-  subtitle: Pass Life in the UK Test without reading the book!
+  subtitle: Pass Canadian Citizenship Test by practising for *JUST 7 days*
 reviews:
   items:
-    - name: zeddab
-      text: There are so many questions in this app that you'll go the exam with
-        complete certainity that you'll pass.
-      stars: " I passed the test! ★★★★★"
-    - name: EmlynC
-      text: >-
-        It's a well thout out app that gets straight to the point of earning
-        about the UK and quizzing your knowledge.
-
-
-        I love that it keeps coming back to questions you got wrong so that you can learn from it.
-      stars: Refreshingly straighforward ★★★★★
-    - name: 9 Gager
-      text: >-
-        There wouldn't be a simpler app than this for Life in UK tests. No
-        signups required, no clutter of advertisements, no activation or
-        personal information is asked.
-
-
-        It has simple Q& A layout. Explanations to Answers particularly helped me learn more about the subject.
-
-
-        God for users at any knowledge level.
-      stars: Simple & well thought out.  ★★★★★
-    - name: user20382173
-      text: |-
-
-
-        Tried many apps, but this one is value for money.
-      stars: So easy to use!  ★★★★★
-    - name: holdenweb
-      text: >-
-
-
-        The app repeats questions to drive the learning home, and is very simple to use.
-      stars: Excellent quizzes. ★★★★★
-    - name: DoubleDouble87
-      text: |-
-
-
-        Fantastic app...just need landscape mode for iPad.
-      stars: Top  ★★★★★
+    - name: Pardesizzz
+      text: Mock Tests are awesome After reading Discover Canada, I needed to do some
+        practice tests. This app has unlimited tests. I attempted a few every
+        time I had time and it gave me confidence. I will definitely recommend
+        this app.
+      stars: Great test help ★★★★★
+    - name: Sanjay Kumar
+      text: So simple and easy to use. I'm impressed with how easy the app works. It
+        shows a circle that moves every time I finish a chapter or pass a test.
+        It was a great feeling when I finally completed the whole circle.
+      stars: SK001876 ★★★★★
+    - name: "Juangaboco "
+      text: Una aplicación muy util e informativa.
+      stars: Muy buena ayuda  ★★★★★
+    - name: VivekToronto
+      text: Passed after practicing for 2 weeks I found reading from Discover Canada
+        quite hard and I kept forgetting the dates. Your app has a really nice
+        way of helping memorize dates and events. I had no plans to prepare from
+        anything else except Discover Canada but my roommate referred this app
+        and Im so grateful that she did. I passed my test after practicing 2
+        hours everyday for 2 weeks.
+      stars: Awesome app  ★★★★★
+    - name: angelica p lopez
+      text: Esta app es una excelente alternativa para estudiar y memorizar todo lo
+        relacionado al Examen de ciudadanía canadiense.
+      stars: Una de las mejores aplicaciones que he probado ★★★★★
+    - name: Rachna Kumari
+      text: So many questions to practice from. I have not found this many practice
+        questions any any other app that I used before this one. Also there are
+        unlimited tests. So when I finished my practice, all I did was practice
+        my timing with these mock tests. On test day I was feeling very
+        confident and found the test quite easy.
+      stars: RK64577  ★★★★★
+    - stars: Sabikaraaz  ★★★★★
+      name: Sabika Raza
+      text: Great App, This app has 600 plus questions and covers everything.
+    - text: Muy buena aplicación para entender y aprender cómo es un examen de la
+        ciudadanía canadiense , el sueño que muchos queremos cumplir.
+      name: carlos a puerto
+      stars: Excelente herramienta !! ★★★★★
+    - stars: Faizan Hasan ★★★★★
+      name: Faizan Jafry
+      text: I Passed! Thank you for the great app. I used only your app and had a good
+        time practicing.
+    - stars: Excellent  ★★★★★
+      text: Excellent app for practice the citizenship test.
+      name: "Mattcolombia "
   title: Read what our users are saying
 faqs:
-  - title: Why should I buy the Life in the UK Untangled app instead of the official
-      Handbook?
+  - title: Why should I buy Canadian Citizenship Untangled app instead of the
+      official Handbook?
     text: >-
-      While keeping the content accurate, we provide a much better way to
-      practice for the Life in the UK Test. While practice, you are required to
-      answer multiple-choice questions. If you are not sure of the answers, you
-      can always tap the help button and you will see the correct answer along
-      with their explanations.
+      Canadian Citizenship Untangled has carefully curated 600 plus practice
+      questions, straight from *Discover Canada* handbook. While keeping the
+      content accurate, Canadian Citizenship Untangled app provides a much
+      better way to practice for the Canadian Citizenship test. In the Practice
+      mode, you are required to answer multiple-choice questions. If you are not
+      sure of the answers, you can always tap the help button and you will see
+      the correct answer along with their explanations.
 
 
-      In addition to practice, the Life in the UK Untangled app has exclusive features that are designed to help you over the line. For example - instant search, smart revision and a universal progress tracker.
+      In addition to practice, the Canadian Citizenship Untangled app has exclusive features that are designed to help you with your learning and practice. For example - instant search, smart revision, universal progress tracker and above all illustrated cheat sheets you help you remember the maximum information.
   - text: Don’t worry. Our experts have made sure that they cover the entire book
       without leaving any fact behind. If your practice is 100%, there won’t be
       a single question that you can’t answer.
@@ -246,7 +255,7 @@ faqs:
       [here](https://www.gov.uk/life-in-the-uk-test)
     title: Can I give my Life iin the UK Test Online?
   - text: >-
-
+      
 
       Yes. Life in the UK test centres are open and continue to conduct tests with social distancing measures in place.
     title: Are life in the UK Tests taking place during National lockdown?
