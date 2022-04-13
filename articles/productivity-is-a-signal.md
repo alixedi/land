@@ -51,7 +51,7 @@ I have come to strongly disagree with this approach - to an extent that I think 
 
 Perhaps less importantly in this case, it’s not sustainable. Depending on the number of days since my last holidays, I can last between a week to a month before burning out.
 
-About 1 year back, I started working on [Dripl](dripl.co.uk). The idea was to build a sustainable internet business funded by consulting gigs. Things got out of hand pretty quickly. I found myself drowned in my work until I couldn’t go on anymore. This happened several times. Each time, I had to take a break to recover. At some point I took a step back to try to figure out a better way.
+About 1 year back, I started working on [Dripl](https://dripl.co.uk). The idea was to build a sustainable internet business funded by consulting gigs. Things got out of hand pretty quickly. I found myself drowned in my work until I couldn’t go on anymore. This happened several times. Each time, I had to take a break to recover. At some point I took a step back to try to figure out a better way.
 
 Turns out there's a better way - It's simple, minimal, effective and requires nothing more than a Google calendar. I have been using this system for 6 months now. I am more productive than ever and I don’t pay for my productivity with my mental health.
 
