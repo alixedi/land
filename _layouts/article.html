@@ -2,6 +2,17 @@
 <html>
     <head>
       {% include head.html %}
+      <style>
+        .gradient {
+          background: linear-gradient(90deg, {{ page.color }} 0%, {{ page.color }}AA 100%);
+        }
+        .rounded {
+          border-radius: 10px;
+        }
+        div.my-text > p {
+          margin-bottom: 2em;
+        }
+      </style>
     </head>
     <body class="leading-normal tracking-normal text-white gradient" style="font-family: 'Source Sans Pro', sans-serif;">
         {% include nav2.html %}
