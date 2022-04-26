@@ -2,6 +2,7 @@
 <html>
     <head>
       {% include head.html %}
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.11.1/tocbot.css">
       <style>
         .gradient {
           background: linear-gradient(90deg, {{ page.color }} 0%, {{ page.color }}AA 100%);
@@ -19,15 +20,37 @@
         {% include hero.html %}
         {% include wave1.html %}
         <section class="bg-white py-8">
-          <div class="container mx-auto m-16">
-            <article class="prose lg:prose-xl mx-auto">
-              {{ content }}
-            </article>
+          <div class="container mx-auto">
+            <div class="flex flex-wrap flex-row">
+              <div class="md:basis-1/4">
+                <div class="sticky top-0 pt-20">
+                  <div class="toc text-slate-700 bg-slate-50 rounded p-8"></div>
+                </div>
+              </div>
+              <div class="md:basis-3/4">
+                <article class="prose max-w-none p-8 text-lg pt-20">
+                  {{ content }}
+                </article>
+              </div>
+            </div>
           </div>
         </section>
 
         {% include wave2.html %}
         {% include cta2.html %}
         {% include footer.html %}
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.11.1/tocbot.min.js"></script>
+        <script>
+          tocbot.init({
+            // Where to render the table of contents.
+            tocSelector: '.toc',
+            // Where to grab the headings to build the table of contents.
+            contentSelector: '.prose',
+            // Which headings to grab inside of the contentSelector element.
+            headingSelector: 'h2, h3',
+            // For headings inside relative or absolute positioned containers within content.
+            hasInnerContainers: true,
+          });
+        </script>
     </body>
 </html>
