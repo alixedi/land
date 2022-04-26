@@ -104,8 +104,8 @@ footer:
         link: https://twitter.com/alixedi
   - title: Company
     items:
-      - name: Blog
-        link: https://www.notion.so/dripluk/How-to-Unstartup-4f4ea12d2c8b4e97be3fce5667a08d17
+      - name: Life in the UK - Complete guide & free practice tests
+        link: /life-in-the-uk-test
       - name: About
         link: "#"
       - name: Contact
