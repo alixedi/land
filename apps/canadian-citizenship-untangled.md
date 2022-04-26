@@ -5,7 +5,6 @@ description: "Everything you need to know to pass Canadian Citizenship Test.
   More than 600 questions from Discover Canada. Unlimited mock tests.100% Pass
   rate. "
 permalink: canadian-citizenship-untangled/
-published: false
 icon:
   src: ../assets/uploads/adi-1-5-.png
   alt: Canadian Citizenship Untangled logo
@@ -27,6 +26,7 @@ banner:
     src: ../assets/uploads/life-in-the-uk-complete.png
     alt: Canadian Citizenship Untangled screenshot
     title: Canadian Citizenship Untangled screenshot
+published: false
 features:
   - title: 100% Pass Results
     description: Our lovely users who practice from our app gave us full marks.
@@ -39,18 +39,37 @@ features:
       title: Canadian Citizenship Untangled content
   - title: When the rings close, you are ready to roll!
     description: The Canadian Citizenship Untangled app will track your progress in
-      form of rings. The rings move as you learn new chapters and pass mock
-      tests.  Once you close the rings, it means you are  ready to give the
-      test.
+      form of rings. The green ring move as you finish practising each chapter
+      and the red ring moves every time you pass a mock test.  Once you close
+      the rings, it means you are  ready to give the test.
     image:
       src: ../assets/uploads/life-in-the-uk-rings.jpg
       alt: Canadian Citizenship Untangled ready
       title: Canadian Citizenship Untangled ready
+  - title: Fact Sheets to feed your visual memory
+    description: >-
+      In our app, we use several scientific ways to help you learn more and
+      retain the flood of information that you have gained. Here you will find
+      timelines, dates, facts, numbers and dates in pleasant and easy to
+      remember formats.
+
+
+      These carefully designed fact sheets can be used as a quick reference just before the test.
+
+
+      And if you are a visual learner, the fact sheets are the best way to start your leaning.
+    image:
+      src: ../assets/uploads/life-in-the-uk-everything-else.jpg
+      alt: Life in the UK Untangled complete
+      title: Life in the UK Untangled complete
   - title: Review section for last-minute preparation
-    description: The Review feature keeps track of all the questions you find tricky
-      and stores them in a handy list for revision. This way, as your test date
-      approaches, you can just go to Review section and go through the list of
-      challenging questions.
+    description: >-
+      The Review feature keeps all the tricky questions, you had dificulty
+      learning, in one place. You can always refer to this section after every
+      practice or after completing the whole practice.
+
+
+      And once your test date approaches, you can just go to Review section and go through the list of challenging questions that you frequently got wrong in the past and practice just those.
     image:
       src: ../assets/uploads/life-in-the-uk-review.jpg
       alt: Canadian Citizenship Untangled revision
@@ -66,17 +85,6 @@ features:
       src: ../assets/uploads/life-in-the-uk-search.jpg
       alt: Canadian Citizenship Untangled search
       title: Canadian Citizenship Untangled search
-  - title: Cheat Sheets to feed your visual memory
-    description: >-
-      In ur app, we use several scientific ways to help you learn more and
-      retain the flood of information that you have gained. 
-
-
-      Our carefully designed cheat sheets can be used as a quick reference
-    image:
-      src: ../assets/uploads/life-in-the-uk-everything-else.jpg
-      alt: Life in the UK Untangled complete
-      title: Life in the UK Untangled complete
 cta:
   title: Download Now
   subtitle: Pass Canadian Citizenship Test by practising for *JUST 7 days*
