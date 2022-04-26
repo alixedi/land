@@ -106,6 +106,10 @@ footer:
     items:
       - name: Life in the UK - Complete guide & free practice tests
         link: /life-in-the-uk-test
+      - name: Building things that users need
+        link: /building-things-that-users-need
+      - name: Productivity is a signal
+        link: /productivity-is-a-signal
       - name: About
         link: "#"
       - name: Contact
