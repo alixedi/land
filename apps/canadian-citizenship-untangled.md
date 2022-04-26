@@ -9,11 +9,11 @@ icon:
   src: ../assets/uploads/adi-1-5-.png
   alt: Canadian Citizenship Untangled logo
   title: Canadian Citizenship Untangled logo
-color: "#a71d31"
+color: "#ca0b26"
 appstore: https://apps.apple.com/uz/app/canadian-citizenship-untangled/id1599925558?platform=iphone&fbclid=IwAR01ka3L9BRzWanNZ0ASpgcNiULE1piW2D7TGIE_EN3JgB1Bj6p0ilu8brY
 playstore: https://play.google.com/store/apps/details?id=com.dripl.canada&ah=gYOQ73dOAg2vTYkElmC6FJ7IxRo&fbclid=IwAR1JW7f8TXCEItb75YYCoEXz-QqcCe_vTDftucLFQFIQo9rrTCND7vX8fSY
 banner:
-  title: Pass your **Canadian Citizenship Test** by practising for *JUST 7 days*
+  title: Pass your **Canadian Citizenship Test** by practising for just *7 days*
   subtitle: |-
     ✓   100% Pass Rate
 
@@ -26,6 +26,7 @@ banner:
     src: ../assets/uploads/life-in-the-uk-complete.png
     alt: Canadian Citizenship Untangled screenshot
     title: Canadian Citizenship Untangled screenshot
+published: false
 features:
   - title: 100% Pass Results
     description: Our lovely users who practice from our app gave us full marks.
