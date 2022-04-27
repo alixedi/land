@@ -9,19 +9,19 @@ icon:
   src: ../assets/uploads/adi-1-6-.png
   alt: Australian Test Untangled logo
   title: Australian Test Untangled logo
-color: "#325288"
+color: "#e3cd33"
 appstore: https://apps.apple.com/us/app/life-in-the-uk-untangled/id1512489096
 playstore: https://play.google.com/store/apps/details?id=com.dripl.lituk
 banner:
-  title: Pass your **Life in the UK Test** *without* reading the Book
+  title: Pass your **Australian Citizen Test.** It takes just 7 days to Prepare**.**
   subtitle: |-
-    ✓     Based on the official Book
+    ✓   300+ Questions from Our Common Bond
 
-    ✓   1000 Questions for Practice
+    ✓    Unlimited realistic Mock Tests
 
-    ✓    Unlimited Mock Tests
+    ✓     Fact Sheets & Timelines
 
-    ✓    £3.99 only. Install Now!
+    ✓    100% Pass rate
   image:
     src: ../assets/uploads/life-in-the-uk-complete.png
     alt: Life in the UK Untangled screenshot
