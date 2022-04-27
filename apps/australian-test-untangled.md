@@ -28,61 +28,63 @@ banner:
     title: Australian Test Untangled screenshot
 published: false
 features:
-  - title: Don't Spend Long Hours Reading the Book
-    description: >-
-      The questions in the Life in the UK app covers the entire content of Life
-      in the UK official Handbook. So you don't have to read the book.
-      Practising from this app can guarantee that you will pass your Life in the
-      UK Test.
-
-
-      And if you have already read the book then why not give some mock tests and gain more confidence.
+  - title: 100% Pass Results
+    description: Our lovely users who practice from our app gave us full marks.
+      Which means they were able to pass their Australian Citizenship test on
+      the first attempt. Check our reviews section to see the awesome feedback
+      they gave to our app.
     image:
       src: ../assets/uploads/life-in-the-uk-practice.jpg
-      alt: Life in the UK Untangled content
-      title: Life in the UK Untangled content
-  - title: Review section for last-minute preparation
-    description: >-
-      The day before your real test, would it not be neat if you could revise
-      all the questions that you find hard to remember while practising? The
-      Review feature keeps track of all the questions you find tricky and stores
-      them in a handy list for revision.
-
-
-      Refer to this section time and again, as you move ahead with your practice, to get the best results.
+      alt: Australian Test Untangled content
+      title: Australian Test Untangled content
+  - title: When the rings close, you are ready to roll!
+    description: The Australian Citizenship Untangled app will track your progress
+      in form of rings. The green ring move as you finish practising each
+      chapter and the red ring moves every time you pass a mock test.  Once you
+      close the rings, it means you are ready to give the test.
     image:
       src: ../assets/uploads/life-in-the-uk-review.jpg
-      alt: Life in the UK Untangled revision
-      title: Life in the UK Untangled revision
-  - title: Instantly search for a word or a phrase
-    description: No more "Was Bloody Mary and Mary Queen of Scots the same person?"
-      or "What was UK's population in 2010?" Just type in a word or a phrase in
-      the search bar and get a list of questions that match.
+      alt: Australian Test Untangled ready
+      title: Australian Test Untangled ready
+  - title: Fact Sheets to feed your visual memory
+    description: >-
+      In our app, we use several scientific ways to help you learn more and
+      retain the flood of information that you have gained. Here you will find
+      timelines, dates, facts, numbers and dates in pleasant and easy to
+      remember formats.
+
+
+      These carefully designed fact sheets can be used as a quick reference just before the test.
+
+
+      And if you are a visual learner, the fact sheets are the best way to start your learning.
     image:
       src: ../assets/uploads/life-in-the-uk-search.jpg
-      alt: Life in the UK Untangled search
-      title: Life in the UK Untangled search
-  - title: When the rings close, you are ready
-    description: The Life in the UK Untangled app will track your progress in form
-      of rings. The rings move as you learn new chapters and pass mock
-      tests.  This makes things simple - Install the app, close the rings, pass
-      your Life in the UK test.
+      alt: Australian Test Untangled Fact Sheets
+      title: Australian Test Untangled Fact Sheets
+  - title: Review section for last-minute preparation
+    description: >-
+      The Review feature keeps all the tricky questions, you had difficulty
+      learning, in one place. You can always refer to this section after every
+      practice or after completing the whole practice.
+
+
+      And once your test date approaches, you can just go to the Review section and go through the list of challenging questions that you frequently got wrong in the past and practice just those.
     image:
       src: ../assets/uploads/life-in-the-uk-rings.jpg
-      alt: Life in the UK Untangled ready
-      title: Life in the UK Untangled ready
-  - title: And everything else you expect from a Life in the UK test preparation app
+      alt: Australian Test Untangled Revision
+      title: Australian Test Untangled Revision
+  - title: Search for a word or a phrase in no time!
     description: >-
-      * ✓   1000 questions and easy explanations, all prepared from the official
-      handbook
+      When you wish to find a certain question and you can't remember which
+      chapter you should look in. We have a solution!
 
-      * ✓    Mock Tests to give you a taste of the real test. Attempt as many as you can
 
-        ✓    Exclusive features to make your learning easier and faster
+      Go to the Search section, type in a word or a phrase in the search bar and get a list of questions that matches your search.
     image:
       src: ../assets/uploads/life-in-the-uk-everything-else.jpg
-      alt: Life in the UK Untangled complete
-      title: Life in the UK Untangled complete
+      alt: Australian Test Untangled Search
+      title: Australian Test Untangled Search
 cta:
   title: Download Now
   subtitle: Pass Life in the UK Test without reading the book!
