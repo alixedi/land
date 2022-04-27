@@ -88,48 +88,34 @@ cta:
   subtitle: Pass Life in the UK Test without reading the book!
 reviews:
   items:
-    - name: zeddab
-      text: There are so many questions in this app that you'll go the exam with
-        complete certainity that you'll pass.
-      stars: " I passed the test! ★★★★★"
-    - name: EmlynC
-      text: >-
-        It's a well thout out app that gets straight to the point of earning
-        about the UK and quizzing your knowledge.
-
-
-        I love that it keeps coming back to questions you got wrong so that you can learn from it.
-      stars: Refreshingly straighforward ★★★★★
-    - name: 9 Gager
-      text: >-
-        There wouldn't be a simpler app than this for Life in UK tests. No
-        signups required, no clutter of advertisements, no activation or
-        personal information is asked.
-
-
-        It has simple Q& A layout. Explanations to Answers particularly helped me learn more about the subject.
-
-
-        God for users at any knowledge level.
-      stars: Simple & well thought out.  ★★★★★
-    - name: user20382173
-      text: |-
-        
-
-        Tried many apps, but this one is value for money.
+    - name: SKumar
+      text: I'm impressed with how easy the app works. It shows a circle that moves
+        every time I finish a chapter or pass a test. It was a great feeling
+        when I finally completed the whole circle.
+      stars: Great App. I passed★★★★★
+    - name: "hiral1801 "
+      text: Very helpful app, appreciated..!!
+      stars: Really good application ★★★★★
+    - name: Mmurtaza
+      text: I found it easy to use and was able to practice prior to the test.
+      stars: Excellent App ★★★★★
+    - name: user250380
+      text: I have not found this many practice questions in any other app that I used
+        before this one. Also there are unlimited tests. So when I finished my
+        practice, all I did was  practice my timing with these mock tests. On
+        test day I was feeling very confident and found the test quite easy.
       stars: So easy to use!  ★★★★★
-    - name: holdenweb
+    - name: Mikael.H
+      text: I PASSED MY TEST TODAY. Before using this app, I tried quite a few other
+        apps but I wasn’t satisfied because their question bank did not cover
+        the whole our common bond book. When I saw this app has 300 plus
+        questions, I immediately installed it and it covers EVERYTHING.
+      stars: Excellent quizzes ★★★★★
+    - name: CreativeBuilder97
       text: >-
         
-
-        The app repeats questions to drive the learning home, and is very simple to use.
-      stars: Excellent quizzes. ★★★★★
-    - name: DoubleDouble87
-      text: |-
-        
-
-        Fantastic app...just need landscape mode for iPad.
-      stars: Top  ★★★★★
+        I had a great time preparing for my test. It has a unique way of measuring the progress. It also tells you when you are ready for the actual test. There are unlimited tests in the exact same manner as the actual test. The best part is that I never once read Discover Canada.
+      stars: I passed today  ★★★★★
   title: Read what our users are saying
 faqs:
   - title: Why should I buy the Australian Test Untangled app instead of the Our
