@@ -10,8 +10,8 @@ icon:
   alt: Australian Test Untangled logo
   title: Australian Test Untangled logo
 color: "#e3cd33"
-appstore: https://apps.apple.com/us/app/life-in-the-uk-untangled/id1512489096
-playstore: https://play.google.com/store/apps/details?id=com.dripl.lituk
+appstore: https://apps.apple.com/ph/app/australian-test-untangled/id1590862077?platform=iphone
+playstore: https://play.google.com/store/apps/details?id=com.dripl.australia&hl=en&gl=US
 banner:
   title: Pass your **Australian Citizen Test.** It takes just 7 days to Prepare**.**
   subtitle: |-
@@ -21,7 +21,7 @@ banner:
 
     ✓     Fact Sheets & Timelines
 
-    ✓    100% Pass rate
+    ✓    100% Pass rate. Install Now!
   image:
     src: ../assets/uploads/life-in-the-uk-complete.png
     alt: Life in the UK Untangled screenshot
