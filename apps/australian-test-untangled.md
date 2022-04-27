@@ -1,15 +1,14 @@
 ---
 layout: app
 title: Australian Test Untangled
-description: The best-selling Life in the UK test app in the App Store. A 1000
-  practice questions from the official handbook, unlimited mock tests &
-  exclusive features.
+description: "Everything you need to know to pass Australian Citizenship Test.
+  More than 300 questions from Our Common Bond. Unlimited mock tests.100% Pass
+  rate. "
 permalink: australian-test-untangled/
-published: false
 icon:
-  src: ../assets/uploads/life-in-the-uk-logo.png
-  alt: Life in the UK Untangled logo
-  title: Life in the UK Untangled logo
+  src: ../assets/uploads/adi-1-6-.png
+  alt: Australian Test Untangled logo
+  title: Australian Test Untangled logo
 color: "#325288"
 appstore: https://apps.apple.com/us/app/life-in-the-uk-untangled/id1512489096
 playstore: https://play.google.com/store/apps/details?id=com.dripl.lituk
@@ -27,6 +26,7 @@ banner:
     src: ../assets/uploads/life-in-the-uk-complete.png
     alt: Life in the UK Untangled screenshot
     title: Life in the UK Untangled screenshot
+published: false
 features:
   - title: Don't Spend Long Hours Reading the Book
     description: >-
