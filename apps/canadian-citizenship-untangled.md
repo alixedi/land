@@ -57,19 +57,19 @@ features:
       These carefully designed fact sheets can be used as a quick reference just before the test.
 
 
-      And if you are a visual learner, the fact sheets are the best way to start your leaning.
+      And if you are a visual learner, the fact sheets are the best way to start your learning.
     image:
       src: ../assets/uploads/life-in-the-uk-everything-else.jpg
-      alt: Life in the UK Untangled complete
-      title: Life in the UK Untangled complete
-  - title: Review section for last-minute preparation
+      alt: Canadian Citizenship Untangled Fact Sheets
+      title: Canadian Citizenship Untangled Fact Sheets
+  - title: Review section for last-minute prep
     description: >-
-      The Review feature keeps all the tricky questions, you had dificulty
+      The Review feature keeps all the tricky questions, you had difficulty
       learning, in one place. You can always refer to this section after every
       practice or after completing the whole practice.
 
 
-      And once your test date approaches, you can just go to Review section and go through the list of challenging questions that you frequently got wrong in the past and practice just those.
+      And once your test date approaches, you can just go to the Review section and go through the list of challenging questions that you frequently got wrong in the past and practice just those.
     image:
       src: ../assets/uploads/life-in-the-uk-review.jpg
       alt: Canadian Citizenship Untangled revision
