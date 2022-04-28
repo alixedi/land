@@ -1,30 +1,32 @@
 ---
 layout: app
-title: Life in the UK Untangled 2022
-description: The best-selling Life in the UK test app in the App Store. A 1000 practice questions from the official handbook, unlimited mock tests & exclusive features.
+title: US Citizenship Untangled 2022
+description: The best-selling US Citizenship test app in the App Store. All 100
+  practice questions for the naturalization civics test, unlimited mock tests &
+  exclusive features.
 permalink: us-citizenship-untangled/
-published: false
 icon:
   src: ../assets/uploads/life-in-the-uk-logo.png
-  alt: Life in the UK Untangled logo
-  title: Life in the UK Untangled logo
-color: "#325288"
-appstore: https://apps.apple.com/us/app/life-in-the-uk-untangled/id1512489096
-playstore: https://play.google.com/store/apps/details?id=com.dripl.lituk
+  alt: US Citizenship Untangled logo
+  title: US Citizenship Untangled logo
+color: "#f09704"
+appstore: https://apps.apple.com/gb/app/us-citizenship-untangled/id1588277614?platform=iphone
+playstore: https://play.google.com/store/apps/details?id=com.alixedi.uscis&hl=en_GB&gl=US
 banner:
-  title: Pass your **Life in the UK Test** *without* reading the Book
+  title: Ace your US Citizenship interview
   subtitle: |-
-    ✓     Based on the official Book
-
-    ✓   1000 Questions for Practice
+    ✓   100 Questions from Civics Test version 2008
 
     ✓    Unlimited Mock Tests
 
-    ✓    £3.99 only. Install Now!
+    ✓    100% Pass rate
+
+    ✓     Install Now!
   image:
     src: ../assets/uploads/life-in-the-uk-complete.png
-    alt: Life in the UK Untangled screenshot
-    title: Life in the UK Untangled screenshot
+    alt: US Citizenship Untangled screenshot
+    title: US Citizenship Untangled screenshot
+published: false
 features:
   - title: Don't Spend Long Hours Reading the Book
     description: >-
@@ -112,19 +114,19 @@ reviews:
       stars: Simple & well thought out.  ★★★★★
     - name: user20382173
       text: |-
-
+        
 
         Tried many apps, but this one is value for money.
       stars: So easy to use!  ★★★★★
     - name: holdenweb
       text: >-
-
+        
 
         The app repeats questions to drive the learning home, and is very simple to use.
       stars: Excellent quizzes. ★★★★★
     - name: DoubleDouble87
       text: |-
-
+        
 
         Fantastic app...just need landscape mode for iPad.
       stars: Top  ★★★★★
@@ -247,7 +249,7 @@ faqs:
       [here](https://www.gov.uk/life-in-the-uk-test)
     title: Can I give my Life iin the UK Test Online?
   - text: >-
-
+      
 
       Yes. Life in the UK test centres are open and continue to conduct tests with social distancing measures in place.
     title: Are life in the UK Tests taking place during National lockdown?
