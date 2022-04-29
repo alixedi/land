@@ -82,48 +82,28 @@ cta:
   subtitle: Pass Life in the UK Test without reading the book!
 reviews:
   items:
-    - name: zeddab
-      text: There are so many questions in this app that you'll go the exam with
-        complete certainity that you'll pass.
-      stars: " I passed the test! ★★★★★"
-    - name: EmlynC
-      text: >-
-        It's a well thout out app that gets straight to the point of earning
-        about the UK and quizzing your knowledge.
-
-
-        I love that it keeps coming back to questions you got wrong so that you can learn from it.
+    - name: JCole
+      text: The layout of your app is so simple and straightforward that it took me
+        just 2 days to perfect all 100 questions. Giving mock tests was fun too.
+      stars: simple & beautiful ★★★★★
+    - name: Emilyatthegate
+      text: It has all good features. It helped me learn the facts quickly
       stars: Refreshingly straighforward ★★★★★
-    - name: 9 Gager
-      text: >-
-        There wouldn't be a simpler app than this for Life in UK tests. No
-        signups required, no clutter of advertisements, no activation or
-        personal information is asked.
-
-
-        It has simple Q& A layout. Explanations to Answers particularly helped me learn more about the subject.
-
-
-        God for users at any knowledge level.
-      stars: Simple & well thought out.  ★★★★★
-    - name: user20382173
-      text: |-
-        
-
-        Tried many apps, but this one is value for money.
-      stars: So easy to use!  ★★★★★
-    - name: holdenweb
-      text: >-
-        
-
-        The app repeats questions to drive the learning home, and is very simple to use.
-      stars: Excellent quizzes. ★★★★★
-    - name: DoubleDouble87
-      text: |-
-        
-
-        Fantastic app...just need landscape mode for iPad.
-      stars: Top  ★★★★★
+    - name: 2022win
+      text: I passed. Thank you for the lovely app.
+      stars: Excellent app  ★★★★★
+    - name: user25032022
+      text: Great for practising. I would strongly recommend learning from this app.
+        It helped me remember all the information.
+      stars: Great app ★★★★★
+    - name: Mathias
+      text: Your app was really helpful. I passed today and wanted to give you a good
+        feedback. I was confident while giving the test
+      stars: I passed using only this app ★★★★★
+    - name: Hawkeye
+      text: Fantastic app...I practised for just one day and got all questions correct
+        on the test. Very pleased with myself
+      stars: Fantastic app  ★★★★★
   title: Read what our users are saying
 faqs:
   - title: What is the format of US Civics Test?
@@ -151,7 +131,7 @@ faqs:
 
 
       After attempting each mock test, you can also review your scores which will show you exactly which areas you need to work on.
-    title: Can I prepare for my civics test by just giving Mock Tests?
+    title: Can I prepare for my civics test by just giving mock tests?
   - text: Yes. All 100 questions in US Citizenship Untangled app are in accordance
       with the questions provided by USCIS (US Citizens and Immigration
       Services). All the content in the Life in the UK Untangled app is
@@ -167,7 +147,7 @@ faqs:
   - text: Yes! We have designed the US Citizenship Untangled app to be easy to use.
       Every feature, every detail is meticulously designed to help you pass the
       US civics test.
-    title: Is the Life in the US Citizenship Untangled app easy to use?
+    title: Is the the US Citizenship Untangled app easy to use?
   - text: >-
       No doubt! You can use the Review section in the app to get all the
       questions in place that you get frequently or recently wrong during
@@ -175,7 +155,7 @@ faqs:
 
 
       Also, you can use the Search section in the app to look for any particular word or phrase. This will show you the list of questions that include that particular word or phrase.
-    title: Is the Life in the UK Untangled app useful while doing last-minute
+    title: Is the US Citizenship Untangled app useful while doing last-minute
       preparation?
   - text: >-
       You can use the Review section in the app to get all the questions that
@@ -189,110 +169,31 @@ faqs:
       word or phrase if you cant remember which topic it lies in or if you don't
       want to go through the whole topic.
     title: What does the Search section do?
+  - text: Applicants are given two opportunities to pass the naturalization test. If
+      you fail any part of the naturalization test at your first interview, you
+      will be retested only on the portion of the test that you failed, between
+      60 and 90 days from the date of your initial interview.
+    title: What happens if I fail the test?
   - text: >-
-      Lack of practice is the main cause of failing the test. However,
-      nervousness also plays a very important role while giving the test. Both
-      of these issues can be overcome if you give enough mock tests.
+      If you have a physical or developmental disability or mental impairment
+      that prevents you from demonstrating your knowledge and understanding of
+      the civics requirements for naturalization, you may qualify for an
+      exemption to certain parts of the naturalization test. You must submit an
+      original  N-648 form at the time of filing Form N-400. 
 
 
-      The mock tests in the Life in the UK Untangled app are created in the exact pattern as the real test. These tests have the same time limit as the real test. The number of questions is also the same as that in the real test. You can give as many mock tests as you like. A time will come when you think you are ready for the real test.
-    title: Why do people fail Life in the UK Test?
+      Form N-648 must have been prepared by a licensed medical or osteopathic doctor or licensed clinical psychologist less than six months prior to filing Form N-400.
+    title: Is there a test exemption for physical or mental disability or impairment?
   - text: >-
-      You should expect three kinds of questions in your test.
+      Certain applicants are exempt from the English requirements for
+      naturalization and may take the civics test in the language of their
+      choice. These candidates come under the category of 65/20 Special
+      Consideration.
 
 
-      **1- Multiple Choice Questions**: You will be given several answers to the asked question and you need to mark the correct answer(s).
-
-
-      **2- True or Fale:** You need to mark True or False for the statement given in the question.
-
-
-      **3- Choose the correct answer(s):** You will be given a set of statements and you need to select the true ones.
-    title: What type of questions are asked in the test?
-  - text: Life in the UK Test must be booked online at least 3 days in advance.
-    title: When should I book the test?
-  - text: >-
-      You must have the following before you book your test
-
-
-      * email address
-
-      * debit or credit card
-
-      * an accepted form of ID (this can be your valid passport, Biometric Resident Permit, Biometric Resident Card or any other travel document)
-
-
-      Important: You must take the same ID (the one you used to book your test) to the test centre to prove your identity. You won't be allowed to take the test unless you provide the same ID you used while booking the test.
-    title: What documents do I need to book the Life in the Uk Test?
-  - text: It costs £50.
-    title: How much does the Life in the UK test costs?
-  - text: There is no expiry period. You need to take this test just once in your
-      life.
-    title: What is the expiry period of Life in the UK Test?
-  - text: As you book your test online, you can choose where you want to give the
-      test. There are more than 30 test centres in the UK where you can give the
-      test.
-    title: Do I need to travel to take the test?
-  - text: You can give the test again. And again. However, it will cost you money
-      and time. So prepare from the best source and stay positive.
-    title: What should I do if I fail the test?
-  - text: No. You must go to a test centre to give your Life in the UK test.
-      However, you can book your test
-      [here](https://www.gov.uk/life-in-the-uk-test)
-    title: Can I give my Life iin the UK Test Online?
-  - text: >-
-      
-
-      Yes. Life in the UK test centres are open and continue to conduct tests with social distancing measures in place.
-    title: Are life in the UK Tests taking place during National lockdown?
-  - text: Passing Life in the UK Test is a compulsory requirement if you are
-      applying for British citizenship or settlement (Indefinite Leave to
-      Remain) in the UK.
-    title: Why does one need to take Life in the UK Test?
-  - text: >-
-      Any person between 18 and 65 years of age, applying for indefinite leave
-      to remain (Settlement) or British citizenship, can take the test
-
-
-      You do not need to take the test if you:
-
-
-      * are under 18
-
-      * are 65 or over
-
-      * have passed it before
-
-      * have a long-term physical or mental condition (must be supported by a doctor’s note)
-    title: "  Who cannot take the test?"
-  - text: There is no expiry date of the test so you can take it whenever you think
-      is the right time before you apply for your Settlement or Indefinite Leave
-      to Remain in the UK.
-    title: When can I take Life in the UK Test?
-  - text: >-
-      1- Prood of ID: the same that you used to book the test
-
-
-      2- Proof of residence (must be originals and this cannot be any older than 3 months prior to the date of the test) these can be:
-
-
-      * gas/electricity/water bill
-
-      * a council tax bill
-
-      * bank or credit card statement
-
-      * UK photocard driving license
-
-      * a letter from the Home Office with your name and address on it
-    title: What documents you need to take to the test centre?
+      According to this category If you are 65 years or older and have been a green card holder for 20 or more years, you only need to study the 20 designated test questions.
+    title: What is 65/20 Special Consideration?
 footer:
-  - title: Life in the UK blog posts
-    items:
-      - link: https://ainyxedi.medium.com/pass-life-in-the-uk-test-in-first-attempt-a-complete-guide-53d72882a4ce
-        name: Pass Life in the UK in first Attempt - A Complete Guide
-      - link: https://ainyxedi.medium.com/unusual-ways-to-pass-life-in-the-uk-3c5ceaa87dc7
-        name: Unusual Ways to Pass Life in the UK Test
   - title: Social Media
     items:
       - name: Facebook
