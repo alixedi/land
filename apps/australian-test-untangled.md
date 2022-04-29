@@ -29,9 +29,9 @@ banner:
 published: false
 features:
   - title: 100% Pass Results
-    description: Our lovely users who practice from our app gave us full marks.
+    description: Our awesome users who practice from our app gave us full marks.
       Which means they were able to pass their Australian Citizenship test on
-      the first attempt. Check our reviews section to see the awesome feedback
+      the first attempt. Check our reviews section to see the lovely feedback
       they gave to our app.
     image:
       src: ../assets/uploads/life-in-the-uk-practice.jpg
@@ -137,7 +137,7 @@ faqs:
     title: Am I not taking a risk by not studying from Our Common Bond handbook?
   - text: We think that you can easily prepare for your test in 7 days. If you are
       preparing exclusively. If not, we have a universal progress tracker in the
-      form of rings. YOu can see the rings progressing as youmove on with your
+      form of rings. You can see the rings progressing as you move on with your
       practice. You should book your test when the rings close. Revise while you
       are waiting for the test by giving mock tests.
     title: How long does it take to prep for the Australian citizenship test?
