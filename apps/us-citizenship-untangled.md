@@ -2,11 +2,11 @@
 layout: app
 title: US Citizenship Untangled 2022
 description: The best-selling US Citizenship test app in the App Store. All 100
-  practice questions for the naturalization civics test, unlimited mock tests &
-  exclusive features.
+  practice questions for the 2008 civics test, unlimited mock tests & exclusive
+  features.
 permalink: us-citizenship-untangled/
 icon:
-  src: ../assets/uploads/life-in-the-uk-logo.png
+  src: ../assets/uploads/dripl.png
   alt: US Citizenship Untangled logo
   title: US Citizenship Untangled logo
 color: "#f09704"
@@ -15,7 +15,7 @@ playstore: https://play.google.com/store/apps/details?id=com.alixedi.uscis&hl=en
 banner:
   title: Ace your US Citizenship interview
   subtitle: |-
-    ✓   100 Questions from Civics Test version 2008
+    ✓   All 100 Questions from Civics Test version 2008
 
     ✓    Unlimited Mock Tests
 
@@ -28,61 +28,55 @@ banner:
     title: US Citizenship Untangled screenshot
 published: false
 features:
-  - title: Don't Spend Long Hours Reading the Book
-    description: >-
-      The questions in the Life in the UK app covers the entire content of Life
-      in the UK official Handbook. So you don't have to read the book.
-      Practising from this app can guarantee that you will pass your Life in the
-      UK Test.
-
-
-      And if you have already read the book then why not give some mock tests and gain more confidence.
+  - title: 100% Pass Results
+    description: Our amazing users who practice from our app gave us full marks.
+      Which means they were able to pass their US civics test on the first
+      attempt. Check our reviews section to see the awesome feedback they gave
+      to our app.
     image:
       src: ../assets/uploads/life-in-the-uk-practice.jpg
-      alt: Life in the UK Untangled content
-      title: Life in the UK Untangled content
+      alt: US Citizenship Untangled pass
+      title: US Citizenship Untangled pass
   - title: Review section for last-minute preparation
     description: >-
-      The day before your real test, would it not be neat if you could revise
-      all the questions that you find hard to remember while practising? The
-      Review feature keeps track of all the questions you find tricky and stores
-      them in a handy list for revision.
+      The Review feature keeps all the tricky questions, you had difficulty
+      learning, in one place. You can always refer to this section after every
+      practice or after completing the whole practice.
 
 
-      Refer to this section time and again, as you move ahead with your practice, to get the best results.
+      And once your test date approaches, you can just go to the Review section and go through the list of challenging questions that you frequently got wrong in the past and practice just those.
     image:
       src: ../assets/uploads/life-in-the-uk-review.jpg
-      alt: Life in the UK Untangled revision
-      title: Life in the UK Untangled revision
-  - title: Instantly search for a word or a phrase
-    description: No more "Was Bloody Mary and Mary Queen of Scots the same person?"
-      or "What was UK's population in 2010?" Just type in a word or a phrase in
-      the search bar and get a list of questions that match.
+      alt: US Citizenship Untangled revision
+      title: US Citizenship Untangled revision
+  - title: Search for a word or a phrase in no time!
+    description: >-
+      When you wish to find a certain question and you can't remember which
+      chapter you should look in. We have a solution!
+
+
+      Go to the Search section, type in a word or a phrase in the search bar and get a list of questions that matches your search.
     image:
       src: ../assets/uploads/life-in-the-uk-search.jpg
-      alt: Life in the UK Untangled search
-      title: Life in the UK Untangled search
-  - title: When the rings close, you are ready
-    description: The Life in the UK Untangled app will track your progress in form
-      of rings. The rings move as you learn new chapters and pass mock
-      tests.  This makes things simple - Install the app, close the rings, pass
-      your Life in the UK test.
+      alt: US Citizenship Untangled search
+      title: US Citizenship Untangled search
+  - title: When the rings close, you are ready to roll!
+    description: The Australian Citizenship Untangled app will track your progress
+      in form of rings. The green ring move as you finish practising each
+      chapter and the red ring moves every time you pass a mock test.  Once you
+      close the rings, it means you are ready to give the test.
     image:
       src: ../assets/uploads/life-in-the-uk-rings.jpg
-      alt: Life in the UK Untangled ready
-      title: Life in the UK Untangled ready
-  - title: And everything else you expect from a Life in the UK test preparation app
-    description: >-
-      * ✓   1000 questions and easy explanations, all prepared from the official
-      handbook
-
-      * ✓    Mock Tests to give you a taste of the real test. Attempt as many as you can
-
-        ✓    Exclusive features to make your learning easier and faster
-    image:
-      src: ../assets/uploads/life-in-the-uk-everything-else.jpg
-      alt: Life in the UK Untangled complete
-      title: Life in the UK Untangled complete
+      alt: US Citizenship Untangled ready
+      title: US Citizenship Untangled ready
+  - image:
+      alt: US Citizenship Untangled prepare
+      title: US Citizenship Untangled prepare
+      src: ../assets/uploads/balloon.png
+    title: All 100 Questions from Civics Test from version 2008
+    description: All 100 US Civics Test questions (version 2008) are included in the
+      Practice section. Once you close the green Practice ring means you are all
+      ready to face the UCIS Officer during your naturalization interview
 cta:
   title: Download Now
   subtitle: Pass Life in the UK Test without reading the book!
@@ -132,50 +126,48 @@ reviews:
       stars: Top  ★★★★★
   title: Read what our users are saying
 faqs:
-  - title: Why should I buy the Life in the UK Untangled app instead of the official
-      Handbook?
+  - title: What is the format of US Civics Test?
     text: >-
-      While keeping the content accurate, we provide a much better way to
-      practice for the Life in the UK Test. While practice, you are required to
-      answer multiple-choice questions. If you are not sure of the answers, you
-      can always tap the help button and you will see the correct answer along
-      with their explanations.
+      US Civics test is not a multiple-choice test. During the naturalization
+      interview, a USCIS officer will ask you up to 10 questions from the list
+      of 100 questions in English. You must answer correctly 6 of the 10
+      questions to pass the civics test.
 
 
-      In addition to practice, the Life in the UK Untangled app has exclusive features that are designed to help you over the line. For example - instant search, smart revision and a universal progress tracker.
-  - text: Don’t worry. Our experts have made sure that they cover the entire book
-      without leaving any fact behind. If your practice is 100%, there won’t be
-      a single question that you can’t answer.
-    title: Am I not taking a risk by not studying from the book?
-  - text: Unlike other apps, we do not recommend a personal plan. Instead, we have a
-      universal progress tracker i.e. the rings. You should book your test when
-      the rings close. Revise while you are waiting for the test by giving mock
-      tests.
-    title: How long does it take to prep for the Life in the UK Test test?
+      The 100 civics (history and government) questions and answers for the naturalization test are listed in our Practice section.
+
+
+      On the naturalization test, some answers may change because of elections or appointments. As you study for the test, make sure that you know the most current answers to these questions.
+  - text: We think that you can easily prepare for your test between 3-5 days, if
+      you are preparing exclusively. If not, we have a universal progress
+      tracker in the form of rings. You can see the rings progressing as you
+      move on with your practice. You should book your test when the rings
+      close. Revise while you are waiting for the test by giving mock tests.
+    title: How long does it take to prep for the civics test?
   - text: >-
-      Why Not! You can give unlimited mock tests. These tests are designed on
-      exactly the same pattern as the actual Life in the UK Test. Each test is
-      45 minutes long with 24 questions. You must score 75% (means 18 or more
-      correct answers) to pass the test.
+      Absolutely! You can give unlimited mock tests. The mock tests in US
+      Citizenship Untangled app are timed, so you get a taste of the actual
+      test.
 
 
       After attempting each mock test, you can also review your scores which will show you exactly which areas you need to work on.
-    title: Can I prepare for my Life in the UK test by just giving Mock Tests?
-  - text: Yes. We regularly update our app in accordance with the Official Life in
-      the UK Handbook. All the content in the Life in the UK Untangled app is
+    title: Can I prepare for my civics test by just giving Mock Tests?
+  - text: Yes. All 100 questions in US Citizenship Untangled app are in accordance
+      with the questions provided by USCIS (US Citizens and Immigration
+      Services). All the content in the Life in the UK Untangled app is
       carefully developed by professional experts.
-    title: Does the app have all the updated content?
+    title: Does the US Citizenship Untangled have all the updated content?
   - text: >-
-      Yes! The Life in the UK Untangled app works on the iPad as well as Android
-      Tablets.
+      Yes! The Life in the US Citizenship Untangled app works on the iPad as
+      well as Android Tablets.
 
 
       In addition, we have made certain adjustments so that our users have a pleasant experience with a larger screen.
-    title: Does the Life in the UK Untangled app work on the iPad or Android Tablets?
-  - text: Yes! We have designed the Life in the UK Untangled app to be easy to use.
+    title: Does the US Citizenship Untangled app work on the iPad or Android Tablets?
+  - text: Yes! We have designed the US Citizenship Untangled app to be easy to use.
       Every feature, every detail is meticulously designed to help you pass the
-      Life in the UK test.
-    title: Is the Life in the UK Untangled app easy to use?
+      US civics test.
+    title: Is the Life in the US Citizenship Untangled app easy to use?
   - text: >-
       No doubt! You can use the Review section in the app to get all the
       questions in place that you get frequently or recently wrong during
