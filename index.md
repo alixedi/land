@@ -64,7 +64,7 @@ texts:
 products:
   - title: Life in the UK Untangled
     description: |-
-
+      
 
       ✓ 1000 Questions
 
@@ -88,6 +88,18 @@ products:
       src: assets/uploads/driving-theory-logo.jpg
       alt: Driving Theory Untangled logo
       title: Driving Theory Untangled logo
+  - link: /canadian-citizenship-untangled/
+    icon:
+      src: assets/uploads/adi-1-5-.png
+      alt: Canadian Test Untangled logo
+      title: Canadian Test Untangled logo
+    description: |-
+      ✓ More than 600 questions\
+      ✓ Illustrated explanations\
+      ✓ From: Discover Canada\
+      ✓ Realistic Mock Tests\
+      ✓ Support for Revision
+    title: Canadian Test Untangled
 layout: default
 cta:
   title: We are building in public
