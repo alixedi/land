@@ -108,6 +108,16 @@ products:
       ✓More than 300 questions\
       ✓ Fact-sheets & Timelines\
       ✓ From: Our Common Bond
+  - description: |-
+      ✓ From the official Test Bank\
+      ✓ Unlimited Practice Tests\
+      ✓ More than Just Questions
+    title: US Citizenship Untangled
+    link: /us-citizenship-untangled/
+    icon:
+      alt: US Citizenship Untangled Logo
+      title: US Citizenship Untangled Logo
+      src: assets/uploads/adi-1-6-.png
 layout: default
 cta:
   title: We are building in public
