@@ -118,6 +118,18 @@ products:
       alt: US Citizenship Untangled Logo
       title: US Citizenship Untangled Logo
       src: assets/uploads/whatsapp-image-2022-05-12-at-10.35.33-am.jpeg
+  - title: Life in the UK Untangled
+    description: |-
+      ✓ 1000 Questions
+
+      ✓ Based on the Official Book
+
+      ✓ Unlimited Mock Tests
+    link: /lituk/
+    icon:
+      src: assets/uploads/life-in-the-uk-logo.png
+      alt: Life in the UK Untangled logo
+      title: Life in the UK Untangled logo
 layout: default
 cta:
   title: We are building in public
