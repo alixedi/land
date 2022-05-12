@@ -95,10 +95,8 @@ products:
       title: Canadian Test Untangled logo
     description: |-
       ✓ More than 600 questions\
-      ✓ Illustrated explanations\
       ✓ From: Discover Canada\
-      ✓ Realistic Mock Tests\
-      ✓ Support for Revision
+      ✓ Realistic Mock Tests
     title: Canadian Test Untangled
 layout: default
 cta:
