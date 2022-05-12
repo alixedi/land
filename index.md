@@ -117,7 +117,7 @@ products:
     icon:
       alt: US Citizenship Untangled Logo
       title: US Citizenship Untangled Logo
-      src: assets/uploads/adi-1-6-.png
+      src: assets/uploads/whatsapp-image-2022-05-12-at-10.35.33-am.jpeg
 layout: default
 cta:
   title: We are building in public
