@@ -26,7 +26,7 @@ banner:
     src: ../assets/uploads/life-in-the-uk-complete.png
     alt: US Citizenship Untangled screenshot
     title: US Citizenship Untangled screenshot
-published: false
+published: true
 features:
   - title: 100% Pass Results
     description: Our amazing users who practice from our app gave us full marks.
