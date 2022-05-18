@@ -26,7 +26,7 @@ banner:
     src: ../assets/uploads/life-in-the-uk-complete.png
     alt: Australian Test Untangled screenshot
     title: Australian Test Untangled screenshot
-published: false
+published: true
 features:
   - title: 100% Pass Results
     description: Our awesome users who practice from our app gave us full marks.
